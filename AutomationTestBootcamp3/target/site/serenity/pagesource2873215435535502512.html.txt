@@ -1,0 +1,1642 @@
+<html xmlns="http://www.w3.org/1999/xhtml" ng-app="blibli.angularApp" class="ng-scope"><head><iframe width="1" height="1" src="https://sg-pl-d.vizury.com/analyze/analyze.php?account_id=VIZVRM907&amp;URL=https%3A%2F%2Fwww.blibli.com%2Forder%2Fcheckout&amp;referrer=https%3A%2F%2Fwww.blibli.com%2Fbimoli-klasik-pouch-minyak-goreng-2000-ml-6-pcs-MTA.0883838.htm%3Fds%3DBLC-15022-00547-00001&amp;ts=&amp;fp34=8ce13ed634a21e87a93ab7be11ce225e&amp;param=e400&amp;section=1&amp;level=2&amp;pid1=&amp;pid2=&amp;pid3=&amp;quantity1=&amp;quantity2=&amp;quantity3=&amp;price1=&amp;price2=&amp;price3=&amp;cartval=&amp;cb=viz_5991808f20ba3" scrolling="no" style="display: none;"></iframe><script type="text/javascript" src="https://sg-pl-d.vizury.com/analyze/cookieCallback.php?cb=.blibli.com" async="" style=""></script><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide{display:none !important;}ng\:form{display:block;}.ng-animate-block-transitions{transition:0s all!important;-webkit-transition:0s all!important;}.ng-hide-add-active,.ng-hide-remove{display:block!important;}</style><script type="text/javascript" async="" src="//pagead2.googlesyndication.com/pagead/js/lidar.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/plugins/ua/ec.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/plugins/ua/linkid.js"></script><script type="text/javascript" async="" src="//www.googleadservices.com/pagead/conversion_async.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script src="https://connect.facebook.net/signals/config/515463815273206?v=2.7.19" async=""></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="//static.ads-twitter.com/uwt.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://bam.nr-data.net/1/44c8bccbbf?a=19630941&amp;sa=1&amp;v=1026.7a27a3e&amp;t=Unnamed%20Transaction&amp;rst=1969&amp;ref=https://www.blibli.com/order/checkout&amp;be=248&amp;fe=1820&amp;dc=820&amp;af=err,xhr,stn,ins,spa&amp;perf=%7B%22timing%22:%7B%22of%22:1502707892500,%22n%22:0,%22u%22:212,%22ue%22:219,%22f%22:1,%22dn%22:1,%22dne%22:1,%22c%22:1,%22ce%22:1,%22rq%22:8,%22rp%22:205,%22rpe%22:224,%22dl%22:212,%22di%22:765,%22ds%22:819,%22de%22:882,%22dc%22:1818,%22l%22:1818,%22le%22:1871%7D,%22navigation%22:%7B%7D%7D&amp;jsonp=NREUM.setToken"></script><script src="https://js-agent.newrelic.com/nr-spa-1026.min.js"></script><script type="text/javascript" async="" src="https://cdn6.vizury.com/analyze/pixel.php?account_id=VIZVRM907"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PHC5L2"></script><script type="text/javascript" src="/wcsstore/bwa.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/plugins/ga/inpage_linkid.js" id="undefined"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://blibli.api.sociaplus.com/partner.js"></script><script>
+    var serverTime = new Date(1502707871673);
+    var serverTimeInMs = 1502707871673;
+    var regionPolygonActive= true;
+    var isTransactionOtpActive = false;
+</script>
+<meta content="#fff" name="theme-color" />
+<meta content="Blibli.com" name="application-name" />
+<meta content="#0095da" name="msapplication-navbutton-color" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="Blibli.com" name="apple-mobile-web-app-title" />
+<meta content="#0095da" name="apple-mobile-web-app-status-bar-style" />
+
+<link href="https://www.static-src.com/4.13.0-5/resources/images/favicon/apple-icon-57x57.png" sizes="57x57" rel="apple-touch-icon" />
+<link href="https://www.static-src.com/4.13.0-5/resources/images/favicon/apple-icon-60x60.png" sizes="60x60" rel="apple-touch-icon" />
+<link href="https://www.static-src.com/4.13.0-5/resources/images/favicon/apple-icon-72x72.png" sizes="72x72" rel="apple-touch-icon" />
+<link href="https://www.static-src.com/4.13.0-5/resources/images/favicon/apple-icon-76x76.png" sizes="76x76" rel="apple-touch-icon" />
+<link href="https://www.static-src.com/4.13.0-5/resources/images/favicon/apple-icon-114x114.png" sizes="114x114" rel="apple-touch-icon" />
+<link href="https://www.static-src.com/4.13.0-5/resources/images/favicon/apple-icon-120x120.png" sizes="120x120" rel="apple-touch-icon" />
+<link href="https://www.static-src.com/4.13.0-5/resources/images/favicon/apple-icon-144x144.png" sizes="144x144" rel="apple-touch-icon" />
+<link href="https://www.static-src.com/4.13.0-5/resources/images/favicon/apple-icon-152x152.png" sizes="152x152" rel="apple-touch-icon" />
+<link href="https://www.static-src.com/4.13.0-5/resources/images/favicon/apple-icon-180x180.png" sizes="180x180" rel="apple-touch-icon" />
+<link href="https://www.static-src.com/4.13.0-5/resources/images/favicon/android-icon-192x192.png" sizes="192x192" type="image/png" rel="icon" />
+<link href="https://www.static-src.com/4.13.0-5/resources/images/favicon/favicon-32x32.png" sizes="32x32" type="image/png" rel="icon" />
+<link href="https://www.static-src.com/4.13.0-5/resources/images/favicon/favicon-96x96.png" sizes="96x96" type="image/png" rel="icon" />
+<link href="https://www.static-src.com/4.13.0-5/resources/images/favicon/favicon-16x16.png" sizes="16x16" type="image/png" rel="icon" />
+
+<meta content="#0095da" name="msapplication-TileColor" />
+<meta content="https://www.static-src.com/4.13.0-5/resources/images/favicon/ms-icon-144x144.png" name="msapplication-TileImage" />
+
+<link href="https://www.blibli.com/manifest.json" rel="manifest" />
+
+    
+        <meta content="app-id=1034231507" name="apple-itunes-app" />
+        <script>
+            var userIdParam;
+            var sessionId;
+
+            function getCookie(cname) {
+                var name = cname + "=";
+                var ca = document.cookie.split(';');
+                for(var i=0; i&lt;ca.length; i++) {
+                    var c = ca[i];
+                    while (c.charAt(0)==' ') c = c.substring(1);
+                    if (c.indexOf(name) == 0) return c.substring(name.length,c.length);
+                }
+                return "";
+            }
+        </script>
+        
+        <script type="text/javascript">
+            if (self === top) {
+                var antiClickjack = document.getElementById("antiClickjack");
+                antiClickjack.parentNode.removeChild(antiClickjack);
+            } else {
+                top.location = self.location;
+            }
+            if(typeof String.prototype.trim !== 'function') {
+                String.prototype.trim = function() {
+                    return this.replace(/^\s+|\s+$/g, '');
+                }
+            }
+            var userIdParam;
+            var sessionId;
+
+            function getCookie(cname) {
+                var name = cname + "=";
+                var ca = document.cookie.split(';');
+                for(var i=0; i&lt;ca.length; i++) {
+                    var c = ca[i];
+                    while (c.charAt(0)==' ') c = c.substring(1);
+                    if (c.indexOf(name) == 0) return c.substring(name.length,c.length);
+                }
+                return "";
+            }
+
+            var deferscriptlist = [];
+
+            (function(w, d, s) {
+                function go(){
+                    for(i in deferscriptlist){
+                        deferscriptlist[i]()
+                    }
+                }
+                if (w.addEventListener) { w.addEventListener("load", go, false); }
+                else if (w.attachEvent) { w.attachEvent("onload",go); }
+            }(window, document, 'script'));
+
+            function loaderScript(src){
+                var scripts = document.createElement('script');
+                scripts.language = 'javascript';
+                scripts.src = src;
+                document.getElementById('latescript').appendChild(scripts);
+                return scripts;
+            }
+
+        </script>
+        <meta content="noindex, nofollow" name="robots" />
+            <link href="//www.static-src.com" rel="dns-prefetch" />
+            <link href="//s1.static-src.com" rel="dns-prefetch" />
+            <link href="//s2.static-src.com" rel="dns-prefetch" />
+            <link href="//s3.static-src.com" rel="dns-prefetch" />
+            <link href="//bwa.blibli.com" rel="dns-prefetch" />
+            <link href="//connect.facebook.net" rel="dns-prefetch" />
+            <link href="//www.google-analytics.com" rel="dns-prefetch" />
+            <link href="//www.googletagmanager.com" rel="dns-prefetch" />
+            <link href="//affiliate.blibli.com" rel="dns-prefetch" />
+            <link href="//www.googleadservices.com" rel="dns-prefetch" />
+            <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+<meta content="IE=edge" http-equiv="X-UA-Compatible" />
+
+<meta content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0,
+minimum-scale=1.0, user-scalable=no" name="viewport" />
+
+<script type="text/javascript">
+    window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o&lt;n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&amp;&amp;console.log(t)}catch(e){}}var o,i=t("ee"),a=t(19),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&amp;&amp;"function"==typeof console.log&amp;&amp;(c.console=!0,o.indexOf("dev")!==-1&amp;&amp;(c.dev=!0),o.indexOf("nr_dev")!==-1&amp;&amp;(c.nrDev=!0))}catch(s){}c.nrDev&amp;&amp;i.on("internal-error",function(t){r(t.stack)}),c.dev&amp;&amp;i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&amp;&amp;(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,s.now(),!0])}catch(u){}}return"function"==typeof f&amp;&amp;f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,s.now()])}var i=t("handle"),a=t(20),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(p){"stack"in p&amp;&amp;(t(12),t(11),"addEventListener"in window&amp;&amp;t(6),s.xhrWrappable&amp;&amp;t(13),u=!0)}c.on("fn-start",function(t,e,n){u&amp;&amp;(d+=1)}),c.on("fn-err",function(t,e,n){u&amp;&amp;(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&amp;&amp;!this.thrown&amp;&amp;d&gt;0&amp;&amp;(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(){C++,N=y.hash,this[u]=M.now()}function o(){C--,y.hash!==N&amp;&amp;i(0,!0);var t=M.now();this[l]=~~this[l]+t-this[u],this[d]=t}function i(t,e){x.emit("newURL",[""+y,e])}function a(t,e){t.on(e,function(){this[e]=M.now()})}var c="-start",s="-end",f="-body",u="fn"+c,d="fn"+s,p="cb"+c,h="cb"+s,l="jsTime",m="fetch",v="addEventListener",w=window,y=w.location;if(w[v]){var b=t(9),g=t(10),x=t(8),E=t(6),O=t(12),R=t(7),P=t(13),T=t("ee"),S=T.get("tracer");t(14);var M=t("loader");M.features.spa=!0;var N,j=w[v],C=0;T.on(u,r),T.on(p,r),T.on(d,o),T.on(h,o),T.buffer([u,d,"xhr-done","xhr-resolved"]),E.buffer([u]),O.buffer(["setTimeout"+s,"clearTimeout"+c,u]),P.buffer([u,"new-xhr","send-xhr"+c]),R.buffer([m+c,m+"-done",m+f+c,m+f+s]),x.buffer(["newURL"]),b.buffer([u]),g.buffer(["propagate",p,h,"executor-err","resolve"+c]),S.buffer([u,"no-"+u]),a(P,"send-xhr"+c),a(T,"xhr-resolved"),a(T,"xhr-done"),a(R,m+c),a(R,m+"-done"),x.on("pushState-end",i),x.on("replaceState-end",i),j("hashchange",i,!0),j("load",i,!0),j("popstate",function(){i(0,C&gt;1)},!0)}},{}],5:[function(t,e,n){function r(t){}if(window.performance&amp;&amp;window.performance.timing&amp;&amp;window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(12),c=t(11),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",p="resource",h="-start",l="-end",m="fn"+h,v="fn"+l,w="bstTimer",y="pushState",b=t("loader");b.features.stn=!0,t(8);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&amp;&amp;(this.bstStart=b.now())}),o.on(v,function(t,e){var n=t[0];n instanceof g&amp;&amp;i("bst",[n,e,this.bstStart,b.now()])}),a.on(m,function(t,e,n){this.bstStart=b.now(),this.bstType=n}),a.on(v,function(t,e){i(w,[e,this.bstStart,b.now(),this.bstType])}),c.on(m,function(){this.bstStart=b.now()}),c.on(v,function(t,e){i(w,[e,this.bstStart,b.now(),"requestAnimationFrame"])}),o.on(y+h,function(t){this.time=b.now(),this.startPath=location.pathname+location.hash}),o.on(y+l,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&amp;&amp;(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],6:[function(t,e,n){function r(t){for(var e=t;e&amp;&amp;!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&amp;&amp;o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(22)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&amp;&amp;(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],7:[function(t,e,n){function r(t,e,n){var r=t[e];"function"==typeof r&amp;&amp;(t[e]=function(){var t=r.apply(this,arguments);return o.emit(n+"start",arguments,t),t.then(function(e){return o.emit(n+"end",[null,e],t),e},function(e){throw o.emit(n+"end",[e],t),e})})}var o=t("ee").get("fetch"),i=t(19);e.exports=o;var a=window,c="fetch-",s=c+"body-",f=["arrayBuffer","blob","json","text","formData"],u=a.Request,d=a.Response,p=a.fetch,h="prototype";u&amp;&amp;d&amp;&amp;p&amp;&amp;(i(f,function(t,e){r(u[h],e,s),r(d[h],e,s)}),r(a,"fetch",c),o.on(c+"end",function(t,e){var n=this;e?e.clone().arrayBuffer().then(function(t){n.rxSize=t.byteLength,o.emit(c+"done",[null,e],n)}):o.emit(c+"done",[t],n)}))},{}],8:[function(t,e,n){var r=t("ee").get("history"),o=t(22)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],9:[function(t,e,n){var r=t("ee").get("mutation"),o=t(22)(r),i=NREUM.o.MO;e.exports=r,i&amp;&amp;(window.MutationObserver=function(t){return this instanceof i?new i(o(t,"fn-")):i.apply(this,arguments)},MutationObserver.prototype=i.prototype)},{}],10:[function(t,e,n){function r(t){var e=a.context(),n=c(t,"executor-",e),r=new f(n);return a.context(r).getCtx=function(){return e},a.emit("new-promise",[r,e],e),r}function o(t,e){return e}var i=t(22),a=t("ee").get("promise"),c=i(a),s=t(19),f=NREUM.o.PR;e.exports=a,f&amp;&amp;(window.Promise=r,["all","race"].forEach(function(t){var e=f[t];f[t]=function(n){function r(t){return function(){a.emit("propagate",[null,!o],i),o=o||!t}}var o=!1;s(n,function(e,n){Promise.resolve(n).then(r("all"===t),r(!1))});var i=e.apply(f,arguments),c=f.resolve(i);return c}}),["resolve","reject"].forEach(function(t){var e=f[t];f[t]=function(t){var n=e.apply(f,arguments);return t!==n&amp;&amp;a.emit("propagate",[t,!0],n),n}}),f.prototype["catch"]=function(t){return this.then(null,t)},f.prototype=Object.create(f.prototype,{constructor:{value:r}}),s(Object.getOwnPropertyNames(f),function(t,e){try{r[e]=f[e]}catch(n){}}),a.on("executor-start",function(t){t[0]=c(t[0],"resolve-",this),t[1]=c(t[1],"resolve-",this)}),a.on("executor-err",function(t,e,n){t[1](n)}),c.inPlace(f.prototype,["then"],"then-",o),a.on("then-start",function(t,e){this.promise=e,t[0]=c(t[0],"cb-",this),t[1]=c(t[1],"cb-",this)}),a.on("then-end",function(t,e,n){this.nextPromise=n;var r=this.promise;a.emit("propagate",[r,!0],n)}),a.on("cb-end",function(t,e,n){a.emit("propagate",[n,!0],this.nextPromise)}),a.on("propagate",function(t,e,n){this.getCtx&amp;&amp;!e||(this.getCtx=function(){if(t instanceof Promise)var e=a.context(t);return e&amp;&amp;e.getCtx?e.getCtx():this})}),r.toString=function(){return""+f})},{}],11:[function(t,e,n){var r=t("ee").get("raf"),o=t(22)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],12:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(22)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],13:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState&gt;3&amp;&amp;!e.resolved&amp;&amp;(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",c)}function i(t){w.push(t),l&amp;&amp;(b=-b,g.data=b)}function a(){for(var t=0;t&lt;w.length;t++)r([],w[t]);w.length&amp;&amp;(w=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(6);var f=t("ee"),u=f.get("xhr"),d=t(22)(u),p=NREUM.o,h=p.XHR,l=p.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new h(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(h,y),y.prototype=h.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),l){var b=1,g=document.createTextNode(b);new l(a).observe(g,{characterData:!0})}else f.on("fn-end",function(t){t[0]&amp;&amp;t[0].type===m||a()})},{}],14:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r&lt;d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&amp;&amp;(n.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&amp;&amp;(e.cat=s.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&amp;&amp;null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return l(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(15),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,p=t("id"),h=t(18),l=t(17),m=window.XMLHttpRequest;a.features.xhr=!0,t(13),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&amp;&amp;(h&gt;34||h&lt;10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&amp;&amp;"xpid"in NREUM.loader_config&amp;&amp;this.sameOrigin&amp;&amp;e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&amp;&amp;r){var i=l(r);i&amp;&amp;(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&amp;&amp;(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&amp;&amp;(o.onloadCalled||"function"!=typeof e.onload))&amp;&amp;o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var c=0;c&lt;d;c++)e.addEventListener(u[c],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&amp;&amp;"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&amp;&amp;!this.xhrGuids[n]&amp;&amp;(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&amp;&amp;this.xhrGuids[n]&amp;&amp;(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&amp;&amp;"load"===t[0]&amp;&amp;f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&amp;&amp;"load"===t[0]&amp;&amp;f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&amp;&amp;("onload"===n&amp;&amp;(this.onload=!0),("load"===(t[0]&amp;&amp;t[0].type)||this.onload)&amp;&amp;(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&amp;&amp;f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],15:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&amp;&amp;o[1]&amp;&amp;(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&amp;&amp;"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&amp;&amp;(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&amp;&amp;e.port===n.port;return r.sameOrigin=i&amp;&amp;(!e.hostname||a),r}},{}],16:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(19),c=t(20),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&amp;&amp;(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",h=p+"ixn-";a(d,function(t,e){u[e]=o(p+e,!0,"api")}),u.addPageAction=o(p+"addPageAction",!0),u.setCurrentRouteName=o(p+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var l=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(h+"tracer",[f.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){l[e]=o(h+e)}),newrelic.noticeError=function(t){"string"==typeof t&amp;&amp;(t=new Error(t)),i("err",[t,f.now()])}},{}],17:[function(t,e,n){e.exports=function(t){if("string"==typeof t&amp;&amp;t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&amp;&amp;t instanceof ArrayBuffer&amp;&amp;t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&amp;&amp;t instanceof Blob&amp;&amp;t.size)return t.size;if(!("undefined"!=typeof FormData&amp;&amp;t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],18:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&amp;&amp;(r=+o[1]),e.exports=r},{}],19:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&amp;&amp;(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],20:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&amp;&amp;(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o&lt;0?0:o);++r&lt;o;)i[r]=t[e+r];return i}e.exports=r},{}],21:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&amp;&amp;window.performance.timing&amp;&amp;"undefined"!=typeof window.performance.timing.navigationStart}},{}],22:[function(t,e,n){function r(t){return!(t&amp;&amp;t instanceof Function&amp;&amp;t.apply&amp;&amp;!t[a])}var o=t("ee"),i=t(20),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){p([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s&lt;e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o,e)}catch(a){p([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&amp;&amp;Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){p([r])}for(var o in t)c.call(t,o)&amp;&amp;(e[o]=t[o]);return e}function p(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&amp;&amp;t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o,i){if(!p.aborted||i){t&amp;&amp;t(n,r,o);for(var a=e(o),c=l(n),s=c.length,f=0;f&lt;s;f++)c[f].apply(a,r);var d=u[y[n]];return d&amp;&amp;d.push([b,n,r,a]),a}}function h(t,e){w[t]=l(t).concat(e)}function l(t){return w[t]||[]}function m(t){return d[t]=d[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var w={},y={},b={on:h,emit:n,get:m,listeners:l,context:e,buffer:v,abort:a,aborted:!1};return b}function i(){return new r}function a(){(u.api||u.feature)&amp;&amp;(p.aborted=!0,u=p.backlog={})}var c="nr@context",s=t("gos"),f=t(19),u={},d={},p=e.exports=o();p.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&amp;&amp;Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&amp;&amp;"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!x++){var t=g.info=NREUM.info,e=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&amp;&amp;t.licenseKey&amp;&amp;t.applicationID&amp;&amp;e))return u.abort();f(y,function(e,n){t[e]||(t[e]=n)}),s("mark",["onload",a()+g.offset],null,"api");var n=p.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===p.readyState&amp;&amp;i()}function i(){s("mark",["domContent",a()+g.offset],null,"api")}function a(){return E.exists&amp;&amp;performance.now?Math.round(performance.now()):(c=Math.max((new Date).getTime(),c))-g.offset}var c=(new Date).getTime(),s=t("handle"),f=t(19),u=t("ee"),d=window,p=d.document,h="addEventListener",l="attachEvent",m=d.XMLHttpRequest,v=m&amp;&amp;m.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var w=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-spa-1026.min.js"},b=m&amp;&amp;v&amp;&amp;v[h]&amp;&amp;!/CriOS/.test(navigator.userAgent),g=e.exports={offset:c,now:a,origin:w,features:{},xhrWrappable:b};t(16),p[h]?(p[h]("DOMContentLoaded",i,!1),d[h]("load",r,!1)):(p[l]("onreadystatechange",o),d[l]("onload",r)),s("mark",["firstbyte",c],null,"api");var x=0,E=t(21)},{}]},{},["loader",2,14,5,3,4]);
+    ;NREUM.info={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",licenseKey:"44c8bccbbf",applicationID:"19630941",sa:1}
+</script>
+<title>Formulir Pengiriman &amp; Pembayaran Blibli.com</title>
+        <!-- Start Visual Website Optimizer Asynchronous Code -->
+            <script type="text/javascript">
+                var _vwo_code=(function(){
+                    var account_id=280670,//YOUR_ACCOUNT_ID
+                            settings_tolerance=2000,
+                            library_tolerance=2500,
+                            use_existing_jquery=false,
+                            is_spa = 1,
+                    /* DO NOT EDIT BELOW THIS LINE */
+                            f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&amp;u='+encodeURIComponent(d.URL)+'&amp;f='+(+is_spa)+'&amp;r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+            </script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=280670&amp;u=https%3A%2F%2Fwww.blibli.com%2Forder%2Fcheckout&amp;f=1&amp;r=0.47655532508169063" type="text/javascript"></script>
+            <!-- End Visual Website Optimizer Asynchronous Code -->
+
+            <!-- Angular Plugin for VWO SPA code -->
+            <script type="text/javascript">
+                window.VWO = window.VWO || [];
+                window.VWO.angular = function () {
+                    var enableAngular = function () {
+                        // Wait till angular is not defined on the page
+                        if(window.angular) {
+                            // Wait for the scope to be defined on the body
+                            var bodyScope = window.angular.element(document.body).scope();
+                            if(!bodyScope) {
+                                setTimeout(enableAngular, 100);
+                                return;
+                            }
+                            // Get rootScope from the bodyScope
+                            var $rootScope = bodyScope.$root;
+                            VWO.push(['activate', 2]);
+                            // Add listener for angular viewContentLoaded, and call activate if any changes occurs
+                            $rootScope.$on('$viewContentLoaded', function () {
+                                VWO.push(['activate', 2]);
+                            });
+                        } else {
+                            setTimeout(enableAngular, 100);
+                        }
+                    };
+                    enableAngular();
+                };
+                window.VWO.push(['angular']);
+            </script>
+            <!-- End Angular Plugin for VWO SPA code -->
+        <!-- Start Insider Asynchronous Code -->
+            <script type="text/javascript">
+                var _spapi = _spapi || [];
+                _spapi.push(['_partner', 'blibli']);
+                (
+                        function()
+                        {
+                            var ins = document.createElement('script'); ins.type = 'text/javascript'; ins.async = true;
+                            ins.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'blibli.api.sociaplus.com/partner.js';
+                            var s = document.getElementsByTagName('script')[0];
+                            s.parentNode.insertBefore(ins, s);
+                        }
+                )();
+            </script>
+            <!-- End Insider Asynchronous Code -->
+        <link href="https://www.static-src.com/4.13.0-5/resources/css/lib/normalize.css" rel="stylesheet" />
+<link href="https://www.static-src.com/4.13.0-5/resources/css/lib/foundation.css" rel="stylesheet" />
+<link href="https://www.static-src.com/4.13.0-5/resources/css/lib/sweet-alert.css" rel="stylesheet" />
+<link href="https://www.static-src.com/4.13.0-5/resources/css/style/animate.css" rel="stylesheet" />
+<link href="https://www.static-src.com/4.13.0-5/resources/css/style/modal.css" rel="stylesheet" />
+<link href="https://www.static-src.com/4.13.0-5/resources/css/lib/slick.css" rel="stylesheet" />
+<link href="https://www.static-src.com/4.13.0-5/resources/css/lib/blicon.css" rel="stylesheet" />
+
+<link href="https://www.static-src.com/4.13.0-5/resources/css/style/style.css" rel="stylesheet" />
+<link href="https://www.static-src.com/4.13.0-5/resources/css/style/sprite.css" rel="stylesheet" />
+        <link href="https://www.static-src.com/4.13.0-5/resources/css/style/checkout-sprite.css" rel="stylesheet" />
+        <link href="https://www.static-src.com/4.13.0-5/resources/css/style/checkout.css" rel="stylesheet" />
+        <link href="https://www.static-src.com/4.13.0-5/resources/css/style/checkoutNew.css" rel="stylesheet" />
+        <link href="https://www.static-src.com/4.13.0-5/resources/css/style/maps-address.css" rel="stylesheet" />
+        <link href="https://www.static-src.com/4.13.0-5/resources/css/style/otp-form.css" rel="stylesheet" /><link media="screen" type="text/css" href="//blibli.api.sociaplus.com/css/sp-style.css" rel="stylesheet" id="spStyleCss" />
+
+        <!--[if lte IE 7]>
+<script>
+    window.location.href = "https://www.blibli.com/unsupported-browser";
+</script>
+<![endif]-->
+<!--[if lt IE 9]>
+    <link rel="stylesheet" href="https://www.static-src.com/4.13.0-5/resources/css/style/ie.css"/>
+    <script src="https://www.static-src.com/4.13.0-5/resources/js/libs/html5shiv.js"></script>
+<![endif]-->
+
+<script type="text/javascript">
+    
+    var _bwaq = _bwaq || [];
+            _bwaq.push(['_setAccount', 'blibli-Seoul']);
+            window.akcr = window.akcr || [];
+    deferscriptlist.push(function()
+    {
+        var bwa = document.createElement('script');
+        bwa.type = 'text/javascript';
+        bwa.async = false;
+        bwa.src = '/wcsstore/bwa.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(bwa, s);
+        
+        userIdParam = getCookie("userId");
+        sessionId = getCookie("__bwa_user_id");
+    }
+    );
+</script><script type="text/javascript" src="//api.sociaplus.com/js/squery.min.js"></script><script src="//dev.visualwebsiteoptimizer.com/track/va-1c6a9fdc9089c8d7da53fa2910ef15d3.js" type="text/javascript"></script>
+
+<script>
+    userIdParam = getCookie("userId");
+    sessionId = getCookie("__bwa_user_id");
+</script>
+<script>
+    var dataLayer = dataLayer || [];
+</script>
+
+<script>
+    function pushUserIdToGTMDataLayer(userId){
+        dataLayer.push({
+            'userID': userId
+        })
+    }
+
+
+    function pushDataLayerOnLogin(userId) {
+        dataLayer.push({
+            'userId': userId, //Populate userID from backend CRM
+            'loginStatus': 'logged in', //This will be 'logged in' or 'not loggedin'
+            'propertyCategory': 'Retail' //This will be 'Hotel' or 'Train' or 'Retail' depending on the property category
+        })
+    }
+
+    function trackGTMEvent(eventDetails){
+        if(eventDetails){
+            dataLayer.push({
+                'event' : 'trackEvent',
+                'eventDetails.category' : eventDetails.category,
+                'eventDetails.action' : eventDetails.action,
+                'eventDetails.label' : eventDetails.label,
+                'eventDetails.value' : eventDetails.value
+            });
+        }
+    }
+    
+    function trackRegistrationSuccess(){
+        try{
+            dataLayer.push({ 
+                'event': 'vpv',
+                'vpv': '/registration-success'
+            });
+        }catch(ex){
+            
+        }
+        
+    }
+    
+</script>
+
+<!-- set Google tag manager section conditionally to page type-->
+<script>
+            function pushSelectedShippingMethodToGTM(selectedShippingMethod){
+                dataLayer.push({
+                    'event' : 'trackEvent',
+                    'deliveryService' : selectedShippingMethod
+                });
+            }
+
+            dataLayer.push({
+                'ecommerce':{
+                    'currencyCode' : 'IDR',
+                    'checkout':{
+                        'actionField':{
+                            'step':1,
+                            'option' : ''
+                        },
+                        'products': [
+                            
+                            
+                        ]
+                    }
+                }
+            });
+
+            function pushGTMCheckoutStep2(){
+                dataLayer.push({
+                    'event':'checkout',
+                    'vpv': '/order/checkout/checkoutStep2',
+                    'ecommerce':{
+                        'currencyCode' : 'IDR',
+                        'checkout':{
+                            'actionField':{
+                                'step':2,
+                                'option' : ''
+                            },
+                            'products': [
+                                
+
+                            ]
+                        }
+                    }
+                });
+            }
+            
+            function pushGtmCheckoutDataLayer(){
+                dataLayer.push({
+                    'event': 'checkout',
+                    'ecommerce':{
+                        'checkout':{
+                            'actionField':{
+                                'step':2,
+                                'option' : ''
+                            },
+                            'products': [
+                                
+
+                            ]
+                        }
+                    }
+                });
+            
+            }
+            
+        </script>
+    <script>
+        //normal google analytics
+        var _gaq = _gaq || [];
+        var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+        _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+        _gaq.push(['_setAccount', 'UA-21718848-1']);
+        _gaq.push(['_setDomainName', 'blibli.com']);
+        _gaq.push(['_trackPageview']);
+        (function()
+        {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'https://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        }
+        )();
+        //universal analytics
+        /*(function(i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function()
+            {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                    m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        ga('create', '', 'auto');
+        ga('require', 'linkid', 'linkid.js');
+        ga('send', 'pageview');*/
+    </script>
+<script type="text/javascript">
+        
+    function base64Images(className) {
+        var images = document.getElementsByClassName(className);
+        
+        if(images.length &gt; 0) {
+            for(var x = 0; x &lt; images.length; x++) {
+                images.item(x).onabort = images.item(x).onerror = function() {
+                    this.src = this.getAttribute('data-src');
+                }
+            }
+        }
+    }
+        
+    function defer(className, scripts) {
+        if(window.addEventListener)
+            window.addEventListener('load', function() { deferImages(deferScripts) }, false);
+        else if(window.attachEvent)
+            window.attachEvent('onload', function() { deferImages(deferScripts) });
+        else
+            window.onload = deferImages(deferScripts);
+                
+        
+        function deferImages(deferScripts) {
+             
+            var images = document.getElementsByClassName(className);
+            
+            if(images.length &gt; 0) {
+                for(var x = 0; x &lt; images.length; x++) {
+                    var src = images.item(x).getAttribute('data-src');
+                    images.item(x).setAttribute('src', src);
+                }
+            }
+
+            if(typeof postDefer === 'function')
+                deferScripts(postDefer, 0);
+            else
+                deferScripts(function() {}, 0);
+        }
+            
+        function deferScript(src, callback) {
+            var script = document.createElement('script');
+            script.type = 'text/javascript';
+        
+            if(script.readyState) {
+                script.onreadystatechange = function() {
+                    if(script.readyState === 'loaded' || script.readyState === 'complete') {
+                        script.onreadystatechange = null;
+                        callback();
+                    }
+                }
+            }
+            else {
+                script.onload = function() {
+                    callback();
+                }
+            }
+
+            script.src = src;
+            document.getElementsByTagName('head')[0].appendChild(script);
+        }
+            
+        function deferScripts(postDefer, index) {
+            if(typeof scripts === 'undefined' || scripts.length === 0 || typeof scripts[index] === 'undefined') {
+                postDefer();
+                return;
+            }
+            
+            deferScript(scripts[index], function() {
+                deferScripts(postDefer, ++index);
+            });
+        }
+    }
+</script>
+<script src="//dev.visualwebsiteoptimizer.com/settings.js?a=280670&amp;settings_type=1&amp;r=0.8523367377450753" type="text/javascript"></script><span id="vwo_temp" style="display:none"></span><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/29/14a/intl/id_ALL/common.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/29/14a/intl/id_ALL/util.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/29/14a/intl/id_ALL/stats.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps/api/js/AuthenticationService.Authenticate?1shttps%3A%2F%2Fwww.blibli.com%2Forder%2Fcheckout&amp;4sAIzaSyChymXDuLyg9rkd4VLl6nvEG7HFCehjRPo&amp;callback=_xdc_._wlox4s&amp;token=45860"></script></head>
+    <body><script src="https://ad.doubleclick.net/ddm/adj/N355806.197812NSO.CODESRV/B9801924.132557158;sz=1x2;ord819543094795?"></script>
+        <div id="latescript"><script src="//ssp.adskom.com/ak-dco.js" id="__akcr"></script><script type="text/javascript" id="__akcr_c" src="//static.criteo.net/js/ld/ld.js" async="" class="adskom-script"></script></div>
+        <!-- Google tag manager-->
+            <noscript>
+            &lt;iframe src="//www.googletagmanager.com/ns.html?id=GTM-PHC5L2" height="0" width="0" style="display:none;visibility:hidden"&gt;&lt;/iframe&gt;
+            </noscript>
+            <script>
+                deferscriptlist.push(function(){(function (w, d, s, l, i) {
+                    w[l] = w[l] || [];
+                    w[l].push({'gtm.start':
+                                new Date().getTime(), event: 'gtm.js'});
+                    var f = d.getElementsByTagName(s)[0], j = d.createElement(s),
+                            dl = l != 'dataLayer' ? '&amp;l=' + l : '';
+                    j.async = true;
+                    j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+                    f.parentNode.insertBefore(j, f);
+                })(window, document, 'script', 'dataLayer', 'GTM-PHC5L2');
+                })
+            </script>
+            <!-- End google tag manager-->
+        <div class="message-container">
+            <div class="content-wrapper">
+                <div class="checkout-page ng-scope" ng-controller="checkout.ctrl">
+            <div ng-show="isLoading" class="angular-loading ng-hide">
+                <div class="loading-wrapper">
+                    <img alt="" ng-src="https://www.blibli.com/resources/images/assets/Preloader84.gif" name="GdnLoaderImage" src="https://www.blibli.com/resources/images/assets/Preloader84.gif" />
+                </div>
+            </div>
+            <header class="header-section checkout-page">
+                <a class="back-to-top" href="#"><div class="ic-arrowtop32"></div></a>
+<section class="top-link">
+        <div class="row">
+            <div class="large-16 medium-16 small-16 columns top-link-menu">
+            </div>
+        </div>
+    </section>
+    <section class="header-content-desktop-chechout">
+        <div class="row">
+            <div class="large-3 medium-4 small-5 columns logo-section-checkout">
+                <a href="https://www.blibli.com/"><img alt="" src="https://www.static-src.com/4.13.0-5/resources/images/logo-blibli.png" /></a>
+            </div>
+            <div class="large-13 medium-12 small-11 columns step-section">
+                <div class="line">
+                    <div class="line-inner">
+                        <div></div>
+                    </div>
+                </div>
+                <div class="large-8 medium-8 small-8 columns">
+                    <span class="step active-step">1</span>
+                        <span class="step-label">Pengiriman</span>
+                </div>
+                <div class="large-8 medium-8 small-8 columns">
+                <span ng-hide="isStep2" class="step">2</span>
+                    <span ng-show="isStep2" class="step active-step ng-hide">2</span>
+                <span class="step-label">Pembayaran</span>
+                </div>
+            </div>
+        </div>
+    </section></header>
+            <div ng-show="angularErrorMessage != ''" class="row ng-hide">
+                <div class="large-16 medium-16 small-16 columns">
+                    <div class="global-error">
+                        <span ng-bind="angularErrorMessage" class="ng-binding"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="wishlistAdded-notif__container hide">
+                <div class="wishlistAdded-notif__text">
+                    Produk
+                    <strong>
+                        <span ng-bind="deletedWishlistItem" class="ng-binding"></span>
+                    </strong>
+                    <span> telah dimasukkan ke wishlist</span>
+                </div>
+            </div>
+            <div class="pemberitahuan">
+                         <span class="text inline va-middle">
+                            <span>Maaf, proses checkout Anda gagal karena akun anda terblokir untuk alasan keamanan. Mohon menunggu hingga 24 jam untuk bisa melakukan transaksi kembali.</span>
+                         </span>
+                    </div>
+                </div>
+    <footer class="footer-section">
+                    <div class="footer-div checkout-footer">
+    <div class="desktop-footer-checkout">
+        <div class="footer-lower">
+            <div class="row">
+                <div class="large-16 medium-16 small-16 columns">
+                    <p>Copyright © 2011-<span id="currentYearDesktop">2017</span> Blibli.com toko online dengan sensasi belanja online store ala mall, All Rights Reserved.<br />
+                        <a style="color: #0095DA" data-toggle="modal" href="#terms-condition">Syarat &amp; Ketentuan</a> | <a style="color: #0095DA" href="//www.blibli.com/page/kebijakan-privasi/">Kebijakan Privasi</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="mobile-footer-checkout">
+        <div class="row">
+            <div class="medium-16 small-16 columns">
+                <div class="copyright">
+                    <p>Copyright © 2011-<span id="currentYearMobile">2017</span> Blibli.com toko online dengan sensasi belanja online store ala mall, All Rights Reserved.<br />
+                        <a style="color: #0095DA" data-toggle="modal" href="#terms-condition">Syarat &amp; Ketentuan</a> | <a style="color: #0095DA" href="//www.blibli.com/page/kebijakan-privasi/">Kebijakan Privasi</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    var d = new Date();
+    var n = d.getFullYear();
+    document.getElementById("currentYearDesktop").innerHTML = n;
+    document.getElementById("currentYearMobile").innerHTML = n;
+</script>
+<div role="dialog" class="modal fade" style="display: none" id="terms-condition">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-body">
+                <div class="tnc-title">
+                    <span>Syarat &amp; Ketentuan</span>
+                    <a class="close-modal bli-close" data-dismiss="modal" href="#"></a>
+                </div>
+                <div class="tnc-container">
+                    <h3>Perjanjian Penggunaan Layanan Situs</h3>
+                    <p>Perjanjian Penggunaan Layanan Situs www.blibli.com (Perjanjian) antara Pengguna sebagai pengguna 
+                        Situs www.blibli.com (Pengguna) dan PT Global Digital Niaga (GDN) sebagai pengelola Situs 
+                        www.blibli.com (situs Blibli.com), ini memuat syarat-syarat dan ketentuan penggunaan layanan situs 
+                        Blibli.com yang berlaku bagi Pengguna untuk dapat menggunakan situs Blibli.com. PT GDN selanjutnya 
+                        dapat disebut juga dengan istilah "Kami". Mohon untuk membaca dengan hati-hati Perjanjian ini. Anda 
+                        harus membaca, memahami, menerima dan menyetujui semua persyaratan dan ketentuan dalam 
+                        Perjanjian ini sebelum menggunakan aplikasi dan/atau menerima konten yang terdapat di dalamnya. 
+                        Dengan menggunakan aplikasi dan/atau melanjutkan akses terhadap situs Blibli.com, Anda menyetujui 
+                        persyaratan dan ketentuan Kami, dan oleh karena itu menyetujui untuk terikat dalam suatu kontrak 
+                        dengan Kami dan oleh karenanya Anda menyatakan persetujuan untuk dapat menerima layanan dan 
+                        akses atas seluruh konten yang terdapat dalam aplikasi ini. Jika Anda tidak menerima dan menyetujui 
+                        Perjanjian ini, Anda tidak diperkenankan untuk mengakses lebih lanjut situs Blibli.com dan dipersilakan 
+                        untuk meninggalkan situs Blibli.com. Setiap kegiatan terkait dengan penggunaan situs, maka baik 
+                        penyelenggara, pengguna dalam hal ini termasuk juga adalah penjual (merchant) dan pembeli, dilindungi 
+                        secara hukum melalui Undang - Undang Republik Indonesia No.11 Tahun 2008 tentang Informasi dan 
+                        Teknologi, Undang-Undang Republik Indonesia No. 19 Tahun 2002 tentang Hak Cipta, dan terhadap 
+                        segala bentuk perikatan yang timbul dari segala aktifitas di situs Blibli.com telah memenuhi kaidah dan 
+                        syarat sahnya suatu perikatan sebagaimana yang tercantum dalam Kitab Undang-Undang Hukum 
+                        Perdata Indonesia.</p>
+                    <ol style="padding-left: 25px">
+                        <li><strong>PENDAHULUAN</strong>
+                            <ol style="list-style-type: none;">
+                                <li><span class="list-number">1.1</span>Perjanjian ini diatur dan diinterprestasikan berdasarkan Hukum Republik Indonesia (Indonesia). Pihak-pihak yang disebutkan dalam Perjanjian ini dengan ini sepakat untuk tunduk kepada pengadilan di Indonesia.</li>
+                                <li><span class="list-number">1.2</span>Dalam Perjanjian ini yang dimaksud dengan "Pengguna" adalah orang perseorangan, baik warga negara Indonesia, warga negara asing, maupun badan hukum dengan kemampuan menggunakan komputer, jaringan, komputer dan/atau media elektronik lainnya mampu untuk mengakses situs Blibli.com sesuai dengan keperluannya. Dalam hal ini termasuk juga Pengguna yang telah mendaftarkan diri pada situs Blibli.com sebagai Pengguna Terdaftar atau Pengguna tersebut membayar untuk layanan tertentu yang mungkin disediakan oleh situs Blibli.com.</li>
+                                <li><span class="list-number">1.3</span>Dengan mengakses atau menggunakan situs Blibli.com ini, Pengguna yang termasuk dalam kategori Pengguna sebagaimana disebutkan dalam poin 1.2. di atas secara sadar dan tanpa paksaan dari pihak manapun menyatakan diri setuju untuk menerima semua syarat dan ketentuan yang tercantum dalam Perjanjian ini. Sebagai Pengguna, Pengguna terikat dengan syarat dan ketentuan dalam Perjanjian yang berlaku dalam hal Pengguna mengakses atau menggunakan situs Blibli.com ini. Jika Pengguna tidak menerima semua syarat dan ketentuan dalam Perjanjian ini, Pengguna diharuskan untuk langsung meninggalkan situs Blibli.com.</li>
+                                <li><span class="list-number">1.4</span>Kami dapat mengubah atau memperbarui Perjanjian ini setiap waktu dengan mencantumkan Perjanjian yang telah diubah atau diperbarui di dalam situs dan persyaratan dan ketentuan yang telah diubah dan diperbarui akan segera berlaku setelah persyaratan dan ketentuan yang telah diubah dan diperbarui dicantumkan oleh situs Blibli.com, dan Pengguna diwajibkan untuk setiap saat membaca persyaratan dan ketentuan baru dan dianggap telah menyetujui perubahan atau pembaruan tersebut apabila setelah dicantumkan di dalam situs Blibli.com dan Pengguna terus menggunakan situs Blibli.com.</li>
+                                <li><span class="list-number">1.5</span>Dalam situs Blibli.com akan atau telah terdapat sambungan atau hyperlink (Pranala) yang terhubung situs milik pihak ketiga yang terdapat dalam Pranala di luar situs Blibli.com, dan Kami dengan ini menyatakan tidak bertanggung jawab atas isi Pranala di luar situs Blibli.com atau situs yang disediakan atau dipasang oleh pihak ketiga (Isi Pihak Ketiga), baik yang dimasukkan oleh pengguna yang tidak disebutkan namanya atau oleh penyedia isi yang memperoleh pembayaran, atau bukan dibuat oleh kami. Dengan ditampilkannya Isi Pihak Ketiga dalam situs Blibli.com, tidak berarti bahwa Kami maupun pihak terafiliasi, pejabat, petugas atau pegawainya menjalin hubungan kerja sebagai agen penjualan dengan pihak ketiga tersebut. Isi Pihak Ketiga sepenuhnya merupakan tanggung jawab pihak penyedia isi. Kami tidak menjamin bahwa semua isi pihak ketiga akurat, tidak melanggar susila, absah atau adalah yang sesungguhnya, dan tidak bertanggung jawab jika Pengguna menganggap bahwa isi pihak ketiga tersebut dapat dipercaya isinya. Selain itu Kami tidak bertanggung jawab atas kegiatan yang dilakukan oleh Pengguna dan tidak dapat dimintai pertanggungjawaban oleh siapa pun berkaitan dengan kerugian yang diderita pihak lain sebagai akibat perbuatan Pengguna.</li>
+                            </ol>
+                        </li>
+                        <li style="margin-top: 10px;"><strong>KETENTUAN UMUM BAGI PENGGUNA</strong>
+                            <ol style="list-style-type: none;">
+                                <li><span class="list-number">2.1</span>Setiap Pengguna sepakat untuk tidak menyalin, menggunakan atau mengunduh semua informasi, tulisan, gambar, rekaman video, direktori, dokumen, database atau iklan yang ada di situs Blibli.com atau yang diperoleh melalui situs Blibli.com dengan tujuan apapun termasuk dan tidak terbatas pada di antaranya menjual kembali atau menyebarkan kembali isi situs Blibli.com, melakukan pemasaran massal (lewat email, SMS, surat biasa atau lainnya), menjalankan usaha untuk menyaingi situs Blibli.com atau memanfaatkan situs Blibli.com untuk keperluan komersial di luar kegiatan transaksi dengan Blibli.com. Pengguna tidak diperbolehkan mengambil isi situs Blibli.com secara sistematis untuk membuat atau menyusun, baik secara langsung maupun tidak langsung, koleksi, kompilasi, database atau direktori (baik menggunakan perangkat otomatis ataupun proses manual) tanpa izin tertulis dari Kami. Selain itu Pengguna tidak diperkenankan menggunakan isi atau bahan tersebut di atas untuk tujuan apa pun yang tidak disebutkan di dalam Perjanjian ini.</li>
+                                <li><span class="list-number">2.2</span>Saat mengunjungi dan menggunakan situs Blibli.com, termasuk setiap fitur dan layanannya, setiap Pengguna tidak diperkenankan untuk:
+                                    <ul>
+                                        <li>melanggar setiap hukum yang berlaku (termasuk tetapi tidak terbatas pada peraturan mengenai pengawasan ekspor, perlindungan konsumen, persaingan tidak sehat, anti diskriminasi atau iklan palsu), hak-hak pihak lain baik hak intelektual, asasi, dan lainnya, dan aturan-aturan yang diatur pada Perjanjian ini.</li>
+                                        <li>memberikan informasi dan konten yang salah, tidak akurat, bersifat menyesatkan, bersifat memfitnah, bersifat asusila, mengandung pornografi, bersifat diskriminasi atau rasis.</li>
+                                        <li>mengambil tindakan yang dapat mengacaukan sistem saran atau masukan dan atau peringkat (seperti menampilkan, mengimpor atau mengekspor informasi atau masukan dari situs luar atau menggunakannya untuk tujuan yang tidak terkait dengan situs Blibli.com).</li>
+                                        <li>memberikan account di situs Blibli.com (termasuk saran atau masukan) dan nama account kepada pihak lain tanpa sepengetahuan Kami.</li>
+                                        <li>menyebarkan spam, hal-hal yang tidak berasusila, atau pesan elektronik yang berjumlah besar, pesan bersambung.</li>
+                                        <li>menyebarkan virus atau seluruh teknologi lainnya yang sejenis yang dapat merusak dan/atau merugikan situs Blibli.com, afiliasinya dan pengguna lainnya.</li>
+                                        <li>memasukkan atau memindahkan fitur pada situs Blibli.com tidak terkecuali tanpa sepengetahuan dan persetujuan dari Kami.</li>
+                                        <li>menyimpan, meniru, mengubah, atau menyebarkan konten dan fitur situs Blibli.com, termasuk cara pelayanan, konten, hak cipta dan intelektual yang terdapat pada situs Blibli.com.</li>
+                                        <li>mengambil atau mengumpulkan informasi dari pengguna lain, termasuk alamat email, tanpa sepengetahuan pengguna lain.</li>
+                                    </ul>
+                                </li>
+                                <li><span class="list-number">2.3</span>Kami berhak membatasi atau tidak memberikan akses, atau memberikan akses yang berbeda untuk dapat membuka situs Blibli.com dan fitur di dalamnya kepada masing-masing Pengguna, atau mengganti salah satu fitur atau memasukkan fitur baru tanpa pemberitahuan sebelumnya. Setiap Pengguna sadar bahwa jika situs Blibli.com tidak dapat digunakan seluruhnya atau sebagian karena alasan apapun, maka usaha atau kegiatan apapun yang dilakukan Pengguna dapat terganggu. Setiap Pengguna dengan ini sepakat bahwa karena alasan apapun membebaskan Kami dari segala bentuk pertanggungjawaban terhadap Pengguna atau terhadap pihak ketiga jika yang bersangkutan tidak dapat menggunakan Situs Blibli.com (baik karena gangguan, dibatasinya akses, dilakukannya perubahan fitur atau tidak dimasukkannya lagi fitur tertentu atau karena alasan lain); atau jika komunikasi atau transmisi tertunda, gagal atau tidak dapat berlangsung; atau jika timbul kerugian (secara langsung, tidak langsung) karena digunakannya atau tidak dapat digunakannya situs Blibli.com atau salah satu fitur di dalamnya.</li>
+                                <li><span class="list-number">2.4</span>Dengan terus melakukan akses atau terus menggunakan situs Blibli.com, Pengguna dianggap telah membaca, memahami dan menyetujui ketentuan situs Blibli.com tentang Privacy Policy yang mengatur masalah penggunaan informasi yang dimasukkan masing-masing Pengguna ke dalam situs Blibli.com. Pengguna menerima ketentuan ini serta tambahan atau setiap perubahan atau pembaruannya. Pengguna memahami dan mengetahui secara sadar bahwa Kami dapat mengubah ketentuan tentang Kerahasiaan Pribadi ini sewaktu-waktu dan akan memasukkan versi terbarunya di situs Blibli.com. Jika terus menggunakan situs Blibli.com, Pengguna dianggap menerima dan menyetujui ketentuan tentang Privacy Policy yang tercantum di situs Blibli.com pada saat digunakan.</li>
+                                <li><span class="list-number">2.5</span>Pengguna mengetahui dan menyetujui bahwa harga yang tercantum pada situs Blibli.com dapat mengalami perubahan secara sewaktu-waktu dan tanpa pemberitahuan terlebih dahulu.</li>
+                            </ol>
+                        </li>
+                        <li style="margin-top: 10px;"><strong>PENGGUNA TERDAFTAR</strong>
+                            <ol style="list-style-type: none;">
+                                <li><span class="list-number">3.1</span>Dengan memilih untuk membuat akun sebagai member dari situs Blibli.com, Pengguna Terdaftar akan membuat sebuah nama akun dan password ketika menyelesaikan proses registrasi.</li>
+                                <li><span class="list-number">3.2</span>Pengguna Terdaftar bertanggung jawab untuk menjaga kerahasiaan dan keamanan atas nama akun dan password serta Pengguna Terdaftar bertanggung jawab sepenuhnya atas segala kegiatan yang diatasnamakan nama akun Pengguna Terdaftar.</li>
+                                <li><span class="list-number">3.3</span>Pengguna Terdaftar menyetujui untuk:
+                                    <ul>
+                                        <li>Segera memberitahukan kepada Kami setiap adanya dugaan penggunaan yang tidak sah/valid dengan pengatasnamaan nama akun Pengguna terdaftar.</li>
+                                        <li>Memastikan bahwa Pengguna Terdaftar keluar(log out) dari akun pada setiap akhir dari aktivitas pada situs Blibli.com untuk menghindari kemungkinan terjadinya penyalahgunaan atas akun yang bersangkutan.</li>
+                                    </ul>
+                                </li>
+                                <li><span class="list-number">3.4</span>Kami berhak sepenuhnya untuk membatasi, memblokir atau mengakhiri pelayanan dari suatu akun, melarang akses ke situs Blibli.com dan konten, layanan, dan memperlambat atau menghapus hosted content, dan mengambil langkah-langkah hukum untuk menjaga Pengguna Terdaftar atau pengguna lain jika Kami menganggap Pengguna Terdaftar atau pengguna lain melanggar hukum-hukum yang berlaku, melanggar hak milik intelektual dari pihak terkait, atau melakukan suatu pelanggaran yang melanggar hal-hal yang tertera pada Perjanjian ini.</li>
+                                <li><span class="list-number">3.5</span>Bahwa Pengguna Terdaftar tidak diperkenankan menjual, berupaya menjual, menawarkan untuk menjual, memberikan, menyerahkan atau mengalihkan Akun, Identitas Pengguna atau Sandi kepada pihak ketiga tanpa sepengetahuan dan persetujuan tertulis sebelumnya dari Kami. Kami dapat menangguhkan atau menghentikan Akun Pengguna Terdaftar atau Akun pihak yang menerima pengalihan dari Pengguna Terdaftar yang dijual, ditawarkan untuk dijual, diberikan, diserahkan atau dialihkan dengan melanggar ketentuan dalam Pasal ini. Apabila dengan keterbatasan kemampuan Kami dalam mengidentifikasi pelanggaran ini, maka seluruh akibat, resiko adalah merupakan tanggung jawab dari Pengguna Terdaftar yang mengalihkan.</li>
+                            </ol>
+                        </li>
+                        <li style="margin-top: 10px;"><strong>HAK DAN KEWAJIBAN PENGGUNA</strong>
+                            <ol style="list-style-type: none;">
+                                <li><span class="list-number">4.1</span>Setiap Pengguna berkewajiban untuk membayar penuh atas transaksi yang dilakukan sesuai dengan ketentuan transaksi dan pembayaran.</li>
+                                <li><span class="list-number">4.2</span>Setiap Pengguna bertanggung jawab atas seluruh hal yang dilakukan di situs Blibli.com yang diatas nama Pengguna tersebut.</li>
+                                <li><span class="list-number">4.3</span>Setiap Pengguna bertanggung jawab sepenuhnya jika Pengguna melakukan pelanggaran terhadap ketentuan-ketentuan yang telah dirincikan pada Perjanjian ini, dan menyetujui untuk melepaskan Kami beserta afiliasinya atas seluruh kerugian yang diakibatkan oleh pelanggaran yang dilakukan oleh Pengguna.</li>
+                                <li><span class="list-number">4.4</span>Pengguna berhak mendapatkan barang/produk yang sesuai dan telah dibayar penuh sebelumnya oleh Pengguna, dan, tidak dapat dikembalikan atau dibatalkan secara sepihak oleh Pengguna apabila tidak sesuai dengan ketentuan yang ditetapkan oleh  Kami.</li>
+                                <li><span class="list-number">4.5</span>Pengguna berhak mendapatkan barang/produk yang telah dibayar penuh sepanjang barang/produk tersebut dicantumkan dengan harga dan rabat yang benar dan tidak mengandung informasi yang salah termasuk tidak terbatas pada akibat kesalahan pengetikan maupun kesalahan sistim operasional situs blibli.com. Dalam hal terdapat kesalahan informasi yang tercantum situs Blibli.com, maka Pengguna menyetujui bahwa Kami dapat melakukan penyesuaian/koreksi atas kesalahan informasi sebagaimana dimaksud.</li>
+                                <li><span class="list-number">4.6</span>Dengan mengacu pada ketentuan pasal 4.5 diatas, Pengguna menyetujui bahwa dalam hal terdapat ketidaksesuaian informasi yang terjadi antara program promo dengan program regular yang terdapat pada situs Blibli.com, maka Kami atas kebijakannya sendiri secara mutlak, dapat melakukan pembatalan transaksi pembelian barang oleh Pengguna, ataupun tetap menindaklanjuti proses transaksi pembelian barang yang dilakukan oleh Pengguna, dengan melakukan penyesuaian-penyesuaian/koreksi  yang diperlukan sehubungan dengan adanya ketidaksesuaian informasi yang terjadi sebagaimana dimaksud di atas.</li>
+                            </ol>
+                        </li>
+                        <li style="margin-top: 10px;"><strong>KETENTUAN PEMBAYARAN</strong>
+                            <ol style="list-style-type: none;">
+                                <li><span class="list-number">5.1</span>Kami bekerja sama dengan penyedia jasa perbankan/pembayaran yang terpercaya dalam menyediakan berbagai metode pembayaran yang dapat digunakan oleh Pengguna.</li>
+                                <li><span class="list-number">5.2</span>Setiap Pengguna berhak untuk memilih metode pembayaran yang telah disediakan oleh Kami, yang mana Pengguna merasa lebih nyaman dan mudah dalam bertransaksi dengan situs Blibli.com, dimana setiap biaya transaksi pembayaran akan ditangguhkan kepada pengguna tersebut.</li>
+                                <li><span class="list-number">5.3</span>Setiap Pengguna berkewajiban untuk membayar penuh atas pemesanan yang dilakukan dalam jangka waktu yang ditentukan oleh Kami spesifik untuk setiap metode pembayaran sebelum Kami dapat memproses lebih lanjut atas pemesanan Pengguna. Bilamana Pengguna belum melaksanakan pembayaran dalam kurun waktu yang ditentukan maka Kami berhak menyatakan bahwa pemesanan telah dibatalkan oleh Pengguna tersebut.</li>
+                                <li><span class="list-number">5.4</span>Setiap Pengguna dapat mengklarifikasi transaksi pembayaran yang telah dilaksanakan secara langsung ke penyedia jasa perbankan yang bekerja sama dengan Kami sesuai dengan syarat dan ketentuan yang berlaku.</li>
+                                <li><span class="list-number">5.5</span>Dalam hal terdapat kewajiban Kami untuk melakukan pengembalian dana/refund karena satu dan lain hal atas transaksi yang terjadi di situs Blibli.com, maka Kami akan segera menghubungi Pengguna melalui sarana komunikasi yang tersedia (email ataupun telepon) untuk meminta konfirmasi dan data-data Pengguna yang diperlukan, untuk keperluan proses refund tersebut. Apabila dalam jangka waktu 14 (empat belas) hari kalender ternyata Pengguna tidak dapat dihubungi ataupun tidak memberikan respon kepada Kami, maka Kami tidak bertanggungjawab atas keterlambatan proses refund sebagaimana dimaksud, dan oleh karenanya Kami juga tidak dapat dimintakan pertanggungjawaban untuk membayar denda, pembayaran bunga/interest dan sanksi lainnya sehubungan dengan keterlambatan proses refund tersebut.</li>
+                            </ol>
+                        </li>
+                        <li style="margin-top: 10px;"><strong>KETENTUAN PENGIRIMAN</strong>
+                            <ol style="list-style-type: none;">
+                                <li><span class="list-number">6.1</span>Kami hanya dapat mengirimkan setiap barang yang telah dipesan oleh Pengguna setelah mengetahui dan mendapatkan dana dari Pengguna secara tepat dan sesuai dengan nilai barang yang dibeli Pengguna.</li>
+                                <li><span class="list-number">6.2</span>Kami bekerja sama dengan perusahaan logistik terpercaya yang akan mengirimkan setiap pemesanan Pengguna.</li>
+                                <li><span class="list-number">6.3</span>Kami mempercayakan logistik yang telah menjalin kerja sama dengan Kami dalam menerakan layanan, biaya, estimasi waktu pengiriman, dan garansi pengiriman yang tertera pada situs Blibli.com.</li>
+                                <li><span class="list-number">6.4</span>Segala bentuk keluhan atas pengiriman adalah tanggung jawab perusahaan logistik yang bekerja sama dengan Kami. Kami akan berupaya memfasilitasi antara Pengguna dengan perusahaan logistik yang bekerja sama dengan Kami, dan sehubungan dengan hal tersebut Pengguna menyetujui untuk membebaskan Kami atas segala tuntutan dan kerugian yang diderita Pengguna terkait dengan proses pengiriman pesanan.</li>
+                                <li><span class="list-number">6.5</span>Pengguna berhak untuk mengajukan keluhan kepada Kami atas kualitas pengiriman yang telah diberikan perusahaan logistik yang bekerja sama dengan Kami ataupun mengajukan keluhan secara langsung kepada perusahaan logistik yang bekerja sama dengan Kami dalam kurun waktu dan ketentuan sesuai dengan yang ditetapkan oleh perusahaan logistik tersebut.</li>
+                            </ol>
+                        </li>
+                        <li style="margin-top: 10px;"><strong>PEMBATASAN TANGGUNG JAWAB KAMI</strong>
+                            <ol style="list-style-type: none;">
+                                <li><span class="list-number">7.1</span>Kewajiban Kami hanyalah sebatas pada penyediaan situs Blibli.com.</li>
+                                <li><span class="list-number">7.2</span>Barang-barang yang dijual di situs Blibli.com merupakan tanggung jawab sepenuhnya dari penjual yang menawarkan barang-barangnya melalui situs Blibli.com.</li>
+                                <li><span class="list-number">7.3</span>Proses pengiriman barang akan dikoordinasikan oleh Kami dengan penyedia jasa pengiriman terpercaya.</li>
+                                <li><span class="list-number">7.4</span>Bentuk kerugian yang dikarenakan dari tindakan pengguna yang melanggar Perjanjian ini sepenuhnya adalah tanggung jawab Pengguna dimana Kami lepas sepenuhnya dari tuntutan pihak-pihak yang dirugikan.</li>
+                                <li><span class="list-number">7.5</span>Barang yang sudah dibeli oleh Pengguna dan dibayar dengan dana dari Pengguna secara tepat dan sesuai dengan nilai barang yang dibeli Pengguna, tidak dapat dikembalikan atau dibatalkan secara sepihak oleh Pengguna, dan apabila setelah proses pembayaran dinyatakan berhasil dan kemudian barang yang dibeli Pengguna tidak ada, maka Blibli.com akan mencari alternatif barang pengganti atau melakukan pengembalian dana sesuai dengan nilai yang telah dibayarkan oleh pembeli.</li>
+                                <li><span class="list-number">7.6</span>Bahwa tidak satupun dari Kami ataupun supplier Kami, pemberi lisensi, kontraktor atau pihak-pihak lain yang terkait dalam pembuatan, produksi, penyampaian layanan, atau konten yang terdapat dalam aplikasi ini yang diharuskan bertanggung jawab terhadap Pengguna ataupun setiap orang yang mengajukan klaim melalui Pengguna, untuk setiap kerugian atas keuntungan atau pendapatan, ketidakakuratan data, kegagalan untuk memperoleh hasil ataupun keuntungan yang diharapkan, kerugian ekonomis, insidental, signifikan, hukuman, kerugian secara tidak langsung (termasuk tetapi tidak terbatas pada biaya-biaya yang diperlukan untuk perbaikan) yang disebabkan karena akses yang Pengguna lakukan ataupun dikarenakan kegagalan mengakses layanan atau konten yang terdapat dalam aplikasi ini, baik berdasarkan jaminan, kontrak, perbuatan melawan hukum, tanggung jawab produk atau teori hukum dan kemungkinan apakah Kami mengetahui ataupun tidak mengenai kemungkinan kerugian tersebut ataupun jika kemungkinan kerugian itu telah dapat diperkirakan sebelumnya. Kami tidak bertanggung jawab kepada Pengguna ataupun kepada pihak lainnya untuk ketidakakuratan, kesalahan, kerusakan atau kerugian yang disebabkan baik oleh karena kegagalan, penundaan, terputusnya layanan dan konten sebagaimana terdapat pada aplikasi ini, baik seluruh ataupun sebagian. Pengguna menyetujui bahwa dalam setiap kejadian, Pengguna tidak dapat mengajukan klaim kepada Kami atas segala kerugian/kerusakan yang timbul sehubungan dengan akses terhadap layanan atau konten yang terdapat pada aplikasi ini ataupun hal lain yang timbul sehubungan dengan ketentuan dalam Perjanjian ini. Hal-hal tersebut di atas akan tetap berlaku meskipun terjadi pengakhiran terhadap Perjanjian ini ataupun telah habis jangka waktu berlakunya.</li>
+                                <li><span class="list-number">7.7</span>Materi yang ditayangkan di situs Kami disediakan tanpa ketentuan atau jaminan apapun dalam hal ketepatannya. Sejauh diijinkan oleh hukum, Kami dan para pihak ketiga yang berhubungan dengan Kami dengan ini secara tegas mengecualikan:
+                                    <ul>
+                                        <li>Semua ketentuan, jaminan dan syarat lain yang dapat dinyatakan secara tidak langsung oleh undang-undang, hukum adat atau hukum keadilan.</li>
+                                        <li>Kewajiban atas kehilangan atau kerugian langsung, tidak langsung atau yang merupakan akibat yang ditanggung oleh Pengguna dalam hubungannya dengan situs Kami atau dalam hubungannya dengan penggunaan, ketidakmampuan menggunakan, atau akibat dari penggunaan situs Kami, setiap situs web yang terkait dengannya dan setiap materi yang ditempatkan padanya, termasuk, namun tidak terbatas pada, kewajiban atas:
+                                            <ul>
+                                                <li>kehilangan penghasilan atau pendapatan;</li>
+                                                <li>kehilangan bisnis;</li>
+                                                <li>kehilangan laba atau kontrak;</li>
+                                                <li>kehilangan penghematan yang telah diantisipasi sebelumnya;</li>
+                                                <li>kehilangan data;</li>
+                                                <li>kehilangan goodwill;</li>
+                                                <li>waktu manajemen atau kantor yang tersia-siakan; dan</li>
+                                                <li>kehilangan atau kerugian lain apapun jenisnya, terlepas dari bagaimana hal itu timbul dan apakah disebabkan oleh kelalaian, pelanggaran terhadap kontrak atau lainnya, meskipun dapat diperkirakan sebelumnya.</li>
+                                            </ul>
+                                            Hal ini tidak berpengaruh pada kewajiban kami yang tidak dapat dikecualikan atau dibatasi berdasarkan hukum yang berlaku. Pengguna menyetujui bahwa materi yang ditayangkan di situs Kami adalah untuk informasi saja guna membantu Pengguna dalam memutuskan untuk mengajukan penawaran atau tidak mengajukan penawaran untuk barang (barang-barang). Kami atau salah satu karyawan Kami tidak bertanggung jawab atas akibat langsung atau tidak langsung dari keputusan Pengguna untuk mengajukan penawaran atau tidak mengajukan penawaran.
+                                        </li>
+                                    </ul>
+                                </li>
+                            </ol>
+                        </li>
+                        <li style="margin-top: 10px;"><strong>HAK MILIK INTELEKTUAL</strong>
+                            <ol style="list-style-type: none;">
+                                <li><span class="list-number">8.1</span>Kami adalah pemilik tunggal atau pemegang sah semua hak atas Situs dan Isi dalam situs Blibli.com. Situs Blibli.com dan Isinya mencakup hak milik intelektual yang dilindungi oleh undang-undang hak cipta dan undang-undang yang melindungi kekayaan intelektual lainnya yang berlaku di seluruh dunia. Semua hak milik dan hak milik intelektual atas situs Blibli.com dan Isinya tetap pada Kami, afiliasinya atau pemilik lisensi Isi situs Blibli.com. Semua hak yang tidak dicantumkan di dalam Perjanjian ini atau oleh Kami dengan ini dilindungi undang-undang.</li>
+                                <li><span class="list-number">8.2</span>Situs Blibli.com, nama, dan ikon serta logo terkait merupakan merek dagang terdaftar di berbagai wilayah hukum dan dilindungi undang-undang tentang hak cipta, merek dagang atau hak milik kekayaan intelektual lainnya. Dilarang keras menggunakan, mengubah, atau memasang merek-merek tersebut di atas.</li>
+                            </ol>
+                        </li>
+                        <li style="margin-top: 10px;"><strong>PEMBERITAHUAN</strong>
+                            <ol style="list-style-type: none;">
+                                <li><span class="list-number">9.1</span>Semua pemberitahuan atau permintaan informasi kepada atau tentang Kami akan diproses jika dibuat secara tertulis dan dikirimkan kepada: 
+                                    <br />
+                                    <strong>
+                                        PT. Global Digital Niaga<br />
+                                        Jl. Aipda KS Tubun 2C No 8, Petamburan,<br />
+                                        Jakarta Barat<br />
+                                        Jakarta 11410<br />
+                                    </strong>
+                                </li>
+                                <li><span class="list-number">9.2</span>Semua pemberitahuan atau permintaan kepada atau tentang Pengguna akan diproses jika diserahkan langsung, dikirimkan melalui kurir, surat tercatat, faksimili atau email ke alamat surat, faks atau alamat email yang diberikan oleh Pengguna kepada Kami atau dengan cara memasang pemberitahuan atau permintaan tersebut di satu tempat di situs Blibli.com yang dapat diakses oleh umum tanpa dikenai biaya. Pemberitahuan kepada Pengguna akan dianggap sudah diterima oleh Pengguna tersebut jika dan bila:
+                                    <ul>
+                                        <li>Kami dapat menunjukkan bahwa komunikasi itu, baik dalam bentuk fisik maupun elektronik, telah dikirimkan kepada Pengguna tersebut, atau</li>
+                                        <li>Kami sudah memasang pemberitahuan tersebut di tempat di situs Blibli.com yang dapat diakses oleh umum tanpa dikenai biaya.</li>
+                                    </ul>
+                                </li>
+                            </ol>
+                        </li>
+                        <li style="margin-top: 10px;"><strong>PENGEMBALIAN PRODUK</strong>
+                            <ol style="list-style-type: none;">
+                                <li><span class="list-number">10.1</span>Untuk mengetahui semua ketentuan, jaminan dan syarat lain perihal pengembalian produk, Pengguna dipersilahkan mengacu pada laman <a href="https://www.blibli.com/panduan-belanja#hash-side-pengembalian">Pengembalian Produk</a></li>
+                            </ol>
+                        </li>
+                        <li style="margin-top: 10px;"><strong>PENUTUP</strong>
+                            <ol style="list-style-type: none;">
+                                <li><span class="list-number">11.1</span>Kami dan Pengguna merupakan hubungan independen dan tidak ada hubungan keagenan, kemitraan, usaha patungan, karyawan-perusahaan atau pemilik waralaba-pewaralaba yang akan dibuat atau dibuat dengan adanya Perjanjian ini.</li>
+                                <li><span class="list-number">11.2</span>Judul di dalam Perjanjian ini dibuat sebagai acuan saja, dan sama sekali tidak menetapkan, membatasi, menjelaskan atau menjabarkan apa yang ada atau tercakup dalam pasal tersebut.</li>
+                                <li><span class="list-number">11.3</span>Tidak dilaksanakannya hak Kami untuk menuntut hak Kami berdasarkan Perjanjian ini ataupun tidak diambilnya tindakan oleh Kami terhadap pelanggaran yang dilakukan oleh Pengguna terhadap Perjanjian ini tidak akan mengesampingkan atau tidak mengesampingkan hak Kami untuk mengambil tindakan terhadap pelanggaran serupa atau pelanggaran berikutnya.</li>
+                            </ol>
+                        </li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div role="dialog" class="modal fade" style="display: none" id="terms-condition-return">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-body">
+                <div class="return-modal-header">
+                    <span class="return-title">Pengembalian Produk</span>
+                    <a class="close-modal bli-close" data-dismiss="modal" href="#"></a>
+                </div>
+                <h3>Syarat &amp; Ketentuan</h3>
+                <p>Blibli.com memfasilitasi layanan pengembalian/penukaran produk cacat produksi atau yang tidak berfungsi sebagaimana mestinya sesuai dengan kebijakan yang ditetapkan oleh masing-masing penjual (<i>merchant</i>) dengan ketentuan sebagai berikut:</p>
+                <ul style="font-size: 13px;line-height: 18px;">
+                    <li>Produk yang akan dikembalikan harus dalam kondisi baru dan belum digunakan. Untuk produk-produk yang dilengkapi dengan segel garansi, pastikan segel garansi tersebut dalam keadaan utuh.</li>
+                    <li>Anda dapat melaporkan kerusakan produk dengan mengisi <b>KOLOM PENGEMBALIAN PRODUK</b> dalam kurun waktu 1x24 jam dari waktu Anda menerima produk. Setelah Permintaan Pengembalian Produk Anda diterima oleh tim <i>Customer Care</i> kami, Blibli.com/tim merchant akan melakukan pengecekan produk yang hendak dikembalikan untuk memastikan kondisi barang sesuai dengan klaim yang diajukan.</li>
+                    <li>Selanjutnya tim <i>Customer Care</i> Blibli.com akan segera menghubungi Anda melalui alamat surat elektronik (<i>email</i>) atau telepon untuk mengkonfirmasikan Permintaan Pengembalian Anda. Anda akan menerima salah satu konfirmasi berikut ini:
+
+                        - Barang akan diganti<br />
+
+                        - Barang akan diperbaiki<br />
+
+                        - Pengembalian uang atas produk yang sudah dibeli<br />
+
+                        - Pada beberapa kondisi tertentu, barang tidak dapat dikembalikan</li>
+                    <li>Sertakan foto saat produk diterima dan deksripsi singkat tentang kondisi produk terkini yang menjelaskan kerusakan dalam kurun 1x24 jam dari waktu Anda menerima produk. Laporan kerusakan harus disertai dengan <b>Nomor Pesanan</b> (nomor pesanan tercantum pada <b>RINGKASAN PEMESANAN</b> yang Anda terima setelah menyelesaikan proses pemesanan).</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+</footer>
+            </div>
+        </div>
+        <script>
+             var absoluteUrl = 'https://www.blibli.com/';
+             var staticAbsoluteUrl = 'https://www.static-src.com/4.13.0-5/';
+             var absoluteHtmlResourceUrl = 'https://www.blibli.com/resources/4-13-0-5/';
+             var staticAbsoluteProductUrl = 'https://www.static-src.com/wcsstore/Indraprastha/';
+             var deviceType = '';
+             var isUseGdnSession = true;
+             var classModalFixed = "modal-fixed";
+             if(deviceType === "MOBILE"){classModalFixed = "modal-fixed-mobile";}
+            
+             var _bwaq = _bwaq || [];
+             _bwaq.push(['_setAccount', 'blibli-Seoul']);
+        </script>
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyChymXDuLyg9rkd4VLl6nvEG7HFCehjRPo&amp;language=in&amp;region=ID&amp;libraries=places">
+        </script>
+        <script>var initialCart = {"order":null,"address":null,"sevelAddress":null,"coupons":null,"paymentTypes":null,"shippings":null,"shippingsOriginal":null,"shippingOptions":null,"availablePaymentCategories":null,"errorMessage":null,"errorCode":"CHECKOUT_BLOCKED","user":{"userId":"bfp_testqa@mailinatar.com","username":"bfp_testqa@mailinatar.com","password":null,"confirmPassword":null,"firstName":"Testing","lastName":"Future QA","emailAddress":"bfp_testqa@mailinatar.com","handphone":"082139387176","telephone":null,"gender":"MALE","birthDate":1393779600000,"createdDate":1502695286179,"address":"Jl Dewi Persik Nomor 13 gang 5","country":"ID","state":"DKI Jakarta","city":"Kota Jakarta Pusat","kecamatan":"Kemayoran","kelurahan":"Harapan Mulya","postalCode":"10640","billingAddressId":"bfp_testqa@mailinatar.com","isActive":"true","facebookUserId":null,"isPhoneNumberVerified":true,"isNeedVerifiedPhoneNumber":false,"postPnvMember":true,"kecamatanList":null,"kelurahanList":null,"cities":null,"states":null,"cartCount":null}};</script><script>var userToken = [];</script>
+            <script>var stateData = [{"stateId":"ID-1","stateName":"Bali","longitude":115.188916,"latitude":-8.409518},{"stateId":"ID-2","stateName":"Bangka Belitung","longitude":106.440587,"latitude":-2.741051},{"stateId":"ID-3","stateName":"Banten","longitude":106.064018,"latitude":-6.405817},{"stateId":"ID-4","stateName":"Bengkulu","longitude":102.260764,"latitude":-3.792845},{"stateId":"ID-5","stateName":"DI Yogyakarta","longitude":110.370714,"latitude":-7.797591},{"stateId":"ID-6","stateName":"DKI Jakarta","longitude":106.822745,"latitude":-6.174465},{"stateId":"ID-8","stateName":"Gorontalo","longitude":123.056769,"latitude":0.543544},{"stateId":"ID-7","stateName":"Jambi","longitude":103.61312,"latitude":-1.610123},{"stateId":"ID-9","stateName":"Jawa Barat","longitude":107.668887,"latitude":-7.090911},{"stateId":"ID-10","stateName":"Jawa Tengah","longitude":110.140259,"latitude":-7.150975},{"stateId":"ID-11","stateName":"Jawa Timur","longitude":112.238402,"latitude":-7.536064},{"stateId":"ID-12","stateName":"Kalimantan Barat","longitude":111.475285,"latitude":-0.278781},{"stateId":"ID-13","stateName":"Kalimantan Selatan","longitude":115.283758,"latitude":-3.092642},{"stateId":"ID-14","stateName":"Kalimantan Tengah","longitude":113.382355,"latitude":-1.681488},{"stateId":"ID-15","stateName":"Kalimantan Timur","longitude":116.419389,"latitude":0.538659},{"stateId":"ID-34","stateName":"Kalimantan Utara","longitude":116.041389,"latitude":3.073093},{"stateId":"ID-16","stateName":"Kepulauan Riau","longitude":108.142867,"latitude":3.945651},{"stateId":"ID-17","stateName":"Lampung","longitude":105.406808,"latitude":-4.558585},{"stateId":"ID-18","stateName":"Maluku","longitude":130.145273,"latitude":-3.238462},{"stateId":"ID-19","stateName":"Maluku Utara","longitude":127.808769,"latitude":1.570999},{"stateId":"ID-20","stateName":"Nanggroe Aceh Darussalam (NAD)","longitude":96.749399,"latitude":4.695135},{"stateId":"ID-21","stateName":"Nusa Tenggara Barat (NTB)","longitude":117.361648,"latitude":-8.652933},{"stateId":"ID-22","stateName":"Nusa Tenggara Timur (NTT)","longitude":121.07937,"latitude":-8.657382},{"stateId":"ID-23","stateName":"Papua","longitude":138.080353,"latitude":-4.269928},{"stateId":"ID-24","stateName":"Papua Barat","longitude":133.174716,"latitude":-1.336115},{"stateId":"ID-25","stateName":"Riau","longitude":101.706829,"latitude":0.293347},{"stateId":"ID-26","stateName":"Sulawesi Barat","longitude":119.232078,"latitude":-2.844137},{"stateId":"ID-27","stateName":"Sulawesi Selatan","longitude":119.974053,"latitude":-3.668799},{"stateId":"ID-28","stateName":"Sulawesi Tengah","longitude":121.445618,"latitude":-1.430025},{"stateId":"ID-29","stateName":"Sulawesi Tenggara","longitude":122.174605,"latitude":-4.14491},{"stateId":"ID-30","stateName":"Sulawesi Utara","longitude":123.975002,"latitude":0.624693},{"stateId":"ID-31","stateName":"Sumatera Barat","longitude":100.800005,"latitude":-0.73994},{"stateId":"ID-32","stateName":"Sumatera Selatan","longitude":103.914399,"latitude":-3.319437},{"stateId":"ID-33","stateName":"Sumatera Utara","longitude":98.978489,"latitude":2.010856}];</script>
+            <script>var isNeedVerifiedPhoneNumber = false</script><script type="text/javascript">
+    var paymentMapping = [
+        
+    ];
+</script>
+<script src="https://www.static-src.com/4.13.0-5/resources/js/builds/dist/checkout-compress.min.js"></script>
+                <script id="templateSnippet/loginPopUpView.html" type="text/ng-template">
+    &lt;div id="gdn-login-modal-body" class="login-wrapper"&gt;
+    &lt;div class="row"&gt;
+        
+        &lt;a ng-click="closePopUpLogin()" class="back-in-modal bli-arrow-left font-24"&gt;&lt;/a&gt;
+        &lt;a ng-click="closePopUpLogin()" class="close-modal bli-close"&gt;&lt;/a&gt;
+        
+        &lt;div class="large-16 medium-16 small-16 columns"&gt;
+            &lt;div class="login-content padding-bottom-0"&gt;
+                &lt;div class="row"&gt;
+                    &lt;div class="large-16 medium-16 small-16 columns login-blibli-logo text-center"&gt;
+                        &lt;img ng-src="{{staticAbsoluteUrl}}resources/images/logo-blibli-no-word.png" alt="" class="blibli-round-img"/&gt;
+                    &lt;/div&gt;
+                    &lt;div class="large-16 medium-16 small-16 small-16 columns text-center"&gt;
+                        &lt;span class="login-title"&gt;Masuk ke akun Anda&lt;/span&gt;
+                    &lt;/div&gt;
+                    &lt;div class="large-16 medium-16 small-16 columns" ng-if="isLoginError"&gt;
+                        &lt;div id="gdnloginErrorLabel" class="loginErrorLabel text-center" ng-bind="loginErrorMessage" ng-show="isLoginError"&gt;&lt;/div&gt;
+                    &lt;/div&gt;
+                    &lt;div class="text-center font-13 line-height-18"&gt;
+                        &lt;span ng-if="isNotActivated"&gt;Email Anda belum aktif. Kirim ulang email aktivasi ke &lt;a ng-click="resendEmailActivation()" class="text-blue underline"&gt;{{resendEmail}}&lt;/a&gt;.&lt;/span&gt;
+                        &lt;span ng-if="isFalse3Times"&gt;Lupa kata sandi Anda ? Silakan reset kata sandi Anda &lt;a href="#forget-password" class="forget-pass text-blue underline" ng-click="openResetPasswordModal(loginEmail)"&gt;di sini&lt;/a&gt;. &lt;br&gt; Akun Anda akan diblokir jika telah gagal Login 6 kali&lt;/span&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+
+                &lt;form id="gdn-login-form" ng-submit="checkSubmit()" autocomplete="on"&gt;
+                    
+                    &lt;div class="pop-up-form"&gt;
+                        &lt;div class="box border-bottom"&gt;
+                            &lt;span&gt;&lt;i class="bli-cc-email"&gt;&lt;/i&gt;&lt;/span&gt; &amp;nbsp;
+                            &lt;span&gt;&lt;input class="padding-0 margin-top-0 va-middle" type="text" 
+                                         placeholder="Masukan Email" name="email" id="loginEmail" 
+                                         autocomplete="username"
+                                         autofocus tabindex="1" ng-model="loginEmail" 
+                                         ng-trim="false" 
+                                         ng-change="loginEmail = loginEmail.split(' ').join('')" auto-fill-sync/&gt;&lt;/span&gt;
+                        &lt;/div&gt;
+                        &lt;div class="box border-bottom clearfix"&gt;
+                            &lt;span&gt;&lt;i class="bli-locked"&gt;&lt;/i&gt;&lt;/span&gt; &amp;nbsp;
+                            &lt;span&gt;
+                                &lt;input class="padding-0 margin-top-0 va-middle" type="{{inputType}}" 
+                                       placeholder="Kata Sandi" name="password" 
+                                       id="loginPassword" tabindex="2" autocomplete="current-password"
+                                       ng-model="loginPassword" auto-fill-sync/&gt;&lt;/span&gt;
+                            &lt;span class="float-right"&gt;&lt;i class="pointer" id="showPassword" ng-click="showHidePassword()" ng-class="{'bli-eye-close' :!isShowPassword, 'bli-eye-open' :isShowPassword}" &gt;&lt;/i&gt;&lt;/span&gt;
+                        &lt;/div&gt;
+                        &lt;div class="clearfix margin-top-20"&gt;
+                            &lt;div id="gdn-facebook-login" class="border-bottom padding-5-0 margin-20-0 color-blue-fb pointer" onclick="loginUsingFacebook('normal')"&gt;                                
+                                &lt;i class="bli-facebook font-18 color-blue-fb"&gt;&lt;/i&gt;
+                                &lt;span class="va-middle font-16 padding-left-5"&gt;Masuk dengan Facebook&lt;/span&gt;
+                            &lt;/div&gt;
+&lt;!--                            &lt;div id="gdn-facebook-login" class="button--fb" onclick="loginUsingFacebook('normal')"&gt;
+                                &lt;i class="bli-facebook font-18 color-blue-fb"&gt;&lt;/i&gt;
+                                &lt;span class="va-middle font-16 padding-left-5"&gt;Facebook&lt;/span&gt;
+                            &lt;/div&gt;
+
+                            &lt;div id="customBtn" class="button--g customGPlusSignIn"&gt;
+                                &lt;div style="height:36px;width:120px;" class="abcRioButton abcRioButtonLightBlue"&gt;
+                                    &lt;div class="abcRioButtonContentWrapper"&gt;
+                                        &lt;span class="ggg" style="margin-right: 20px;display: inline-block;vertical-align: middle;"&gt;
+                                            &lt;svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="18px" height="18px" viewBox="0 0 48 48" class="abcRioButtonSvg"&gt;
+												&lt;g&gt;
+													&lt;path fill="#EA4335" d="M24 9.5c3.54 0 6.71 1.22 9.21 3.6l6.85-6.85C35.9 2.38 30.47 0 24 0 14.62 0 6.51 5.38 2.56 13.22l7.98 6.19C12.43 13.72 17.74 9.5 24 9.5z"&gt;&lt;/path&gt;
+													&lt;path fill="#4285F4" d="M46.98 24.55c0-1.57-.15-3.09-.38-4.55H24v9.02h12.94c-.58 2.96-2.26 5.48-4.78 7.18l7.73 6c4.51-4.18 7.09-10.36 7.09-17.65z"&gt;&lt;/path&gt;
+													&lt;path fill="#FBBC05" d="M10.53 28.59c-.48-1.45-.76-2.99-.76-4.59s.27-3.14.76-4.59l-7.98-6.19C.92 16.46 0 20.12 0 24c0 3.88.92 7.54 2.56 10.78l7.97-6.19z"&gt;&lt;/path&gt;
+													&lt;path fill="#34A853" d="M24 48c6.48 0 11.93-2.13 15.89-5.81l-7.73-6c-2.15 1.45-4.92 2.3-8.16 2.3-6.26 0-11.57-4.22-13.47-9.91l-7.98 6.19C6.51 42.62 14.62 48 24 48z"&gt;&lt;/path&gt;&lt;path fill="none" d="M0 0h48v48H0z"&gt;&lt;/path&gt;
+												&lt;/g&gt;
+                                            &lt;/svg&gt;
+                                        &lt;/span&gt;
+                                        &lt;span style="font-size:13px;line-height:34px;" class="abcRioButtonContents"&gt;
+										&lt;span id="not_signed_in5c7me32edw0x"&gt;Sign In
+                                        &lt;img onLoad="startApp('normal', '');" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="&gt;
+                                        &lt;/span&gt;
+										&lt;span id="connected5c7me32edw0x" style="display:none"&gt;Signed in&lt;/span&gt;
+										&lt;/span&gt;
+                                    &lt;/div&gt;
+                                &lt;/div&gt;
+                            &lt;/div&gt;--&gt;
+                        &lt;/div&gt;
+
+                        &lt;div class="text-center margin-top-20"&gt;
+                            &lt;input id="gdn-submit-login" type="submit" value="Masuk" class="button bg-orange text-white full" /&gt;
+                            &lt;a href="#forget-password" id="forgetPass" class="button bg-grey text-white padding-10 text-inherit" ng-click="openResetPasswordModal(loginEmail)"&gt;Lupa Kata Sandi?&lt;/a&gt;
+                            
+                            &lt;span class="font-12"&gt;Belum punya akun? &lt;a id="gdn-daftar-sekarang-link" href="#register-section" ng-click="openRegisterModal('registration')"&gt;Daftar disini&lt;/a&gt;&lt;/span&gt;
+
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/form&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</script>
+<script id="templateSnippet/notifyMePopUpView.html" type="text/ng-template">
+    &lt;div id="notify-section"&gt;
+    &lt;div class="wrapper"&gt;
+        &lt;a href="#" ng-click="closeModalNotify()" class="close-modal bli-close"&gt;&lt;/a&gt;
+        &lt;div class="row"&gt;
+            &lt;div class="large-16 medium-16 small-16 columns"&gt;
+                &lt;span&gt;E-mail pemberitahuan akan dikirimkan apabila produk telah tersedia&lt;/span&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="row"&gt;
+            &lt;div class="large-16 medium-16 small-16 columns"&gt;
+                &lt;input type="text"
+                       placeholder="Alamat e-mail Anda"
+                       name="emailAddress"
+                       id="gdn-mail-textfield-wishlist"
+                       ng-model='emailAddress'
+                       ng-trim="false"
+                       ng-change="emailAddress = emailAddress.split(' ').join('')"
+                       class="text-field wishlist-mail-textfield" custom-onblur="checkEmail()"/&gt;
+                &lt;div id="emailError" class="error-message" ng-bind='emailError' style="padding-bottom: 10px;"&gt;&lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="row"&gt;
+            &lt;div class="large-16 medium-16 small-16 columns"&gt;
+                &lt;button id="gdn-mail-submit-wishlist" class="button-orange" style="width: 20%;" ng-click="submitToNotify()"&gt;OK&lt;/button&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="row"&gt;
+            &lt;div class="large-16 medium-16 small-16 columns" style="padding-top: 10px;"&gt;
+                &lt;span class="register-link"&gt;Sudah punya akun blibli.com? Klik &lt;a id="gdn-login-from-registration" href="#login-section" ng-click="openModalLogin('home')"&gt;disini&lt;/a&gt;&lt;/span&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</script>
+<script id="templateSnippet/quickCheckoutPopUpView.html" type="text/ng-template">
+    &lt;div id="quick-checkout" &gt;
+    &lt;div class="login-wrapper"&gt;
+        &lt;div class="row"&gt;
+            &lt;div&gt;
+                &lt;a ng-click="closeModal()" class="close-modal bli-close"&gt;&lt;/a&gt;
+                &lt;div class="large-8 medium-8 small-16 columns"&gt;
+                    &lt;div class="login-content"&gt;
+                        &lt;h3 style="margin: 0;"&gt;Saya sudah jadi member&lt;/h3&gt;
+                        &lt;div class="large-16 medium-16 small-16 columns"&gt;
+                            &lt;div class="special-message" ng-show="specialMessage" ng-cloak&gt;
+                                &lt;span ng-bind="specialMessage"&gt;&lt;/span&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+
+                        &lt;div class="large-16 medium-16 small-16 columns" ng-if="isLoginError"&gt;
+                            &lt;div id="gdnloginErrorLabel" class="loginErrorLabel text-center" ng-bind="loginErrorMessage" ng-show="isLoginError"&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                        &lt;div class="text-center font-13 line-height-18"&gt;
+                            &lt;span ng-if="isNotActivated"&gt;Email Anda belum aktif. Kirim ulang email aktivasi ke &lt;a ng-click="resendEmailActivation()" class="text-blue underline"&gt;{{resendEmail}}&lt;/a&gt;.&lt;/span&gt;
+                            &lt;span ng-if="isFalse3Times"&gt;Lupa kata sandi Anda ? Silakan reset kata sandi Anda &lt;a href="#forget-password" class="forget-pass text-blue underline" ng-click="openResetPasswordModal(loginEmail)"&gt;di sini&lt;/a&gt;. &lt;br&gt; Akun Anda akan diblokir jika telah gagal Login 6 kali&lt;/span&gt;
+                        &lt;/div&gt;
+
+                        &lt;form ng-submit="checkSubmit()"&gt;
+                            &lt;div class="row"&gt;
+                                &lt;div class="large-16 medium-16 small-16 columns"&gt;
+                                    &lt;label&gt;Email&lt;/label&gt;
+                                    &lt;input type="text" placeholder="Masukan Email" name="email" id="loginEmail" autofocus tabindex="1" ng-model="loginEmail" ng-trim="false" ng-change="loginEmail = loginEmail.split(' ').join('')" class="text-field" auto-fill-sync/&gt;
+                                &lt;/div&gt;
+                            &lt;/div&gt;
+                            &lt;div class="row"&gt;
+                                &lt;div class="large-16 medium-16 small-16 columns"&gt;
+                                    &lt;label&gt;Kata Sandi&lt;/label&gt;&lt;a id="forgetPass" class="forget-pass float-right" ng-click='openResetPasswordModal()'&gt;Lupa Kata Sandi?&lt;/a&gt;
+                                    &lt;input class="text-field loginPasswordQuick" type="{{inputType}}" placeholder="Kata Sandi" name="password" id="loginPassword" tabindex="2" ng-model="loginPassword" auto-fill-sync/&gt;
+                                &lt;/div&gt;
+                            &lt;/div&gt;
+                            &lt;div class="row disable-md disable-xs"&gt;
+                                &lt;div class="large-16 medium-16 small-16 columns"&gt;
+                                    &lt;div style="text-align: left"&gt;
+                                        &lt;input type="checkbox" name="rememberMeQuick" id="rememberMeQuick"/&gt;
+                                        &lt;label for="rememberMeQuick"&gt;Ingat saya&lt;/label&gt;
+                                    &lt;/div&gt;
+                                &lt;/div&gt;
+                            &lt;/div&gt;
+                            &lt;div class="row"&gt;
+                                &lt;div class="large-16 medium-16 small-16 columns"&gt;
+                                    &lt;input id="gdn-quick-checkout-login"
+                                           type="submit"
+                                           class="button-blue"
+                                           value="Masuk"/&gt;
+                                    &lt;br/&gt;&lt;br/&gt;
+                                    
+                                &lt;/div&gt;
+                            &lt;/div&gt;
+                        &lt;/form&gt;
+
+                        &lt;div class="row" ng-if='isFacebookActive'&gt;
+                            &lt;div class="large-16 medium-16 small-16 columns"&gt;
+                                &lt;button id="gdn-facebook-login"
+                                        class="button-blue button-fb"
+                                        style="text-align: center; font-size: 13px"
+                                        onclick="loginUsingFacebook('quick')"&gt;
+                                    &lt;span style="display: inline-block;margin-right: 10px"&gt;
+                                        &lt;img ng-src="{{staticAbsoluteUrl}}resources/images/assets/ic-facebook.png"/&gt;
+                                    &lt;/span&gt;
+                                    Masuk dengan akun Facebook
+                                &lt;/button&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class="large-8 medium-8 small-16 columns"&gt;
+                    &lt;div class="login-content"&gt;
+                        &lt;form&gt;
+                            &lt;h3 style="text-align: center;"&gt;Belum jadi member?&lt;/h3&gt;
+                            &lt;div class="row"&gt;
+                                &lt;div class="large-16 medium-16 small-16 columns"&gt;
+                                    &lt;span style="display: block;text-align: center;font-size: 13px;line-height: 18px;"&gt;
+                                        Ayo daftar sekarang! Nikmati fasilitas gratis pengiriman seluruh Indonesia dan berbagai keuntungan lainnya.
+                                    &lt;/span&gt;
+                                &lt;/div&gt;
+                            &lt;/div&gt;
+                            &lt;div class="row"&gt;
+                                &lt;div class="large-16 medium-16 small-16 columns" style="text-align: center;"&gt;
+                                    &lt;a href="#quickcheckout-section"
+                                       ng-click="openRegisterModal('expressRegistration')"&gt;
+                                        &lt;input id="gdn-quick-checkout-daftar" class="button-blue" type="submit" value="Lanjutkan"&gt;
+                                    &lt;/a&gt;
+                                &lt;/div&gt;
+                            &lt;/div&gt;
+                        &lt;/form&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</script>
+<script id="templateSnippet/registerPopUpView.html" type="text/ng-template">
+    &lt;div id="register-section"&gt;
+    &lt;div class="login-wrapper"&gt;
+        &lt;div class="row"&gt;
+
+            &lt;a ng-click="closeModal()" class="back-in-modal bli-arrow-left font-24"&gt;&lt;/a&gt;
+            &lt;a ng-click="closeModal()" class="close-modal bli-close"&gt;&lt;/a&gt;
+
+            &lt;div class="large-16 medium-16 small-16 columns"&gt;
+                &lt;div class="login-content padding-bottom-0"&gt;
+                    &lt;div class="row"&gt;
+                        &lt;div class="large-16 medium-16 small-16 columns login-blibli-logo text-center"&gt;
+                            &lt;img ng-src="https://www.static-src.com/4.13.0-5/resources/images/logo-blibli-no-word.png" alt=""
+                                 class="blibli-round-img"/&gt;
+                        &lt;/div&gt;
+
+                        &lt;div class="large-16 medium-16 small-16 small-16 columns text-center"&gt;
+                            &lt;span class="font-24 font-weight-300"&gt;Daftar&lt;/span&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    &lt;form id="gdn-registration-form" ng-submit="checkSubmit()" autocomplete="on"&gt;
+                        &lt;div class="pop-up-form"&gt;
+                            &lt;div class="box border-bottom"&gt;
+                                &lt;span&gt;&lt;i class="bli-cc-email font-18 color-grey va-middle"&gt;&lt;/i&gt;&lt;/span&gt; &amp;nbsp;
+                                &lt;span&gt;
+                                    &lt;input class="padding-0 margin-top-0 va-middle"
+                                           type="text" placeholder="Masukan Email"
+                                           name="emailAddress" id="registrationFormEmailAddress"
+                                           autocomplete="username"
+                                           ng-model='emailAddress' ng-trim="false"
+                                           ng-change="emailAddress = emailAddress.split(' ').join('')"
+                                           custom-onblur="checkEmail()" autofocus tabindex="1"/&gt;&lt;/span&gt;
+                            &lt;/div&gt;
+                            &lt;div class="box border-bottom clearfix"&gt;
+                                &lt;span&gt;&lt;i class="bli-locked font-18 color-grey va-middle"&gt;&lt;/i&gt;&lt;/span&gt; &amp;nbsp;
+                                &lt;span&gt;
+                                    &lt;input class="padding-0 margin-top-0 va-middle" type="{{inputType}}"
+                                           placeholder="Kata Sandi" name="password"
+                                           autocomplete="new-password"
+                                           id="registrationFormPassword" tabindex="2"
+                                           ng-model="password" custom-onblur="checkPass()"/&gt;&lt;/span&gt;
+                                &lt;span class="float-right"&gt;
+                                    &lt;i class="font-18 color-grey pointer va-middle" id="showPassword"
+                                       ng-click="showHidePassword()"
+                                       ng-class="{'bli-eye-close' :!isShowPassword, 'bli-eye-open' :isShowPassword}"&gt;&lt;/i&gt;&lt;/span&gt;
+                            &lt;/div&gt;
+
+                            &lt;div class="large-16 medium-16 small-16 columns" ng-if="passError !== ''"&gt;
+                                &lt;div id="passError" class="error-message" ng-bind='passError'&gt;&lt;/div&gt;
+                            &lt;/div&gt;
+                            &lt;div class="large-16 medium-16 small-16 columns" ng-if="errorRegister !== ''"&gt;
+                                &lt;div id="registrationFormErrorMessage" class="error-message"
+                                     ng-bind='errorRegister'&gt;&lt;/div&gt;
+                            &lt;/div&gt;
+
+                            &lt;div class="text-center margin-top-20"&gt;
+                                &lt;input id="gdn-submit-registration" type="submit" value="Daftar"
+                                       class="button-orange button bg-orange text-white full"/&gt;
+                                &lt;span class="font-12"&gt;Sudah punya akun? &lt;a id="gdn-login-from-registration"
+                                                                           href="#login-section"
+                                                                           ng-click="openModalLogin('home')"&gt;Login disini&lt;/a&gt;&lt;/span&gt;
+                                &lt;div class="font-12 margin-top-10"&gt;
+                                    Dengan klik &lt;b&gt;Daftar&lt;/b&gt;, Anda telah menyetujui &lt;a href="#terms-condition"
+                                                                                        ng-click='openModalTnc()'
+                                                                                        class="registration text-blue"&gt;Syarat &amp;
+                                    Ketentuan&lt;/a&gt; serta otomatis berlangganan newsletter Blibli.com
+                                &lt;/div&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/form&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</script>
+<script id="templateSnippet/registerConfirmationPopUpView.html" type="text/ng-template">
+    &lt;div id="register-confirmation"&gt;
+    &lt;div class="login-wrapper"&gt;
+        &lt;div class="row"&gt;                      
+            
+            &lt;a ng-click="closeModal()" class="back-in-modal bli-arrow-left font-24"&gt;&lt;/a&gt;
+            &lt;a ng-click="closeModal()" class="close-modal bli-close"&gt;&lt;/a&gt;
+            
+            &lt;div class="login-content"&gt;
+                &lt;div class="row"&gt; 
+                    &lt;div class="large-16 medium-16 small-16 columns login-blibli-logo text-center"&gt;
+                        &lt;img ng-src="https://www.static-src.com/4.13.0-5/resources/images/logo-blibli-no-word.png" alt="" class="blibli-round-img"/&gt;
+                    &lt;/div&gt;
+
+                    &lt;div class="large-16 medium-16 small-16 small-16 columns text-center"&gt;
+                        &lt;span class="font-20"&gt;
+                            Petunjuk untuk mengaktifkan akun Anda telah dikirim ke &lt;b ng-bind="confirmationEmail"&gt;&lt;/b&gt; Aktifkan akun Anda segera dan nikmati beragam keuntungan belanja di Blibli.com!
+                        &lt;/span&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;div class="large-16 medium-16 small-16 columns"&gt;
+                        &lt;a href="#" ng-click="closeModal()" class="button bg-orange text-white text-inherit round-2" style="padding: 10px 80px;"&gt;
+                            OK
+                        &lt;/a&gt;
+                    &lt;/div&gt;
+                    
+                &lt;/div&gt;
+                
+            &lt;/div&gt;
+            
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</script>
+<script id="templateSnippet/resendActivationPopUpView.html" type="text/ng-template">
+    &lt;div&gt;
+    &lt;div id='gdn-resend-activation-view' class="forgetpass-view"&gt;
+        &lt;div class="login-wrapper"&gt;
+            &lt;div class="row"&gt;            
+
+                &lt;a ng-click="closeModal()" class="back-in-modal bli-arrow-left font-24"&gt;&lt;/a&gt;
+                &lt;a ng-click="closeModal()" class="close-modal bli-close"&gt;&lt;/a&gt;
+
+                &lt;div class="login-content"&gt;
+                    &lt;div class="row"&gt;
+                        &lt;div class="large-16 medium-16 small-16 columns login-blibli-logo text-center"&gt;
+                            &lt;img ng-src="https://www.static-src.com/4.13.0-5/resources/images/logo-blibli-no-word.png" alt="" class="blibli-round-img"/&gt;
+                        &lt;/div&gt;
+
+                        &lt;div class="large-16 medium-16 small-16 small-16 columns text-center"&gt;
+                            &lt;span class="font-24"&gt;Kirim ulang email aktivasi&lt;/span&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+
+                    &lt;form ng-submit="checkSubmit()"&gt;
+                        &lt;div class="row"&gt;
+                            &lt;div class="large-16 medium-16 small-16 columns"&gt;
+                                &lt;i class="icon-field-left bli-cc-email font-24 color-grey"&gt;&lt;/i&gt;
+                                &lt;input type="email" placeholder="Masukan Email" name="emailForResendActivation" ng-model='emailResend' ng-trim="false" ng-change="emailResend = emailResend.split(' ').join('')" id="emailForResendActivation" value="" autofocus class="text-field material-field"/&gt;
+                                &lt;div id="resendActivationError" style="color:red; margin-top: 10px; font-size: 13px;" ng-bind='errorResendActivation'&gt;&lt;/div&gt;
+                            &lt;/div&gt;
+                            &lt;div class="large-16 medium-16 small-16 columns"&gt;
+                                &lt;input id="gdn-submit-email-activation" type="submit" class="button bg-orange text-white round-2 full" value="Kirim" style="padding: 10px 80px;"&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;  
+                    &lt;/form&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</script>
+<script id="templateSnippet/resetPassInstructionPopUpView.html" type="text/ng-template">
+    &lt;div id="forget-password-instruction" class="forgetpass-view"&gt;
+    
+    &lt;div class="login-wrapper"&gt;
+        &lt;div class="row"&gt;            
+            
+            &lt;a ng-click="closeModal()" class="back-in-modal bli-arrow-left font-24"&gt;&lt;/a&gt;
+            &lt;a ng-click="closeModal()" class="close-modal bli-close"&gt;&lt;/a&gt;
+            
+            &lt;div class="login-content"&gt;
+                &lt;div class="row"&gt; 
+                    &lt;div class="large-16 medium-16 small-16 columns login-blibli-logo text-center"&gt;
+                        &lt;img ng-src="https://www.static-src.com/4.13.0-5/resources/images/logo-blibli-no-word.png" alt="" class="blibli-round-img"/&gt;
+                    &lt;/div&gt;
+
+                    &lt;div class="large-16 medium-16 small-16 small-16 columns text-center"&gt;
+
+                        &lt;span class="login-title"&gt;
+                            Cek email Anda di {{emailAddress}} dan ikuti petunjuk untuk membuat kata sandi baru
+                        &lt;/span&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;div class="large-16 medium-16 small-16 columns"&gt;
+                        &lt;a id="gdn-login-from-reset-pass" href="#login-section" ng-click="openModalLogin('home')" class="button bg-orange text-white text-inherit round-2 full"&gt;
+                            Coba masuk lagi&lt;i class="bli-arrow-right padding-left-20 bold"&gt;&lt;/i&gt;
+                        &lt;/a&gt;
+                    &lt;/div&gt;
+                    
+                &lt;/div&gt;
+                
+            &lt;/div&gt;
+            
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+&lt;/div&gt;</script>
+<script id="templateSnippet/resetPassPopUpView.html" type="text/ng-template">
+    &lt;div id="forget-password" class="forgetpass-view" &gt;
+    &lt;div class="login-wrapper"&gt;
+        &lt;div class="row"&gt;
+            &lt;a ng-click="closeModal()" class="back-in-modal bli-arrow-left font-24"&gt;&lt;/a&gt;
+            &lt;a ng-click="closeModal()" class="close-modal bli-close"&gt;&lt;/a&gt;
+
+            &lt;div class="login-content"&gt;
+                &lt;div class="row"&gt;
+                    &lt;div class="large-16 medium-16 small-16 columns login-blibli-logo text-center"&gt;
+                        &lt;img ng-src="https://www.static-src.com/4.13.0-5/resources/images/logo-blibli-no-word.png" alt="" class="blibli-round-img"/&gt;
+                    &lt;/div&gt;
+
+                    &lt;div class="large-16 medium-16 small-16 small-16 columns text-center"&gt;
+                        &lt;span class="font-24 font-weight-300"&gt;Lupa kata sandi&lt;/span&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+
+                &lt;form ng-submit="submitResetPass()" autocomplete="on"&gt;                    
+
+                    &lt;div class="pop-up-form"&gt;
+                        &lt;div class="box border-bottom"&gt;
+                            &lt;span&gt;
+                                &lt;i class="bli-cc-email font-18 color-grey va-middle"&gt;&lt;/i&gt;
+                            &lt;/span&gt; &amp;nbsp;
+                            &lt;span class="width-80"&gt;
+                                &lt;input class="padding-0 margin-top-0 va-middle border-none" 
+                                       type="email" placeholder="Masukan Email" 
+                                       name="forgetPasswordLogonId" 
+                                       autocomplete="username"
+                                       ng-model='logonId' ng-trim="false" ng-change="logonId = logonId.split(' ').join('')"  id="forgetPasswordLogonId" autofocus /&gt;
+                            &lt;/span&gt;
+                        &lt;/div&gt;
+                        &lt;div class="error-message"&gt;
+                            &lt;div id="forgetPasswordError" ng-bind-html='errorResetPass'&gt;&lt;/div&gt;
+                            &lt;span ng-show="isNotActivated"&gt;Email anda belum aktif. Kirim ulang email aktivasi ke &lt;a ng-click="resendPasswordActivation()" class="text-blue text-underline text-center block"&gt;{{logonId}}&lt;/a&gt;.&lt;/span&gt;
+                        &lt;/div&gt;
+                        &lt;div class="margin-top-25"&gt;
+                            &lt;input id="gdn-submit-forgot-password" type="submit" class="button bg-orange text-white full" value="Minta kata sandi"&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;                    
+                    
+                &lt;/form&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</script>
+<script id="templateSnippet/searchView.html" type="text/ng-template">
+    &lt;div class="autocomplete {{attrs.class}}" id="{{attrs.id}}" style="height: 100%" data='test'&gt;
+    &lt;input autocomplete="off" name="s" type="text" ng-model="searchParam"
+           placeholder="{{attrs.placeholder}}" class="{{attrs.inputclass}}"
+    /&gt;
+    &lt;button id="gdn-search-button" class="bli-search search-lup"&gt;&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="list-suggestion" ng-show="completing"&gt;
+    &lt;div class="product-suggestion border-none no-margin-top padding-0" ng-show="suggestions.othersProducts.length"&gt;
+        &lt;ul&gt;
+            &lt;li suggestion ng-repeat="suggestion in suggestions.othersProducts track by $index"
+                suggestion-type="pulsaProduct"
+                index="{{$index}}"
+                indexhover="{{$index}}"
+                ng-class="{active: ($index == selectedIndex)}"
+                ng-click="select(suggestion, 'pulsaProduct', $index)"
+                ng-bind-html="suggestion.label | suggestionHighlight:'Pulsa Handphone'"&gt;
+                &lt;strong&gt;{{suggestion.term}}&lt;/strong&gt;{{suggestion.label}}
+            &lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+    &lt;ul&gt;
+        &lt;li suggestion ng-repeat="suggestion in suggestions.termInCategory track by $index"
+            suggestion-type="termInCategory"
+            index="{{$index}}"
+            indexhover="{{$index + suggestions.othersProducts.length}}"
+            ng-class="{active: ($index + suggestions.othersProducts.length == selectedIndex)}"
+            ng-click="select(suggestion, 'termInCategory', $index)"
+            ng-bind-html="suggestion.label | suggestionHighlight:searchParam"&gt;
+            {{suggestion.label}}
+        &lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;div class="product-suggestion" ng-show="suggestions.suggestions.length"&gt;
+        &lt;div class="suggestion-block"&gt;
+            &lt;span class="suggestion-label"&gt;Pencarian Populer&lt;/span&gt;
+            &lt;span class="suggestion-group text-right"&gt;
+                &lt;i class="bli-produk_populer inline-block va-middle font-18"&gt;&lt;/i&gt;
+            &lt;/span&gt;
+        &lt;/div&gt;
+        &lt;ul&gt;
+            &lt;li suggestion ng-repeat="suggestion in suggestions.suggestions track by $index"
+                suggestion-type="suggestions"
+                index="{{$index}}"
+                indexhover="{{$index + suggestions.othersProducts.length + suggestions.termInCategory.length}}"
+                ng-class="{active: ($index + suggestions.othersProducts.length + suggestions.termInCategory.length == selectedIndex)}"
+                ng-click="select(suggestion, 'suggestions', $index)"&gt;
+                &lt;span ng-bind-html="suggestion.label | suggestionHighlight:searchParam"&gt;&lt;/span&gt;
+            &lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+    &lt;div class="product-suggestion" ng-show="suggestions.anchorStore.length"&gt;
+        &lt;div class="suggestion-block"&gt;
+            &lt;span class="suggestion-label"&gt;Toko Pilihan&lt;/span&gt;
+            &lt;span class="suggestion-group text-right"&gt;
+                &lt;i class="bli-toko_pilihan inline-block va-middle font-18"&gt;&lt;/i&gt;
+            &lt;/span&gt;
+        &lt;/div&gt;
+        &lt;ul&gt;
+            &lt;li suggestion ng-repeat="suggestion in suggestions.anchorStore track by $index"
+                suggestion-type="anchorStore"
+                index="{{$index}}"
+                indexhover="{{$index + suggestions.othersProducts.length + suggestions.termInCategory.length + suggestions.suggestions.length}}"
+                ng-class="{active: ($index + suggestions.othersProducts.length + suggestions.termInCategory.length + suggestions.suggestions.length == selectedIndex)}"
+                ng-click="select(suggestion, 'anchorStore', $index)"&gt;
+                &lt;span ng-bind-html="suggestion.label | suggestionHighlight:searchParam"&gt;&lt;/span&gt;
+            &lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+    &lt;div class="product-suggestion" ng-show="suggestions.brands.length"&gt;
+        &lt;div class="suggestion-block"&gt;
+            &lt;span class="suggestion-label"&gt;Merek Terpopuler&lt;/span&gt;
+            &lt;span class="suggestion-group text-right"&gt;
+                &lt;i class="bli-merek_populer inline-block va-middle font-18"&gt;&lt;/i&gt;
+            &lt;/span&gt;
+        &lt;/div&gt;
+        &lt;ul&gt;
+            &lt;li suggestion ng-repeat="suggestion in suggestions.brands track by $index"
+                suggestion-type="brands"
+                index="{{$index}}"
+                indexhover="{{$index + suggestions.othersProducts.length + suggestions.termInCategory.length + suggestions.suggestions.length + suggestions.anchorStore.length}}"
+                ng-class="{active: ($index + suggestions.othersProducts.length + suggestions.termInCategory.length + suggestions.suggestions.length + suggestions.anchorStore.length == selectedIndex)}"
+                ng-click="select(suggestion, 'brands', $index)"&gt;
+                &lt;span ng-bind-html="suggestion.label | suggestionHighlight:searchParam"&gt;&lt;/span&gt;
+            &lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+    &lt;div class="product-suggestion" ng-show="suggestions.popularProducts.length"&gt;
+        &lt;div class="suggestion-block"&gt;
+            &lt;span class="suggestion-label"&gt;Produk Terpopuler&lt;/span&gt;
+            &lt;span class="suggestion-group text-right"&gt;
+                &lt;i class="bli-produk_populer inline-block va-middle font-18"&gt;&lt;/i&gt;
+            &lt;/span&gt;
+        &lt;/div&gt;
+        &lt;ul&gt;
+            &lt;li suggestion ng-repeat="suggestion in suggestions.popularProducts track by $index"
+                suggestion-type="popularProducts"
+                index="{{$index}}"
+                indexhover="{{$index + suggestions.othersProducts.length + suggestions.termInCategory.length + suggestions.suggestions.length + suggestions.anchorStore.length + suggestions.brands.length}}"
+                ng-class="{active: ($index + suggestions.othersProducts.length + suggestions.termInCategory.length + suggestions.suggestions.length + suggestions.anchorStore.length + suggestions.brands.length == selectedIndex)}"
+                ng-click="select(suggestion, 'popularProducts', $index)"&gt;
+                &lt;span ng-bind-html="suggestion.label | suggestionHighlight:searchParam"&gt;&lt;/span&gt;
+            &lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+    &lt;div class="product-suggestion" ng-show="suggestions.recommendedProducts.length"&gt;
+        &lt;div class="suggestion-block"&gt;
+            &lt;span class="suggestion-label"&gt;Produk Unggulan&lt;/span&gt;
+            &lt;span class="suggestion-group text-right"&gt;
+                &lt;i class="bli-produk_unggulan inline-block va-middle font-18"&gt;&lt;/i&gt;
+            &lt;/span&gt;
+        &lt;/div&gt;
+        &lt;ul&gt;
+            &lt;li suggestion ng-repeat="suggestion in suggestions.recommendedProducts track by $index"
+                suggestion-type="recommendedProducts"
+                index="{{$index}}"
+                indexhover="{{$index + suggestions.othersProducts.length + suggestions.termInCategory.length + suggestions.suggestions.length + suggestions.anchorStore.length + suggestions.brands.length + suggestions.popularProducts.length}}"
+                ng-class="{active: ($index + suggestions.othersProducts.length + suggestions.termInCategory.length + suggestions.suggestions.length + suggestions.anchorStore.length + suggestions.brands.length + suggestions.popularProducts.length == selectedIndex)}"
+                ng-click="select(suggestion, 'recommendedProducts', $index)"&gt;
+                &lt;span ng-bind-html="suggestion.label | suggestionHighlight:searchParam"&gt;&lt;/span&gt;
+            &lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</script>
+<script id="templateSnippet/loaderSegmentView.html" type="text/ng-template">
+    &lt;div class="angular-loading ng-hide" ng-show="isLoading"&gt;
+    &lt;div class="loading-wrapper"&gt;
+        &lt;img name="GdnLoaderImage" ng-src="{{staticAbsoluteUrl}}resources/images/assets/Preloader84.gif" alt=""/&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</script>
+<script id="templateSnippet/loaderSmallView.html" type="text/ng-template">
+    &lt;img ng-show='isSmallLoading' ng-src='{{staticAbsoluteUrl}}resources/images/assets/ajax-loading-16.GIF'&gt;</script><script>
+    var pendingBwaList = new Array();
+    var bwaMemberType = 'g';
+    var userIdForBWAParam = "";
+    var productData = {
+        pid: '',
+        pname: '',
+        image: '',
+        availability: '',
+        currency: 'IDR',
+        newprice: '',
+        oldprice: "",
+        c1id: "",
+        c1name: "",
+        c2id: "",
+        c2name: "",
+        c3id: "",
+        c3name: "",
+        brand: '',
+        productid : '',
+        productsku :'',
+        productname :'',
+        merchantids : '',
+        productskus :'',
+        merchantid : '',
+        merchantname : '',
+        itemsku: '',
+        producttypeid: '',
+        minofferprice: '',
+        maxofferprice: '',
+        minlistprice: '',
+        maxlistprice: '',
+        stock: '',
+        commissionType:'',
+        
+    };
+    function addToPendingOnloadBwa(params){
+        pendingBwaList.push(params);
+    }
+
+    function pushUserIdData(userIdParam){
+        if(userIdParam == ""){
+            userIdParam = getUserIdParamForAnalytics();
+            userIdForBWAParam = userIdParam;
+        }else{
+            bwaMemberType = 'm';
+        }
+        if(pendingBwaList.length &gt; 0){
+            for(i=0;i&lt;pendingBwaList.length;i++){
+                var curr = pendingBwaList[i];
+                if("_track" == curr[0] &amp;&amp; "categoryview"== curr[1]){
+                    curr[4] = ['clientmemberid', userIdParam];
+                }
+                else if("_trackProductView" == curr[0]){
+                    curr[2] = userIdParam;
+                }
+                else if("_trackPageView" == curr[0]){
+                    curr[2] = userIdParam;
+                    curr[3] = bwaMemberType;
+                }
+                else if("_trackRecommendationProduct" == curr[0]){
+                    curr[8] = userIdParam;
+                }
+                else if("_trackRecommendationView" == curr[0]){
+                    curr[8] = userIdParam;
+                }
+                else if("_track" == curr[0] &amp;&amp; "product"== curr[1]){
+                    curr[2] = ['clientmemberid', userIdParam];
+                }
+                _bwaq.push(curr);
+            }
+        }
+    }
+    function getUserIdParamForAnalytics(){
+        var userIdParam = "";
+        if(typeof document.getElementById('userIdInputHidden') != "undefined"){
+            userIdParam = document.getElementById('userIdInputHidden').value;
+            bwaMemberType = 'm';
+        }
+        if(userIdParam == ""){
+            userIdParam = '-1002';
+            bwaMemberType = 'g';
+        }
+        return userIdParam;
+    }
+    function trackFeaturedProductBanner(productSetId){
+        _bwaq.push(['_trackBanner', productSetId, 'productset', 'click']);
+
+    }    
+
+    function trackRecommendationProduct(pageType, categoryId, productDataId, productRecommendation,  index, sellType){
+        var userIdParam = getUserIdParamForAnalytics();
+        var clickedRecommendationProduct = {};
+        try{
+            if(productRecommendation != null &amp;&amp; productRecommendation[index] != null){
+                clickedRecommendationProduct = productRecommendation[index];
+            }
+            _bwaq.push(['_trackRecommendationProduct', 'click',pageType, categoryId, productDataId, JSON.stringify(clickedRecommendationProduct), sellType, "", userIdParam,]);
+        }catch(ex){
+        }
+    }
+    function sortSelectElementName() {
+    	var sortSelectElement = document.getElementById('sortSelectElement');
+        result = "";
+        if(typeof sortSelectElement != "undefined" &amp;&amp; sortSelectElement != null) {
+            result = sortSelectElement[sortSelectElement.selectedIndex].text;
+        }
+    	return result;
+    }
+</script>
+<script>
+            function createVizury() {
+
+            }
+        </script>
+    <script>
+    var userId = "506831765";
+
+    function addToCartScript(itemSku,qty,product){
+        var userIdParam=getUserIdParamForAnalytics();
+       try{
+        
+            _bwaq.push(['_track', 'addtocart',
+            ['clientmemberid', userIdParam],
+            ['itemid', itemSku],
+            ['itemprice', product.offerPrice],
+            ['quantity',qty ],
+            ['productpagetype', 'single'],
+            ['productcode', productData.productid],
+            ['productsku', product.productSku],
+            ['merchantid', product.merchant.id],
+            ['c1code',productData.c1id],['c1name',productData.c1name],
+            ['c2code',productData.c2id],['c2name',productData.c2name],
+            ['c3code',productData.c3id],['c3name',productData.c3name]
+        ]);
+        
+        }catch(err){
+
+        }
+        
+    }
+
+    
+    trackGTMEvent();
+    
+    if(cartUser.userid){
+        deferscriptlist.push(()=&gt;pushUserIdToGTMDataLayer(cartUser.userid));
+    }
+    
+</script>
+<script type="text/javascript">
+        deferscriptlist.push(function() {
+            try {
+                var viz = document.createElement("script");
+                viz.type = "text/javascript";
+                viz.async = true;
+                
+                   viz.src = ("https:" == document.location.protocol ?"https://cdn6.vizury.com" : "http://cdn6.vizury.com")+ "/analyze/pixel.php?account_id=VIZVRM907";
+                
+                var s = document.getElementsByTagName("script")[0];
+                s.parentNode.insertBefore(viz, s);
+                viz.onload = function() {
+                    try
+                    {
+                        pixel.parse();
+                    }
+                    catch (i) {
+                    }
+                };
+                viz.onreadystatechange = function() {
+                    if (viz.readyState == "complete" || viz.readyState == "loaded") {
+                        try {
+                            pixel.parse();
+                        }
+                        catch (i) {
+                        }
+                    }
+                };
+            } catch (i) {
+            }
+        });
+    </script>
+<script>
+        deferscriptlist.push(function(){
+            var scripts = document.createElement('script');
+            scripts.language = 'javascript';
+            scripts.src = '//ssp.adskom.com/ak-dco.js';
+            scripts.id = '__akcr';
+            document.getElementById('latescript').appendChild(scripts);
+
+            scripts.onload = function(){
+                __ADSKOM_CR.cookieSync();
+                __ADSKOM_CR.start();
+            }
+
+
+        });
+    </script>
+<script type="text/javascript">
+    addToPendingOnloadBwa(['_trackPageView', 'checkout', '506831765', bwaMemberType]);
+
+    function getPageTypeParamForAnalytics(){
+    	return 'checkout';
+    }
+    
+    function bwaTrackShare(mediaShareType) {
+      var userIdParam = getUserIdParamForAnalytics();
+      _bwaq.push(['_trackSocialMediaShare', 'checkout', mediaShareType, userIdParam]);
+  	}
+
+</script>
+<!--SEOUL-998-->
+
+<div class="newsletter-popup animate-newsletter fadeInDown">
+    <span class="zigzag v-zigzag-left"></span>
+    <div class="inner-newsletter-popup">
+        <a onclick="closePopup('newsletter-popup')" class="close-popup" href="#">
+            <i class="bli-close bli1"></i>
+        </a>
+        <i class="bli-cc-email bli4"></i><br />
+        <div class="star">
+            <span>
+                <i class="bli-star-fill"></i>
+                <img class="star-image" alt="" src="https://www.static-src.com/4.13.0-5/resources/images/assets/ic_star.png" />
+            </span>
+        </div>
+        <p>Khusus Untuk Anda yang Pertama Kali Berlangganan Newsletter Kami</p>    
+        <div class="newsletter-field">
+            <p>Masukan Email Anda</p>
+            <input type="email" class="text-field" id="gdnNewsletterEmail" name="email" />
+            <input type="button" onclick="openNewsletter('newsletter-popup-success')" value="BERLANGGANAN" />
+        </div>
+    </div>
+    <span class="zigzag v-zigzag-right"></span>
+</div>
+<div class="newsletter-popup-success animate-newsletter fadeInDown">
+    <span class="zigzag v-zigzag-left"></span>
+    <div class="inner-newsletter-popup">
+        <a onclick="closePopup('newsletter-popup-success')" class="close-popup" href="#">
+            <i class="bli-close bli1"></i>
+        </a>
+        <i class="bli-cc-email bli4"></i><br />
+        <h4 id="newsletterTxt1">PENDAFTARAN</h4>
+        <span id="newsletterTxt2" class="seratusribu">BERHASIL</span>
+        <div class="star">
+            <span>
+                <img class="star-image" alt="" src="https://www.static-src.com/4.13.0-5/resources/images/assets/ic_star.png" />
+            </span>
+        </div>
+        <div class="newsletter-field">
+            <span id="newsletterTxt3">Lihat email Anda untuk mendapatkan promo ID voucher</span>
+        </div>
+    </div>
+    <span class="zigzag v-zigzag-right"></span>
+</div>
+<div onclick="closePopupCover()" class="popup-cover"></div><!--  -->
+    
+<div><div tabindex="-1" class="sweet-overlay"></div><div tabindex="-1" id="sweet-alert-id" class="sweet-alert"><div class="icon error"><span class="x-mark"><span class="line left"></span><span class="line right"></span></span></div><div class="icon warning"> <span class="body"></span> <span class="dot"></span> </div> <div class="icon info"></div> <div class="icon success"> <span class="line tip"></span> <span class="line long"></span> <div class="placeholder"></div> <div class="fix"></div> </div> <div class="icon custom"></div> <h2>Title</h2><p>Text</p><button tabindex="1" id="sweet-alert-confirm" class="confirm">OK</button><br /><button tabindex="2" class="cancel custom-cancel">Cancel</button></div></div><iframe src="https://blibli.api.sociaplus.com/worker.html" style="display:none;" id="spWorker"></iframe><style id="insider-free-stylesheet">/*SD-32774*/ .ins-opt-waiter { display:none !important; opacity:0 !important; } /*SD-32774*/ .insCDInpage:not(:first-child){display:none;}</style><style>#spHeader {background-color:#52B7F1 !important;}#spHeader p span{color:#000 !important;}.spHeaderNav {color:#000 !important;}</style><img src="https://i.w55c.net/ping_match.gif?st=ADSKOM&amp;rurl=%2F%2Fssp.adskom.com%2Fcookie%2Fsync%3Fdataxu%3D_wfivefivec_" style="display: none;" /><img src="https://i.w55c.net/ping_match.gif?st=ADSKOM&amp;rurl=%2F%2Fssp.adskom.com%2Fcookie%2Fsync%3Fdataxu%3D_wfivefivec_" style="display: none;" />
+
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","//connect.facebook.net/en_US/fbevents.js");fbq("init","515463815273206");fbq("track","PageView");</script>
+
+<noscript>&lt;img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=515463815273206&amp;amp;ev=PageView&amp;amp;noscript=1"&gt;</noscript>
+
+<script type="text/javascript" id="">var ssSessionId=ssGetURLParameter("session_id"),ssDocName="SSSID",ssDataExpired=ssCalculateExpireDate(30);null!==ssSessionId&amp;&amp;ssSetCookie(ssDocName,ssSessionId,ssDataExpired);function ssGetURLParameter(b){return decodeURIComponent(((new RegExp("[?|\x26]"+b+"\x3d([^\x26;]+?)(\x26|#|;|$)")).exec(location.search)||[,""])[1].replace(/\+/g,"%20"))||null}function ssSetCookie(b,a,c){c="expires\x3d"+c;document.cookie=b+"\x3d"+a+"; "+c+"; domain\x3d.blibli.com; path\x3d/"}
+function ssCalculateExpireDate(b){var a=new Date;a.setTime(a.getTime()+864E5*b);a.toUTCString();return a};</script><script type="text/javascript" id="">conversionTag="https://ad.doubleclick.net/ddm/adj/N355806.197812NSO.CODESRV/B9801924.132557158;sz\x3d1x2;ord";var randomNumber=Math.floor(1E12*Math.random()+1),scriptTag=document.createElement("script");scriptTag.src=conversionTag+randomNumber+"?";scriptTag.language="JavaScript1.1";var insertionNode=document.body.firstChild;insertionNode.parentNode.insertBefore(scriptTag,insertionNode);</script><script type="text/javascript" id="">var hoTransactionId=hoGetURLParameterAT("trans"),hoOfferId=hoGetURLParameterAT("offer"),hoDocName="HOTSID",hoDataExpired=hoCalculateExpireDateAT(30);null!==hoTransactionId&amp;&amp;hoSetCookieAT(hoDocName,hoTransactionId+","+hoOfferId,hoDataExpired);function hoGetURLParameterAT(b){return decodeURIComponent(((new RegExp("[?|\x26]"+b+"\x3d([^\x26;]+?)(\x26|#|;|$)")).exec(location.search)||[,""])[1].replace(/\+/g,"%20"))||null}
+function hoSetCookieAT(b,a,c){c="expires\x3d"+c;document.cookie=b+"\x3d"+a+"; "+c+"; domain\x3d.blibli.com; path\x3d/"}function hoCalculateExpireDateAT(b){var a=new Date;a.setTime(a.getTime()+864E5*b);a.toUTCString();return a};</script>
+<script type="text/javascript" id="">_atrk_opts={atrk_acct:"9o/vl1ak0EY1bz",domain:"blibli.com",dynamic:!0};(function(){var a=document.createElement("script");a.type="text/javascript";a.async=!0;a.src="https://d31qbv1cthcecs.cloudfront.net/atrk.js";var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)})();</script>
+<noscript>&lt;img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=9o/vl1ak0EY1bz" style="display:none" height="1" width="1" alt=""&gt;</noscript>
+  <div style="display: none; visibility: hidden;"><script>"undefined"!==typeof FB&amp;&amp;FB.Event.subscribe("edge.create",function(a){window.dataLayer.push({event:"trackSocialInteraction",socialNetwork:"Facebook",socialAction:"Share",socialTarget:a})});</script></div><div style="display: none; visibility: hidden;"><script>"undefined"!==typeof twttr&amp;&amp;twttr.ready(function(a){a.events.bind("click",clickEventToAnalytics)});function clickEventToAnalytics(){window.dataLayer.push({event:"trackSocialInteraction",socialNetwork:"Twitter",socialAction:"tweet",socialTarget:window.location.href})};</script></div><script type="text/javascript" id="">fbq("track","InitiateCheckout");</script>  
+  <div id="criteo-tags-div" style="display: none;"><iframe src="//gum.criteo.com/syncframe" style="width:0px; height:0px; border-width:0px; margin:0px; display:none"></iframe></div><script src="https://analytics.twitter.com/i/adsct?p_id=Twitter&amp;p_user_id=0&amp;txn_id=nvqtr&amp;events=%5B%5B%22pageview%22%2Cnull%5D%5D&amp;tw_sale_amount=0&amp;tw_order_quantity=0&amp;tw_iframe_status=0&amp;tpx_cb=twttr.conversion.loadPixels" type="text/javascript"></script><img src="https://ib.adnxs.com/getuid?https:%2F%2Fssp.adskom.com%2Fcookie%2Fsync%3Fappnexus%3D%24UID" style="display: none;" /><img src="https://ib.adnxs.com/getuid?https:%2F%2Fssp.adskom.com%2Fcookie%2Fsync%3Fappnexus%3D%24UID" style="display: none;" /><img src="https://cm.g.doubleclick.net/pixel?google_nid=adskom_apac_dmp&amp;google_cm" style="display: none;" /><img src="https://cm.g.doubleclick.net/pixel?google_nid=adskom_apac_dmp&amp;google_cm" style="display: none;" /></body><canvas id="fxdriver-screenshot-canvas" style="display: none;" width="1366" height="659"></canvas></html>

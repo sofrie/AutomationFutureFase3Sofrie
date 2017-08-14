@@ -1,0 +1,54 @@
+<acceptance-test-run title="Looking up the definition of &apos;pear&apos;" name="Looking up the definition of &apos;pear&apos;" steps="4" successful="4" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="9871" timestamp="2017-08-14T14:58:25.145+07:00" session-id="e5da3052-d907-47b2-8b80-7be0f5c0c9a3">
+  <user-story id="LookupADefinition" name="Lookup a definition" path="stories/consult_dictionary/LookupADefinition.story"/>
+  <tags>
+    <tag name="Consult dictionary" type="feature"/>
+    <tag name="Consult dictionary/Lookup a definition" type="story"/>
+  </tags>
+  <test-group name="Given the user is on the Wikionary home page" result="SUCCESS">
+    <screenshots>
+      <screenshot image="85bc67e57f4331519db9c5ea86fa36d1.png"/>
+      <screenshot image="4d06443ca489661a397e6d3ba19d7830.png"/>
+    </screenshots>
+    <test-step result="SUCCESS" duration="2797">
+      <screenshots>
+        <screenshot image="85bc67e57f4331519db9c5ea86fa36d1.png"/>
+        <screenshot image="4d06443ca489661a397e6d3ba19d7830.png"/>
+      </screenshots>
+      <description>Is the home page</description>
+    </test-step>
+  </test-group>
+  <test-group name="When the user looks up the definition of the word &apos;pear&apos;" result="SUCCESS">
+    <screenshots>
+      <screenshot image="7d300c2018b85960a254bce5ce13217b.png"/>
+    </screenshots>
+    <test-group name="Looks for: &lt;span class=&apos;step-parameter&apos;&gt;pear&lt;/span&gt;" result="SUCCESS">
+      <screenshots>
+        <screenshot image="7d300c2018b85960a254bce5ce13217b.png"/>
+      </screenshots>
+      <test-step result="SUCCESS" duration="1171">
+        <screenshots>
+          <screenshot image="b550f298f338108f9cc5e568c815c98d.png"/>
+        </screenshots>
+        <description>Enters: &lt;span class=&apos;step-parameter&apos;&gt;pear&lt;/span&gt;</description>
+      </test-step>
+      <test-step result="SUCCESS" duration="3100">
+        <screenshots>
+          <screenshot image="b550f298f338108f9cc5e568c815c98d.png"/>
+          <screenshot image="8aee4cc8f8fd6c3c68e0b1db8dee54cf.png"/>
+        </screenshots>
+        <description>Starts search</description>
+      </test-step>
+    </test-group>
+  </test-group>
+  <test-group name="Then they should see the definition &apos;An edible fruit produced by the pear tree, similar to an apple but elongated towards the stem.&apos;" result="SUCCESS">
+    <screenshots>
+      <screenshot image="7d300c2018b85960a254bce5ce13217b.png"/>
+    </screenshots>
+    <test-step result="SUCCESS" duration="711">
+      <screenshots>
+        <screenshot image="7d300c2018b85960a254bce5ce13217b.png"/>
+      </screenshots>
+      <description>Should see definition: &lt;span class=&apos;step-parameter&apos;&gt;An edible fruit produced by the pear tree, similar to an apple but elongated towards the stem.&lt;/span&gt;</description>
+    </test-step>
+  </test-group>
+</acceptance-test-run>

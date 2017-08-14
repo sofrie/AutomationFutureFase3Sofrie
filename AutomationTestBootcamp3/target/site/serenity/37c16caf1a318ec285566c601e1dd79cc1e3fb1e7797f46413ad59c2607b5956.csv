@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Lookup a definition","Looking up the definition of 'apple'","SUCCESS","2017-08-14T14:58:03.599+07:00","0.0","21.54"
+"Lookup a definition","Looking up the definition of 'pear'","SUCCESS","2017-08-14T14:58:25.145+07:00","0.0","9.87"
+"Blibli story","search minyak goreng","SUCCESS","2017-08-14T17:16:24.498+07:00","0.0","29.58"

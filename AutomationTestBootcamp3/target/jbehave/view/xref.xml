@@ -1,0 +1,39 @@
+<xref>
+  <whenMade>1502713838172</whenMade>
+  <createdBy>JBehave</createdBy>
+  <metaFilter>-ignore</metaFilter>
+  <meta/>
+  <stories>
+    <story>
+      <description></description>
+      <narrative>In order to be able to buy in blibli
+As a customer
+I want to be able to buy prduct
+</narrative>
+      <name>BlibliStory.story</name>
+      <path>stories/consult_dictionary/BlibliStory.story</path>
+      <html>stories.consult_dictionary.BlibliStory.html</html>
+      <meta></meta>
+      <scenarios>Scenario:Go to blibli site and login
+Given open home page
+When I login to blibli
+When I search something
+When I choose something
+When I can see something
+When Lanjutkan Pembayaran
+When Pilih Internet Banking
+When Pilih KlikBCA
+When Input User BCA
+When Bayar Sekarang
+Then Go to Terima Kasih Page
+
+
+</scenarios>
+      <passed>true</passed>
+      <pending>false</pending>
+      <started>1502713775552</started>
+      <duration>56482</duration>
+    </story>
+  </stories>
+  <stepMatches/>
+</xref>

@@ -1,0 +1,5 @@
+group\future\id\AcceptanceTestSuite.class
+group\future\id\pages\DictionaryPage$1.class
+group\future\id\steps\DefinitionSteps.class
+group\future\id\pages\DictionaryPage.class
+group\future\id\steps\serenity\EndUserSteps.class

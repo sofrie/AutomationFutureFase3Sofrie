@@ -1,0 +1,815 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="group.future.id.AcceptanceTestSuite" time="247.434" tests="11" errors="2" skipped="4" failures="3">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_112\jre\bin"/>
+    <property name="java.vm.version" value="25.112-b15"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="D:\Blibli\FUTURE FASE 3\Automation\AutomationTestBootcamp3"/>
+    <property name="java.runtime.version" value="1.8.0_112-b15"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_112\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\sofri\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="maven.ext.class.path" value="C:\Program Files\NetBeans 8.2\java\maven-nblib\netbeans-eventspy.jar"/>
+    <property name="classworlds.conf" value="C:\Program Files\NetBeans 8.2\java\maven\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_112\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_112\bin;C:\Windows\system32\config\systemprofile\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\sofri\AppData\Local\Microsoft\WindowsApps;C:\Users\sofri\AppData\Roaming\npm;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\sofri"/>
+    <property name="user.timezone" value="Asia/Bangkok"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="user.name" value="sofri"/>
+    <property name="java.class.path" value="C:\Program Files\NetBeans 8.2\java\maven\boot\plexus-classworlds-2.4.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_112\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -Dmaven.ext.class.path=C:\Program Files\NetBeans 8.2\java\maven-nblib\netbeans-eventspy.jar -Dfile.encoding=UTF-8 install"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_112"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_112\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_112\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_112\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_112\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_112\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_112\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_112\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_112\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_112\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\Program Files\NetBeans 8.2\java\maven"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="BeforeStories" classname="java.lang.Object" time="0.048"/>
+  <testcase name="Given the user is on the Wikionary home page" classname="group.future.id.steps.DefinitionSteps" time="53.313">
+    <error message="Could not instantiate class org.openqa.selenium.firefox.FirefoxDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException"><![CDATA[net.thucydides.core.webdriver.UnsupportedDriverException: Could not instantiate class org.openqa.selenium.firefox.FirefoxDriver
+	at org.openqa.selenium.firefox.internal.NewProfileExtensionConnection.start(NewProfileExtensionConnection.java:123)
+	at org.openqa.selenium.firefox.FirefoxDriver.startClient(FirefoxDriver.java:271)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:119)
+	at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:216)
+	at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:211)
+	at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:128)
+	at net.thucydides.core.webdriver.WebdriverInstanceFactory.newFirefoxDriver(WebdriverInstanceFactory.java:59)
+	at net.thucydides.core.webdriver.WebDriverFactory.firefoxDriver(WebDriverFactory.java:492)
+	at net.thucydides.core.webdriver.WebDriverFactory.newWebdriverInstance(WebDriverFactory.java:176)
+	at net.thucydides.core.webdriver.WebDriverFacade.newDriverInstance(WebDriverFacade.java:139)
+	at net.thucydides.core.webdriver.WebDriverFacade.newProxyDriver(WebDriverFacade.java:130)
+	at net.thucydides.core.webdriver.WebDriverFacade.getProxiedDriver(WebDriverFacade.java:102)
+	at net.thucydides.core.webdriver.WebDriverFacade.openIgnoringHtmlUnitScriptErrors(WebDriverFacade.java:175)
+	at net.thucydides.core.webdriver.WebDriverFacade.get(WebDriverFacade.java:170)
+	at net.serenitybdd.core.pages.PageObject.openPageAtUrl(PageObject.java:829)
+	at net.serenitybdd.core.pages.PageObject.open(PageObject.java:739)
+	at net.serenitybdd.core.pages.PageObject.open(PageObject.java:727)
+	at group.future.id.steps.serenity.EndUserSteps.is_the_home_page(EndUserSteps.java:32)
+	at group.future.id.steps.serenity.EndUserSteps$$EnhancerByCGLIB$$113cd5d0.CGLIB$is_the_home_page$2(<generated>)
+	at group.future.id.steps.serenity.EndUserSteps$$EnhancerByCGLIB$$113cd5d0$$FastClassByCGLIB$$5312f3e7.invoke(<generated>)
+	at net.sf.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:228)
+	at net.thucydides.core.steps.StepInterceptor.invokeMethod(StepInterceptor.java:348)
+	at net.thucydides.core.steps.StepInterceptor.executeTestStepMethod(StepInterceptor.java:333)
+	at net.thucydides.core.steps.StepInterceptor.runTestStep(StepInterceptor.java:308)
+	at net.thucydides.core.steps.StepInterceptor.testStepResult(StepInterceptor.java:130)
+	at net.thucydides.core.steps.StepInterceptor.intercept(StepInterceptor.java:57)
+	at group.future.id.steps.serenity.EndUserSteps$$EnhancerByCGLIB$$113cd5d0.is_the_home_page(<generated>)
+	at group.future.id.steps.DefinitionSteps.givenTheUserIsOnTheWikionaryHomePage(DefinitionSteps.java:17)
+]]></error>
+    <system-out><![CDATA[Running story stories/consult_dictionary/LookupADefinition.story
+Lookup a definition
+(stories/consult_dictionary/LookupADefinition.story)
+Narrative:
+In order to talk better
+As a n English student
+I want to look up word definitions
+Scenario: Looking up the definition of 'apple'
+Given the user is on the Wikionary home page (FAILED)
+(net.thucydides.core.webdriver.UnsupportedDriverException: Could not instantiate class org.openqa.selenium.firefox.FirefoxDriver)
+]]></system-out>
+    <system-err><![CDATA[[pool-1-thread-1] INFO net.thucydides.core.webdriver.SystemPropertiesConfiguration - project.build.directory : null
+[pool-1-thread-1] INFO net.thucydides.core.webdriver.SystemPropertiesConfiguration - project.reporting.OutputDirectory : null
+[pool-1-thread-1] INFO net.thucydides.core.webdriver.SystemPropertiesConfiguration - OutputDirectory : D:\Blibli\FUTURE FASE 3\Automation\AutomationTestBootcamp3\target\site\serenity
+[pool-1-thread-1] INFO net.serenitybdd.core.Serenity - 
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+-------------------------------------------------------------------------------------
+
+[pool-1-thread-1] INFO net.serenitybdd.core.Serenity - Test Suite Started: Lookup a definition
+[pool-1-thread-1] INFO net.serenitybdd.core.Serenity - 
+ _____ _____ ____ _____   ____ _____  _    ____ _____ _____ ____  
+|_   _| ____/ ___|_   _| / ___|_   _|/ \  |  _ \_   _| ____|  _ \ 
+  | | |  _| \___ \ | |   \___ \ | | / _ \ | |_) || | |  _| | | | |
+  | | | |___ ___) || |    ___) || |/ ___ \|  _ < | | | |___| |_| |
+  |_| |_____|____/ |_|   |____/ |_/_/   \_\_| \_\|_| |_____|____/ 
+                                                                  
+
+TEST STARTED: Looking up the definition of 'apple'
+-------------------------------------------------------------------
+org.openqa.selenium.firefox.NotConnectedException: Unable to connect to host 127.0.0.1 on port 7055 after 45000 ms. Firefox console output:
+innable":true,"size":8207,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"54.0.1","maxVersion":"54.0.1"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null}
+1502686057257	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1502686057258	DeferredSave.extensions.json	DEBUG	Save changes
+1502686057258	addons.xpi	DEBUG	Updating database with changes to installed add-ons
+1502686057258	addons.xpi-utils	DEBUG	Updating add-on states
+1502686057259	addons.xpi-utils	DEBUG	Writing add-ons list
+1502686057261	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\aushelper@mozilla.org.xpi
+1502686057262	addons.xpi	DEBUG	Calling bootstrap method startup on aushelper@mozilla.org version 2.0
+1502686057263	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1502686057263	addons.xpi	DEBUG	Calling bootstrap method startup on e10srollout@mozilla.org version 1.50
+1502686057264	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1502686057264	addons.xpi	DEBUG	Calling bootstrap method startup on firefox@getpocket.com version 1.0.5
+1502686057265	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\screenshots@mozilla.org.xpi
+1502686057265	addons.xpi	DEBUG	Calling bootstrap method startup on screenshots@mozilla.org version 6.6.0
+1502686057266	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi
+1502686057266	addons.xpi	DEBUG	Calling bootstrap method startup on webcompat@mozilla.org version 1.1
+1502686057269	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1502686057269	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1502686057269	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1502686057270	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1502686057270	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1502686057270	addons.manager	DEBUG	Starting provider: GMPProvider
+1502686057273	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1502686057274	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1502686057274	addons.manager	DEBUG	Starting provider: PluginProvider
+1502686057274	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1502686057274	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1502686057274	addons.manager	DEBUG	Completed startup sequence
+1502686060371	addons.manager	DEBUG	Starting provider: <unnamed-provider>
+1502686060372	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+1502686060373	addons.manager	DEBUG	Provider finished startup: <unnamed-provider>
+1502686061145	DeferredSave.extensions.json	DEBUG	Write succeeded
+1502686061145	addons.xpi-utils	DEBUG	XPI Database saved, setting schema version preference to 19
+1502686061145	DeferredSave.extensions.json	DEBUG	Starting timer
+1502686061178	DeferredSave.extensions.json	DEBUG	Starting write
+1502686061192	addons.repository	DEBUG	No addons.json found.
+1502686061192	DeferredSave.addons.json	DEBUG	Save changes
+1502686061238	DeferredSave.addons.json	DEBUG	Starting timer
+1502686062661	addons.manager	DEBUG	Starting provider: PreviousExperimentProvider
+1502686062661	addons.manager	DEBUG	Registering shutdown blocker for PreviousExperimentProvider
+1502686062661	addons.manager	DEBUG	Provider finished startup: PreviousExperimentProvider
+1502686062665	DeferredSave.addons.json	DEBUG	Starting write
+1502686062685	DeferredSave.extensions.json	DEBUG	Write succeeded
+1502686062849	DeferredSave.addons.json	DEBUG	Write succeeded
+
+	at org.openqa.selenium.firefox.internal.NewProfileExtensionConnection.start(NewProfileExtensionConnection.java:123)
+	at org.openqa.selenium.firefox.FirefoxDriver.startClient(FirefoxDriver.java:271)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:119)
+	at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:216)
+	at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:211)
+	at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:128)
+	at net.thucydides.core.webdriver.WebdriverInstanceFactory.newFirefoxDriver(WebdriverInstanceFactory.java:59)
+	at net.thucydides.core.webdriver.WebDriverFactory.firefoxDriver(WebDriverFactory.java:492)
+	at net.thucydides.core.webdriver.WebDriverFactory.newWebdriverInstance(WebDriverFactory.java:176)
+	at net.thucydides.core.webdriver.WebDriverFacade.newDriverInstance(WebDriverFacade.java:139)
+	at net.thucydides.core.webdriver.WebDriverFacade.newProxyDriver(WebDriverFacade.java:130)
+	at net.thucydides.core.webdriver.WebDriverFacade.getProxiedDriver(WebDriverFacade.java:102)
+	at net.thucydides.core.webdriver.WebDriverFacade.openIgnoringHtmlUnitScriptErrors(WebDriverFacade.java:175)
+	at net.thucydides.core.webdriver.WebDriverFacade.get(WebDriverFacade.java:170)
+	at net.serenitybdd.core.pages.PageObject.openPageAtUrl(PageObject.java:829)
+	at net.serenitybdd.core.pages.PageObject.open(PageObject.java:739)
+	at net.serenitybdd.core.pages.PageObject.open(PageObject.java:727)
+	at group.future.id.steps.serenity.EndUserSteps.is_the_home_page(EndUserSteps.java:32)
+	at group.future.id.steps.serenity.EndUserSteps$$EnhancerByCGLIB$$113cd5d0.CGLIB$is_the_home_page$2(<generated>)
+	at group.future.id.steps.serenity.EndUserSteps$$EnhancerByCGLIB$$113cd5d0$$FastClassByCGLIB$$5312f3e7.invoke(<generated>)
+	at net.sf.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:228)
+	at net.thucydides.core.steps.StepInterceptor.invokeMethod(StepInterceptor.java:348)
+	at net.thucydides.core.steps.StepInterceptor.executeTestStepMethod(StepInterceptor.java:333)
+	at net.thucydides.core.steps.StepInterceptor.runTestStep(StepInterceptor.java:308)
+	at net.thucydides.core.steps.StepInterceptor.testStepResult(StepInterceptor.java:130)
+	at net.thucydides.core.steps.StepInterceptor.intercept(StepInterceptor.java:57)
+	at group.future.id.steps.serenity.EndUserSteps$$EnhancerByCGLIB$$113cd5d0.is_the_home_page(<generated>)
+	at group.future.id.steps.DefinitionSteps.givenTheUserIsOnTheWikionaryHomePage(DefinitionSteps.java:17)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.jbehave.core.steps.StepCreator$ParametrisedStep.perform(StepCreator.java:595)
+	at org.jbehave.core.embedder.StoryRunner$FineSoFar.run(StoryRunner.java:566)
+	at org.jbehave.core.embedder.StoryRunner.runStepsWhileKeepingState(StoryRunner.java:546)
+	at org.jbehave.core.embedder.StoryRunner.runScenarioSteps(StoryRunner.java:510)
+	at org.jbehave.core.embedder.StoryRunner.runStepsWithLifecycle(StoryRunner.java:476)
+	at org.jbehave.core.embedder.StoryRunner.runCancellable(StoryRunner.java:336)
+	at org.jbehave.core.embedder.StoryRunner.run(StoryRunner.java:239)
+	at org.jbehave.core.embedder.StoryRunner.run(StoryRunner.java:182)
+	at org.jbehave.core.embedder.StoryManager$EnqueuedStory.call(StoryManager.java:266)
+	at org.jbehave.core.embedder.StoryManager$EnqueuedStory.call(StoryManager.java:233)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[pool-1-thread-1] ERROR net.thucydides.core.webdriver.WebDriverFacade - FAILED TO CREATE NEW WEBDRIVER_DRIVER INSTANCE class org.openqa.selenium.firefox.FirefoxDriver: Could not instantiate class org.openqa.selenium.firefox.FirefoxDriver
+net.thucydides.core.webdriver.UnsupportedDriverException: Could not instantiate class org.openqa.selenium.firefox.FirefoxDriver
+	at net.thucydides.core.webdriver.WebDriverFactory.newWebdriverInstance(WebDriverFactory.java:201)
+	at net.thucydides.core.webdriver.WebDriverFacade.newDriverInstance(WebDriverFacade.java:139)
+	at net.thucydides.core.webdriver.WebDriverFacade.newProxyDriver(WebDriverFacade.java:130)
+	at net.thucydides.core.webdriver.WebDriverFacade.getProxiedDriver(WebDriverFacade.java:102)
+	at net.thucydides.core.webdriver.WebDriverFacade.openIgnoringHtmlUnitScriptErrors(WebDriverFacade.java:175)
+	at net.thucydides.core.webdriver.WebDriverFacade.get(WebDriverFacade.java:170)
+	at net.serenitybdd.core.pages.PageObject.openPageAtUrl(PageObject.java:829)
+	at net.serenitybdd.core.pages.PageObject.open(PageObject.java:739)
+	at net.serenitybdd.core.pages.PageObject.open(PageObject.java:727)
+	at group.future.id.steps.serenity.EndUserSteps.is_the_home_page(EndUserSteps.java:32)
+	at group.future.id.steps.serenity.EndUserSteps$$EnhancerByCGLIB$$113cd5d0.CGLIB$is_the_home_page$2(<generated>)
+	at group.future.id.steps.serenity.EndUserSteps$$EnhancerByCGLIB$$113cd5d0$$FastClassByCGLIB$$5312f3e7.invoke(<generated>)
+	at net.sf.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:228)
+	at net.thucydides.core.steps.StepInterceptor.invokeMethod(StepInterceptor.java:348)
+	at net.thucydides.core.steps.StepInterceptor.executeTestStepMethod(StepInterceptor.java:333)
+	at net.thucydides.core.steps.StepInterceptor.runTestStep(StepInterceptor.java:308)
+	at net.thucydides.core.steps.StepInterceptor.testStepResult(StepInterceptor.java:130)
+	at net.thucydides.core.steps.StepInterceptor.intercept(StepInterceptor.java:57)
+	at group.future.id.steps.serenity.EndUserSteps$$EnhancerByCGLIB$$113cd5d0.is_the_home_page(<generated>)
+	at group.future.id.steps.DefinitionSteps.givenTheUserIsOnTheWikionaryHomePage(DefinitionSteps.java:17)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.jbehave.core.steps.StepCreator$ParametrisedStep.perform(StepCreator.java:595)
+	at org.jbehave.core.embedder.StoryRunner$FineSoFar.run(StoryRunner.java:566)
+	at org.jbehave.core.embedder.StoryRunner.runStepsWhileKeepingState(StoryRunner.java:546)
+	at org.jbehave.core.embedder.StoryRunner.runScenarioSteps(StoryRunner.java:510)
+	at org.jbehave.core.embedder.StoryRunner.runStepsWithLifecycle(StoryRunner.java:476)
+	at org.jbehave.core.embedder.StoryRunner.runCancellable(StoryRunner.java:336)
+	at org.jbehave.core.embedder.StoryRunner.run(StoryRunner.java:239)
+	at org.jbehave.core.embedder.StoryRunner.run(StoryRunner.java:182)
+	at org.jbehave.core.embedder.StoryManager$EnqueuedStory.call(StoryManager.java:266)
+	at org.jbehave.core.embedder.StoryManager$EnqueuedStory.call(StoryManager.java:233)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.openqa.selenium.WebDriverException: Failed to connect to binary FirefoxBinary(C:\Program Files (x86)\Mozilla Firefox\firefox.exe) on port 7055; process output follows: 
+innable":true,"size":8207,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"54.0.1","maxVersion":"54.0.1"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null}
+1502686057257	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1502686057258	DeferredSave.extensions.json	DEBUG	Save changes
+1502686057258	addons.xpi	DEBUG	Updating database with changes to installed add-ons
+1502686057258	addons.xpi-utils	DEBUG	Updating add-on states
+1502686057259	addons.xpi-utils	DEBUG	Writing add-ons list
+1502686057261	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\aushelper@mozilla.org.xpi
+1502686057262	addons.xpi	DEBUG	Calling bootstrap method startup on aushelper@mozilla.org version 2.0
+1502686057263	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1502686057263	addons.xpi	DEBUG	Calling bootstrap method startup on e10srollout@mozilla.org version 1.50
+1502686057264	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1502686057264	addons.xpi	DEBUG	Calling bootstrap method startup on firefox@getpocket.com version 1.0.5
+1502686057265	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\screenshots@mozilla.org.xpi
+1502686057265	addons.xpi	DEBUG	Calling bootstrap method startup on screenshots@mozilla.org version 6.6.0
+1502686057266	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi
+1502686057266	addons.xpi	DEBUG	Calling bootstrap method startup on webcompat@mozilla.org version 1.1
+1502686057269	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1502686057269	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1502686057269	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1502686057270	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1502686057270	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1502686057270	addons.manager	DEBUG	Starting provider: GMPProvider
+1502686057273	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1502686057274	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1502686057274	addons.manager	DEBUG	Starting provider: PluginProvider
+1502686057274	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1502686057274	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1502686057274	addons.manager	DEBUG	Completed startup sequence
+1502686060371	addons.manager	DEBUG	Starting provider: <unnamed-provider>
+1502686060372	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+1502686060373	addons.manager	DEBUG	Provider finished startup: <unnamed-provider>
+1502686061145	DeferredSave.extensions.json	DEBUG	Write succeeded
+1502686061145	addons.xpi-utils	DEBUG	XPI Database saved, setting schema version preference to 19
+1502686061145	DeferredSave.extensions.json	DEBUG	Starting timer
+1502686061178	DeferredSave.extensions.json	DEBUG	Starting write
+1502686061192	addons.repository	DEBUG	No addons.json found.
+1502686061192	DeferredSave.addons.json	DEBUG	Save changes
+1502686061238	DeferredSave.addons.json	DEBUG	Starting timer
+1502686062661	addons.manager	DEBUG	Starting provider: PreviousExperimentProvider
+1502686062661	addons.manager	DEBUG	Registering shutdown blocker for PreviousExperimentProvider
+1502686062661	addons.manager	DEBUG	Provider finished startup: PreviousExperimentProvider
+1502686062665	DeferredSave.addons.json	DEBUG	Starting write
+1502686062685	DeferredSave.extensions.json	DEBUG	Write succeeded
+1502686062849	DeferredSave.addons.json	DEBUG	Write succeeded
+
+Build info: version: '2.50.1', revision: 'd7fc91b29de65b790abb01f3ac5f7ea2191c88a7', time: '2016-01-29 11:11:26'
+System info: host: 'Sofrie-PC', ip: '10.100.73.170', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_112'
+Driver info: driver.version: FirefoxDriver
+	at org.openqa.selenium.firefox.internal.NewProfileExtensionConnection.start(NewProfileExtensionConnection.java:135)
+	at org.openqa.selenium.firefox.FirefoxDriver.startClient(FirefoxDriver.java:271)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:119)
+	at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:216)
+	at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:211)
+	at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:128)
+	at net.thucydides.core.webdriver.WebdriverInstanceFactory.newFirefoxDriver(WebdriverInstanceFactory.java:59)
+	at net.thucydides.core.webdriver.WebDriverFactory.firefoxDriver(WebDriverFactory.java:492)
+	at net.thucydides.core.webdriver.WebDriverFactory.newWebdriverInstance(WebDriverFactory.java:176)
+	... 37 more
+Caused by: org.openqa.selenium.firefox.NotConnectedException: Unable to connect to host 127.0.0.1 on port 7055 after 45000 ms. Firefox console output:
+innable":true,"size":8207,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"54.0.1","maxVersion":"54.0.1"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null}
+1502686057257	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1502686057258	DeferredSave.extensions.json	DEBUG	Save changes
+1502686057258	addons.xpi	DEBUG	Updating database with changes to installed add-ons
+1502686057258	addons.xpi-utils	DEBUG	Updating add-on states
+1502686057259	addons.xpi-utils	DEBUG	Writing add-ons list
+1502686057261	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\aushelper@mozilla.org.xpi
+1502686057262	addons.xpi	DEBUG	Calling bootstrap method startup on aushelper@mozilla.org version 2.0
+1502686057263	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1502686057263	addons.xpi	DEBUG	Calling bootstrap method startup on e10srollout@mozilla.org version 1.50
+1502686057264	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1502686057264	addons.xpi	DEBUG	Calling bootstrap method startup on firefox@getpocket.com version 1.0.5
+1502686057265	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\screenshots@mozilla.org.xpi
+1502686057265	addons.xpi	DEBUG	Calling bootstrap method startup on screenshots@mozilla.org version 6.6.0
+1502686057266	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi
+1502686057266	addons.xpi	DEBUG	Calling bootstrap method startup on webcompat@mozilla.org version 1.1
+1502686057269	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1502686057269	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1502686057269	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1502686057270	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1502686057270	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1502686057270	addons.manager	DEBUG	Starting provider: GMPProvider
+1502686057273	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1502686057274	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1502686057274	addons.manager	DEBUG	Starting provider: PluginProvider
+1502686057274	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1502686057274	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1502686057274	addons.manager	DEBUG	Completed startup sequence
+1502686060371	addons.manager	DEBUG	Starting provider: <unnamed-provider>
+1502686060372	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+1502686060373	addons.manager	DEBUG	Provider finished startup: <unnamed-provider>
+1502686061145	DeferredSave.extensions.json	DEBUG	Write succeeded
+1502686061145	addons.xpi-utils	DEBUG	XPI Database saved, setting schema version preference to 19
+1502686061145	DeferredSave.extensions.json	DEBUG	Starting timer
+1502686061178	DeferredSave.extensions.json	DEBUG	Starting write
+1502686061192	addons.repository	DEBUG	No addons.json found.
+1502686061192	DeferredSave.addons.json	DEBUG	Save changes
+1502686061238	DeferredSave.addons.json	DEBUG	Starting timer
+1502686062661	addons.manager	DEBUG	Starting provider: PreviousExperimentProvider
+1502686062661	addons.manager	DEBUG	Registering shutdown blocker for PreviousExperimentProvider
+1502686062661	addons.manager	DEBUG	Provider finished startup: PreviousExperimentProvider
+1502686062665	DeferredSave.addons.json	DEBUG	Starting write
+1502686062685	DeferredSave.extensions.json	DEBUG	Write succeeded
+1502686062849	DeferredSave.addons.json	DEBUG	Write succeeded
+
+	at org.openqa.selenium.firefox.internal.NewProfileExtensionConnection.start(NewProfileExtensionConnection.java:123)
+	... 45 more
+]]></system-err>
+  </testcase>
+  <testcase name="When the user looks up the definition of the word &apos;apple&apos;" classname="group.future.id.steps.DefinitionSteps" time="0">
+    <skipped/>
+    <system-out><![CDATA[When the user looks up the definition of the word 'apple' (NOT PERFORMED)
+]]></system-out>
+  </testcase>
+  <testcase name="Then they should see the definition &apos;A common, round fruit produced by the tree Malus domestica, cultivated in temperate climates.&apos;" classname="group.future.id.steps.DefinitionSteps" time="0">
+    <skipped/>
+    <system-out><![CDATA[Then they should see the definition 'A common, round fruit produced by the tree Malus domestica, cultivated in temperate climates.' (NOT PERFORMED)
+]]></system-out>
+  </testcase>
+  <testcase name="Scenario: Looking up the definition of &apos;apple&apos;" classname="Scenario: Looking up the definition of &apos;apple&apos;" time="53.402">
+    <failure message="scenario failed!" type="java.lang.AssertionError">java.lang.AssertionError: scenario failed!
+	at de.codecentric.jbehave.junit.monitoring.JUnitScenarioReporter.afterScenario(JUnitScenarioReporter.java:218)
+	at org.jbehave.core.reporters.DelegatingStoryReporter.afterScenario(DelegatingStoryReporter.java:43)
+	at org.jbehave.core.reporters.ConcurrentStoryReporter.afterScenario(ConcurrentStoryReporter.java:175)
+	at org.jbehave.core.embedder.StoryRunner.runCancellable(StoryRunner.java:347)
+	at org.jbehave.core.embedder.StoryRunner.run(StoryRunner.java:239)
+	at org.jbehave.core.embedder.StoryRunner.run(StoryRunner.java:182)
+	at org.jbehave.core.embedder.StoryManager$EnqueuedStory.call(StoryManager.java:266)
+	at org.jbehave.core.embedder.StoryManager$EnqueuedStory.call(StoryManager.java:233)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+</failure>
+    <system-out><![CDATA[
+net.thucydides.core.webdriver.UnsupportedDriverException: Could not instantiate class org.openqa.selenium.firefox.FirefoxDriver
+	at net.thucydides.core.webdriver.WebDriverFacade.newDriverInstance(WebDriverFacade.java:143)
+	at net.thucydides.core.webdriver.WebDriverFacade.newProxyDriver(WebDriverFacade.java:130)
+	at net.thucydides.core.webdriver.WebDriverFacade.getProxiedDriver(WebDriverFacade.java:102)
+	at net.thucydides.core.webdriver.WebDriverFacade.openIgnoringHtmlUnitScriptErrors(WebDriverFacade.java:175)
+	at net.thucydides.core.webdriver.WebDriverFacade.get(WebDriverFacade.java:170)
+	at net.serenitybdd.core.pages.PageObject.openPageAtUrl(PageObject.java:829)
+	at net.serenitybdd.core.pages.PageObject.open(PageObject.java:739)
+	at net.serenitybdd.core.pages.PageObject.open(PageObject.java:727)
+	at group.future.id.steps.serenity.EndUserSteps.is_the_home_page(EndUserSteps.java:32)
+	at group.future.id.steps.serenity.EndUserSteps$$EnhancerByCGLIB$$113cd5d0.CGLIB$is_the_home_page$2(<generated>)
+	at group.future.id.steps.serenity.EndUserSteps$$EnhancerByCGLIB$$113cd5d0$$FastClassByCGLIB$$5312f3e7.invoke(<generated>)
+	at net.sf.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:228)
+	at net.thucydides.core.steps.StepInterceptor.invokeMethod(StepInterceptor.java:348)
+	at net.thucydides.core.steps.StepInterceptor.executeTestStepMethod(StepInterceptor.java:333)
+	at net.thucydides.core.steps.StepInterceptor.runTestStep(StepInterceptor.java:308)
+	at net.thucydides.core.steps.StepInterceptor.testStepResult(StepInterceptor.java:130)
+	at net.thucydides.core.steps.StepInterceptor.intercept(StepInterceptor.java:57)
+	at group.future.id.steps.serenity.EndUserSteps$$EnhancerByCGLIB$$113cd5d0.is_the_home_page(<generated>)
+	at group.future.id.steps.DefinitionSteps.givenTheUserIsOnTheWikionaryHomePage(DefinitionSteps.java:17)
+	(reflection-invoke)
+	at org.jbehave.core.steps.StepCreator$ParametrisedStep.perform(StepCreator.java:595)
+	at org.jbehave.core.embedder.StoryRunner$FineSoFar.run(StoryRunner.java:566)
+...
+]]></system-out>
+  </testcase>
+  <testcase name="Given the user is on the Wikionary home page​" classname="group.future.id.steps.DefinitionSteps" time="46.862">
+    <error message="Could not instantiate class org.openqa.selenium.firefox.FirefoxDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException"><![CDATA[net.thucydides.core.webdriver.UnsupportedDriverException: Could not instantiate class org.openqa.selenium.firefox.FirefoxDriver
+	at org.openqa.selenium.firefox.internal.NewProfileExtensionConnection.start(NewProfileExtensionConnection.java:123)
+	at org.openqa.selenium.firefox.FirefoxDriver.startClient(FirefoxDriver.java:271)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:119)
+	at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:216)
+	at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:211)
+	at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:128)
+	at net.thucydides.core.webdriver.WebdriverInstanceFactory.newFirefoxDriver(WebdriverInstanceFactory.java:59)
+	at net.thucydides.core.webdriver.WebDriverFactory.firefoxDriver(WebDriverFactory.java:492)
+	at net.thucydides.core.webdriver.WebDriverFactory.newWebdriverInstance(WebDriverFactory.java:176)
+	at net.thucydides.core.webdriver.WebDriverFacade.newDriverInstance(WebDriverFacade.java:139)
+	at net.thucydides.core.webdriver.WebDriverFacade.newProxyDriver(WebDriverFacade.java:130)
+	at net.thucydides.core.webdriver.WebDriverFacade.getProxiedDriver(WebDriverFacade.java:102)
+	at net.thucydides.core.webdriver.WebDriverFacade.openIgnoringHtmlUnitScriptErrors(WebDriverFacade.java:175)
+	at net.thucydides.core.webdriver.WebDriverFacade.get(WebDriverFacade.java:170)
+	at net.serenitybdd.core.pages.PageObject.openPageAtUrl(PageObject.java:829)
+	at net.serenitybdd.core.pages.PageObject.open(PageObject.java:739)
+	at net.serenitybdd.core.pages.PageObject.open(PageObject.java:727)
+	at group.future.id.steps.serenity.EndUserSteps.is_the_home_page(EndUserSteps.java:32)
+	at group.future.id.steps.serenity.EndUserSteps$$EnhancerByCGLIB$$113cd5d0.CGLIB$is_the_home_page$2(<generated>)
+	at group.future.id.steps.serenity.EndUserSteps$$EnhancerByCGLIB$$113cd5d0$$FastClassByCGLIB$$5312f3e7.invoke(<generated>)
+	at net.sf.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:228)
+	at net.thucydides.core.steps.StepInterceptor.invokeMethod(StepInterceptor.java:348)
+	at net.thucydides.core.steps.StepInterceptor.executeTestStepMethod(StepInterceptor.java:333)
+	at net.thucydides.core.steps.StepInterceptor.runTestStep(StepInterceptor.java:308)
+	at net.thucydides.core.steps.StepInterceptor.testStepResult(StepInterceptor.java:130)
+	at net.thucydides.core.steps.StepInterceptor.intercept(StepInterceptor.java:57)
+	at group.future.id.steps.serenity.EndUserSteps$$EnhancerByCGLIB$$113cd5d0.is_the_home_page(<generated>)
+	at group.future.id.steps.DefinitionSteps.givenTheUserIsOnTheWikionaryHomePage(DefinitionSteps.java:17)
+]]></error>
+    <system-out><![CDATA[Scenario: Looking up the definition of 'pear'
+Given the user is on the Wikionary home page (FAILED)
+(net.thucydides.core.webdriver.UnsupportedDriverException: Could not instantiate class org.openqa.selenium.firefox.FirefoxDriver)
+]]></system-out>
+    <system-err><![CDATA[[pool-1-thread-1] INFO net.thucydides.core.webdriver.SystemPropertiesConfiguration - project.build.directory : null
+[pool-1-thread-1] INFO net.thucydides.core.webdriver.SystemPropertiesConfiguration - project.reporting.OutputDirectory : null
+[pool-1-thread-1] INFO net.thucydides.core.webdriver.SystemPropertiesConfiguration - OutputDirectory : D:\Blibli\FUTURE FASE 3\Automation\AutomationTestBootcamp3\target\site\serenity
+[pool-1-thread-1] INFO net.thucydides.core.requirements.FileSystemRequirementsTagProvider - Loading requirements from isExists=true path:D:\Blibli\FUTURE FASE 3\Automation\AutomationTestBootcamp3\target\test-classes\stories
+[pool-1-thread-1] INFO net.thucydides.core.requirements.FileSystemRequirementsTagProvider - Loading requirements from isExists=true path:D:\Blibli\FUTURE FASE 3\Automation\AutomationTestBootcamp3\target\test-classes\stories\consult_dictionary
+[pool-1-thread-1] INFO net.thucydides.core.requirements.FileSystemRequirementsTagProvider - Loading requirements from isExists=true path:D:\Blibli\FUTURE FASE 3\Automation\AutomationTestBootcamp3\target\test-classes\stories\update_definition
+[pool-1-thread-1] ERROR net.serenitybdd.core.Serenity - 
+           __  _____ _____ ____ _____   _____ _    ___ _     _____ ____  
+  _       / / |_   _| ____/ ___|_   _| |  ___/ \  |_ _| |   | ____|  _ \ 
+ (_)_____| |    | | |  _| \___ \ | |   | |_ / _ \  | || |   |  _| | | | |
+  _|_____| |    | | | |___ ___) || |   |  _/ ___ \ | || |___| |___| |_| |
+ (_)     | |    |_| |_____|____/ |_|   |_|/_/   \_\___|_____|_____|____/ 
+          \_\                                                            
+
+TEST FAILED WITH ERROR: Looking up the definition of 'apple'
+---------------------------------------------------------------------
+[pool-1-thread-1] ERROR net.serenitybdd.core.Serenity - TEST FAILED AT STEP Is the home page
+[pool-1-thread-1] ERROR net.serenitybdd.core.Serenity - Could not instantiate class org.openqa.selenium.firefox.FirefoxDriver
+[pool-1-thread-1] INFO net.serenitybdd.core.Serenity - 
+ _____ _____ ____ _____   ____ _____  _    ____ _____ _____ ____  
+|_   _| ____/ ___|_   _| / ___|_   _|/ \  |  _ \_   _| ____|  _ \ 
+  | | |  _| \___ \ | |   \___ \ | | / _ \ | |_) || | |  _| | | | |
+  | | | |___ ___) || |    ___) || |/ ___ \|  _ < | | | |___| |_| |
+  |_| |_____|____/ |_|   |____/ |_/_/   \_\_| \_\|_| |_____|____/ 
+                                                                  
+
+TEST STARTED: Looking up the definition of 'pear'
+-------------------------------------------------------------------
+org.openqa.selenium.firefox.NotConnectedException: Unable to connect to host 127.0.0.1 on port 7055 after 45000 ms. Firefox console output:
+"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"54.0.1","maxVersion":"54.0.1"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null}
+1502686096519	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1502686096520	DeferredSave.extensions.json	DEBUG	Save changes
+1502686096521	addons.xpi	DEBUG	Updating database with changes to installed add-ons
+1502686096521	addons.xpi-utils	DEBUG	Updating add-on states
+1502686096521	addons.xpi-utils	DEBUG	Writing add-ons list
+1502686096524	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\aushelper@mozilla.org.xpi
+1502686096525	addons.xpi	DEBUG	Calling bootstrap method startup on aushelper@mozilla.org version 2.0
+1502686096525	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1502686096526	addons.xpi	DEBUG	Calling bootstrap method startup on e10srollout@mozilla.org version 1.50
+1502686096527	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1502686096527	addons.xpi	DEBUG	Calling bootstrap method startup on firefox@getpocket.com version 1.0.5
+1502686096528	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\screenshots@mozilla.org.xpi
+1502686096528	addons.xpi	DEBUG	Calling bootstrap method startup on screenshots@mozilla.org version 6.6.0
+1502686096528	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi
+1502686096529	addons.xpi	DEBUG	Calling bootstrap method startup on webcompat@mozilla.org version 1.1
+1502686096532	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1502686096532	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1502686096532	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1502686096533	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1502686096533	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1502686096533	addons.manager	DEBUG	Starting provider: GMPProvider
+1502686096536	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1502686096537	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1502686096537	addons.manager	DEBUG	Starting provider: PluginProvider
+1502686096537	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1502686096537	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1502686096537	addons.manager	DEBUG	Completed startup sequence
+1502686098024	addons.manager	DEBUG	Starting provider: <unnamed-provider>
+1502686098025	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+1502686098025	addons.manager	DEBUG	Provider finished startup: <unnamed-provider>
+1502686098181	DeferredSave.extensions.json	DEBUG	Write succeeded
+1502686098181	addons.xpi-utils	DEBUG	XPI Database saved, setting schema version preference to 19
+1502686098181	DeferredSave.extensions.json	DEBUG	Starting timer
+1502686098192	addons.repository	DEBUG	No addons.json found.
+1502686098193	DeferredSave.addons.json	DEBUG	Save changes
+1502686098195	DeferredSave.addons.json	DEBUG	Starting timer
+1502686098222	addons.manager	DEBUG	Starting provider: PreviousExperimentProvider
+1502686098223	addons.manager	DEBUG	Registering shutdown blocker for PreviousExperimentProvider
+1502686098223	addons.manager	DEBUG	Provider finished startup: PreviousExperimentProvider
+1502686098226	DeferredSave.extensions.json	DEBUG	Starting write
+1502686098245	DeferredSave.extensions.json	DEBUG	Write succeeded
+1502686098246	DeferredSave.addons.json	DEBUG	Starting write
+1502686098254	DeferredSave.addons.json	DEBUG	Write succeeded
+[GPU 6544] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+	at org.openqa.selenium.firefox.internal.NewProfileExtensionConnection.start(NewProfileExtensionConnection.java:123)
+	at org.openqa.selenium.firefox.FirefoxDriver.startClient(FirefoxDriver.java:271)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:119)
+	at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:216)
+	at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:211)
+	at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:128)
+	at net.thucydides.core.webdriver.WebdriverInstanceFactory.newFirefoxDriver(WebdriverInstanceFactory.java:59)
+	at net.thucydides.core.webdriver.WebDriverFactory.firefoxDriver(WebDriverFactory.java:492)
+	at net.thucydides.core.webdriver.WebDriverFactory.newWebdriverInstance(WebDriverFactory.java:176)
+	at net.thucydides.core.webdriver.WebDriverFacade.newDriverInstance(WebDriverFacade.java:139)
+	at net.thucydides.core.webdriver.WebDriverFacade.newProxyDriver(WebDriverFacade.java:130)
+	at net.thucydides.core.webdriver.WebDriverFacade.getProxiedDriver(WebDriverFacade.java:102)
+	at net.thucydides.core.webdriver.WebDriverFacade.openIgnoringHtmlUnitScriptErrors(WebDriverFacade.java:175)
+	at net.thucydides.core.webdriver.WebDriverFacade.get(WebDriverFacade.java:170)
+	at net.serenitybdd.core.pages.PageObject.openPageAtUrl(PageObject.java:829)
+	at net.serenitybdd.core.pages.PageObject.open(PageObject.java:739)
+	at net.serenitybdd.core.pages.PageObject.open(PageObject.java:727)
+	at group.future.id.steps.serenity.EndUserSteps.is_the_home_page(EndUserSteps.java:32)
+	at group.future.id.steps.serenity.EndUserSteps$$EnhancerByCGLIB$$113cd5d0.CGLIB$is_the_home_page$2(<generated>)
+	at group.future.id.steps.serenity.EndUserSteps$$EnhancerByCGLIB$$113cd5d0$$FastClassByCGLIB$$5312f3e7.invoke(<generated>)
+	at net.sf.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:228)
+	at net.thucydides.core.steps.StepInterceptor.invokeMethod(StepInterceptor.java:348)
+	at net.thucydides.core.steps.StepInterceptor.executeTestStepMethod(StepInterceptor.java:333)
+	at net.thucydides.core.steps.StepInterceptor.runTestStep(StepInterceptor.java:308)
+	at net.thucydides.core.steps.StepInterceptor.testStepResult(StepInterceptor.java:130)
+	at net.thucydides.core.steps.StepInterceptor.intercept(StepInterceptor.java:57)
+	at group.future.id.steps.serenity.EndUserSteps$$EnhancerByCGLIB$$113cd5d0.is_the_home_page(<generated>)
+	at group.future.id.steps.DefinitionSteps.givenTheUserIsOnTheWikionaryHomePage(DefinitionSteps.java:17)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.jbehave.core.steps.StepCreator$ParametrisedStep.perform(StepCreator.java:595)
+	at org.jbehave.core.embedder.StoryRunner$FineSoFar.run(StoryRunner.java:566)
+	at org.jbehave.core.embedder.StoryRunner.runStepsWhileKeepingState(StoryRunner.java:546)
+	at org.jbehave.core.embedder.StoryRunner.runScenarioSteps(StoryRunner.java:510)
+	at org.jbehave.core.embedder.StoryRunner.runStepsWithLifecycle(StoryRunner.java:476)
+	at org.jbehave.core.embedder.StoryRunner.runCancellable(StoryRunner.java:336)
+	at org.jbehave.core.embedder.StoryRunner.run(StoryRunner.java:239)
+	at org.jbehave.core.embedder.StoryRunner.run(StoryRunner.java:182)
+	at org.jbehave.core.embedder.StoryManager$EnqueuedStory.call(StoryManager.java:266)
+	at org.jbehave.core.embedder.StoryManager$EnqueuedStory.call(StoryManager.java:233)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[pool-1-thread-1] ERROR net.thucydides.core.webdriver.WebDriverFacade - FAILED TO CREATE NEW WEBDRIVER_DRIVER INSTANCE class org.openqa.selenium.firefox.FirefoxDriver: Could not instantiate class org.openqa.selenium.firefox.FirefoxDriver
+net.thucydides.core.webdriver.UnsupportedDriverException: Could not instantiate class org.openqa.selenium.firefox.FirefoxDriver
+	at net.thucydides.core.webdriver.WebDriverFactory.newWebdriverInstance(WebDriverFactory.java:201)
+	at net.thucydides.core.webdriver.WebDriverFacade.newDriverInstance(WebDriverFacade.java:139)
+	at net.thucydides.core.webdriver.WebDriverFacade.newProxyDriver(WebDriverFacade.java:130)
+	at net.thucydides.core.webdriver.WebDriverFacade.getProxiedDriver(WebDriverFacade.java:102)
+	at net.thucydides.core.webdriver.WebDriverFacade.openIgnoringHtmlUnitScriptErrors(WebDriverFacade.java:175)
+	at net.thucydides.core.webdriver.WebDriverFacade.get(WebDriverFacade.java:170)
+	at net.serenitybdd.core.pages.PageObject.openPageAtUrl(PageObject.java:829)
+	at net.serenitybdd.core.pages.PageObject.open(PageObject.java:739)
+	at net.serenitybdd.core.pages.PageObject.open(PageObject.java:727)
+	at group.future.id.steps.serenity.EndUserSteps.is_the_home_page(EndUserSteps.java:32)
+	at group.future.id.steps.serenity.EndUserSteps$$EnhancerByCGLIB$$113cd5d0.CGLIB$is_the_home_page$2(<generated>)
+	at group.future.id.steps.serenity.EndUserSteps$$EnhancerByCGLIB$$113cd5d0$$FastClassByCGLIB$$5312f3e7.invoke(<generated>)
+	at net.sf.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:228)
+	at net.thucydides.core.steps.StepInterceptor.invokeMethod(StepInterceptor.java:348)
+	at net.thucydides.core.steps.StepInterceptor.executeTestStepMethod(StepInterceptor.java:333)
+	at net.thucydides.core.steps.StepInterceptor.runTestStep(StepInterceptor.java:308)
+	at net.thucydides.core.steps.StepInterceptor.testStepResult(StepInterceptor.java:130)
+	at net.thucydides.core.steps.StepInterceptor.intercept(StepInterceptor.java:57)
+	at group.future.id.steps.serenity.EndUserSteps$$EnhancerByCGLIB$$113cd5d0.is_the_home_page(<generated>)
+	at group.future.id.steps.DefinitionSteps.givenTheUserIsOnTheWikionaryHomePage(DefinitionSteps.java:17)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.jbehave.core.steps.StepCreator$ParametrisedStep.perform(StepCreator.java:595)
+	at org.jbehave.core.embedder.StoryRunner$FineSoFar.run(StoryRunner.java:566)
+	at org.jbehave.core.embedder.StoryRunner.runStepsWhileKeepingState(StoryRunner.java:546)
+	at org.jbehave.core.embedder.StoryRunner.runScenarioSteps(StoryRunner.java:510)
+	at org.jbehave.core.embedder.StoryRunner.runStepsWithLifecycle(StoryRunner.java:476)
+	at org.jbehave.core.embedder.StoryRunner.runCancellable(StoryRunner.java:336)
+	at org.jbehave.core.embedder.StoryRunner.run(StoryRunner.java:239)
+	at org.jbehave.core.embedder.StoryRunner.run(StoryRunner.java:182)
+	at org.jbehave.core.embedder.StoryManager$EnqueuedStory.call(StoryManager.java:266)
+	at org.jbehave.core.embedder.StoryManager$EnqueuedStory.call(StoryManager.java:233)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.openqa.selenium.WebDriverException: Failed to connect to binary FirefoxBinary(C:\Program Files (x86)\Mozilla Firefox\firefox.exe) on port 7055; process output follows: 
+"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"54.0.1","maxVersion":"54.0.1"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null}
+1502686096519	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1502686096520	DeferredSave.extensions.json	DEBUG	Save changes
+1502686096521	addons.xpi	DEBUG	Updating database with changes to installed add-ons
+1502686096521	addons.xpi-utils	DEBUG	Updating add-on states
+1502686096521	addons.xpi-utils	DEBUG	Writing add-ons list
+1502686096524	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\aushelper@mozilla.org.xpi
+1502686096525	addons.xpi	DEBUG	Calling bootstrap method startup on aushelper@mozilla.org version 2.0
+1502686096525	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1502686096526	addons.xpi	DEBUG	Calling bootstrap method startup on e10srollout@mozilla.org version 1.50
+1502686096527	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1502686096527	addons.xpi	DEBUG	Calling bootstrap method startup on firefox@getpocket.com version 1.0.5
+1502686096528	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\screenshots@mozilla.org.xpi
+1502686096528	addons.xpi	DEBUG	Calling bootstrap method startup on screenshots@mozilla.org version 6.6.0
+1502686096528	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi
+1502686096529	addons.xpi	DEBUG	Calling bootstrap method startup on webcompat@mozilla.org version 1.1
+1502686096532	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1502686096532	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1502686096532	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1502686096533	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1502686096533	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1502686096533	addons.manager	DEBUG	Starting provider: GMPProvider
+1502686096536	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1502686096537	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1502686096537	addons.manager	DEBUG	Starting provider: PluginProvider
+1502686096537	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1502686096537	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1502686096537	addons.manager	DEBUG	Completed startup sequence
+1502686098024	addons.manager	DEBUG	Starting provider: <unnamed-provider>
+1502686098025	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+1502686098025	addons.manager	DEBUG	Provider finished startup: <unnamed-provider>
+1502686098181	DeferredSave.extensions.json	DEBUG	Write succeeded
+1502686098181	addons.xpi-utils	DEBUG	XPI Database saved, setting schema version preference to 19
+1502686098181	DeferredSave.extensions.json	DEBUG	Starting timer
+1502686098192	addons.repository	DEBUG	No addons.json found.
+1502686098193	DeferredSave.addons.json	DEBUG	Save changes
+1502686098195	DeferredSave.addons.json	DEBUG	Starting timer
+1502686098222	addons.manager	DEBUG	Starting provider: PreviousExperimentProvider
+1502686098223	addons.manager	DEBUG	Registering shutdown blocker for PreviousExperimentProvider
+1502686098223	addons.manager	DEBUG	Provider finished startup: PreviousExperimentProvider
+1502686098226	DeferredSave.extensions.json	DEBUG	Starting write
+1502686098245	DeferredSave.extensions.json	DEBUG	Write succeeded
+1502686098246	DeferredSave.addons.json	DEBUG	Starting write
+1502686098254	DeferredSave.addons.json	DEBUG	Write succeeded
+[GPU 6544] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+Build info: version: '2.50.1', revision: 'd7fc91b29de65b790abb01f3ac5f7ea2191c88a7', time: '2016-01-29 11:11:26'
+System info: host: 'Sofrie-PC', ip: '10.100.73.170', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_112'
+Driver info: driver.version: FirefoxDriver
+	at org.openqa.selenium.firefox.internal.NewProfileExtensionConnection.start(NewProfileExtensionConnection.java:135)
+	at org.openqa.selenium.firefox.FirefoxDriver.startClient(FirefoxDriver.java:271)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:119)
+	at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:216)
+	at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:211)
+	at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:128)
+	at net.thucydides.core.webdriver.WebdriverInstanceFactory.newFirefoxDriver(WebdriverInstanceFactory.java:59)
+	at net.thucydides.core.webdriver.WebDriverFactory.firefoxDriver(WebDriverFactory.java:492)
+	at net.thucydides.core.webdriver.WebDriverFactory.newWebdriverInstance(WebDriverFactory.java:176)
+	... 37 more
+Caused by: org.openqa.selenium.firefox.NotConnectedException: Unable to connect to host 127.0.0.1 on port 7055 after 45000 ms. Firefox console output:
+"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"54.0.1","maxVersion":"54.0.1"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null}
+1502686096519	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1502686096520	DeferredSave.extensions.json	DEBUG	Save changes
+1502686096521	addons.xpi	DEBUG	Updating database with changes to installed add-ons
+1502686096521	addons.xpi-utils	DEBUG	Updating add-on states
+1502686096521	addons.xpi-utils	DEBUG	Writing add-ons list
+1502686096524	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\aushelper@mozilla.org.xpi
+1502686096525	addons.xpi	DEBUG	Calling bootstrap method startup on aushelper@mozilla.org version 2.0
+1502686096525	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1502686096526	addons.xpi	DEBUG	Calling bootstrap method startup on e10srollout@mozilla.org version 1.50
+1502686096527	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1502686096527	addons.xpi	DEBUG	Calling bootstrap method startup on firefox@getpocket.com version 1.0.5
+1502686096528	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\screenshots@mozilla.org.xpi
+1502686096528	addons.xpi	DEBUG	Calling bootstrap method startup on screenshots@mozilla.org version 6.6.0
+1502686096528	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi
+1502686096529	addons.xpi	DEBUG	Calling bootstrap method startup on webcompat@mozilla.org version 1.1
+1502686096532	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1502686096532	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1502686096532	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1502686096533	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1502686096533	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1502686096533	addons.manager	DEBUG	Starting provider: GMPProvider
+1502686096536	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1502686096537	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1502686096537	addons.manager	DEBUG	Starting provider: PluginProvider
+1502686096537	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1502686096537	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1502686096537	addons.manager	DEBUG	Completed startup sequence
+1502686098024	addons.manager	DEBUG	Starting provider: <unnamed-provider>
+1502686098025	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+1502686098025	addons.manager	DEBUG	Provider finished startup: <unnamed-provider>
+1502686098181	DeferredSave.extensions.json	DEBUG	Write succeeded
+1502686098181	addons.xpi-utils	DEBUG	XPI Database saved, setting schema version preference to 19
+1502686098181	DeferredSave.extensions.json	DEBUG	Starting timer
+1502686098192	addons.repository	DEBUG	No addons.json found.
+1502686098193	DeferredSave.addons.json	DEBUG	Save changes
+1502686098195	DeferredSave.addons.json	DEBUG	Starting timer
+1502686098222	addons.manager	DEBUG	Starting provider: PreviousExperimentProvider
+1502686098223	addons.manager	DEBUG	Registering shutdown blocker for PreviousExperimentProvider
+1502686098223	addons.manager	DEBUG	Provider finished startup: PreviousExperimentProvider
+1502686098226	DeferredSave.extensions.json	DEBUG	Starting write
+1502686098245	DeferredSave.extensions.json	DEBUG	Write succeeded
+1502686098246	DeferredSave.addons.json	DEBUG	Starting write
+1502686098254	DeferredSave.addons.json	DEBUG	Write succeeded
+[GPU 6544] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+	at org.openqa.selenium.firefox.internal.NewProfileExtensionConnection.start(NewProfileExtensionConnection.java:123)
+	... 45 more
+]]></system-err>
+  </testcase>
+  <testcase name="When the user looks up the definition of the word &apos;pear&apos;" classname="group.future.id.steps.DefinitionSteps" time="0">
+    <skipped/>
+    <system-out><![CDATA[When the user looks up the definition of the word 'pear' (NOT PERFORMED)
+]]></system-out>
+  </testcase>
+  <testcase name="Then they should see the definition &apos;An edible fruit produced by the pear tree, similar to an apple but elongated towards the stem.&apos;" classname="group.future.id.steps.DefinitionSteps" time="0">
+    <skipped/>
+    <system-out><![CDATA[Then they should see the definition 'An edible fruit produced by the pear tree, similar to an apple but elongated towards the stem.' (NOT PERFORMED)
+]]></system-out>
+  </testcase>
+  <testcase name="Scenario: Looking up the definition of &apos;pear&apos;" classname="Scenario: Looking up the definition of &apos;pear&apos;" time="46.883">
+    <failure message="scenario failed!" type="java.lang.AssertionError">java.lang.AssertionError: scenario failed!
+	at de.codecentric.jbehave.junit.monitoring.JUnitScenarioReporter.afterScenario(JUnitScenarioReporter.java:218)
+	at org.jbehave.core.reporters.DelegatingStoryReporter.afterScenario(DelegatingStoryReporter.java:43)
+	at org.jbehave.core.reporters.ConcurrentStoryReporter.afterScenario(ConcurrentStoryReporter.java:175)
+	at org.jbehave.core.embedder.StoryRunner.runCancellable(StoryRunner.java:347)
+	at org.jbehave.core.embedder.StoryRunner.run(StoryRunner.java:239)
+	at org.jbehave.core.embedder.StoryRunner.run(StoryRunner.java:182)
+	at org.jbehave.core.embedder.StoryManager$EnqueuedStory.call(StoryManager.java:266)
+	at org.jbehave.core.embedder.StoryManager$EnqueuedStory.call(StoryManager.java:233)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+</failure>
+    <system-out><![CDATA[
+net.thucydides.core.webdriver.UnsupportedDriverException: Could not instantiate class org.openqa.selenium.firefox.FirefoxDriver
+	at net.thucydides.core.webdriver.WebDriverFacade.newDriverInstance(WebDriverFacade.java:143)
+	at net.thucydides.core.webdriver.WebDriverFacade.newProxyDriver(WebDriverFacade.java:130)
+	at net.thucydides.core.webdriver.WebDriverFacade.getProxiedDriver(WebDriverFacade.java:102)
+	at net.thucydides.core.webdriver.WebDriverFacade.openIgnoringHtmlUnitScriptErrors(WebDriverFacade.java:175)
+	at net.thucydides.core.webdriver.WebDriverFacade.get(WebDriverFacade.java:170)
+	at net.serenitybdd.core.pages.PageObject.openPageAtUrl(PageObject.java:829)
+	at net.serenitybdd.core.pages.PageObject.open(PageObject.java:739)
+	at net.serenitybdd.core.pages.PageObject.open(PageObject.java:727)
+	at group.future.id.steps.serenity.EndUserSteps.is_the_home_page(EndUserSteps.java:32)
+	at group.future.id.steps.serenity.EndUserSteps$$EnhancerByCGLIB$$113cd5d0.CGLIB$is_the_home_page$2(<generated>)
+	at group.future.id.steps.serenity.EndUserSteps$$EnhancerByCGLIB$$113cd5d0$$FastClassByCGLIB$$5312f3e7.invoke(<generated>)
+	at net.sf.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:228)
+	at net.thucydides.core.steps.StepInterceptor.invokeMethod(StepInterceptor.java:348)
+	at net.thucydides.core.steps.StepInterceptor.executeTestStepMethod(StepInterceptor.java:333)
+	at net.thucydides.core.steps.StepInterceptor.runTestStep(StepInterceptor.java:308)
+	at net.thucydides.core.steps.StepInterceptor.testStepResult(StepInterceptor.java:130)
+	at net.thucydides.core.steps.StepInterceptor.intercept(StepInterceptor.java:57)
+	at group.future.id.steps.serenity.EndUserSteps$$EnhancerByCGLIB$$113cd5d0.is_the_home_page(<generated>)
+	at group.future.id.steps.DefinitionSteps.givenTheUserIsOnTheWikionaryHomePage(DefinitionSteps.java:17)
+	(reflection-invoke)
+	at org.jbehave.core.steps.StepCreator$ParametrisedStep.perform(StepCreator.java:595)
+	at org.jbehave.core.embedder.StoryRunner$FineSoFar.run(StoryRunner.java:566)
+...
+]]></system-out>
+  </testcase>
+  <testcase name="LookupADefinition.story" classname="LookupADefinition.story" time="46.899">
+    <failure message="story failed!" type="java.lang.AssertionError">java.lang.AssertionError: story failed!
+	at de.codecentric.jbehave.junit.monitoring.JUnitScenarioReporter.afterStory(JUnitScenarioReporter.java:143)
+	at org.jbehave.core.reporters.DelegatingStoryReporter.afterStory(DelegatingStoryReporter.java:49)
+	at org.jbehave.core.reporters.ConcurrentStoryReporter.afterStory(ConcurrentStoryReporter.java:121)
+	at org.jbehave.core.embedder.StoryRunner.runCancellable(StoryRunner.java:355)
+	at org.jbehave.core.embedder.StoryRunner.run(StoryRunner.java:239)
+	at org.jbehave.core.embedder.StoryRunner.run(StoryRunner.java:182)
+	at org.jbehave.core.embedder.StoryManager$EnqueuedStory.call(StoryManager.java:266)
+	at org.jbehave.core.embedder.StoryManager$EnqueuedStory.call(StoryManager.java:233)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+</failure>
+    <system-out><![CDATA[
+]]></system-out>
+    <system-err><![CDATA[[pool-1-thread-1] ERROR net.serenitybdd.core.Serenity - 
+           __  _____ _____ ____ _____   _____ _    ___ _     _____ ____  
+  _       / / |_   _| ____/ ___|_   _| |  ___/ \  |_ _| |   | ____|  _ \ 
+ (_)_____| |    | | |  _| \___ \ | |   | |_ / _ \  | || |   |  _| | | | |
+  _|_____| |    | | | |___ ___) || |   |  _/ ___ \ | || |___| |___| |_| |
+ (_)     | |    |_| |_____|____/ |_|   |_|/_/   \_\___|_____|_____|____/ 
+          \_\                                                            
+
+TEST FAILED WITH ERROR: Looking up the definition of 'pear'
+---------------------------------------------------------------------
+[pool-1-thread-1] ERROR net.serenitybdd.core.Serenity - TEST FAILED AT STEP Is the home page
+[pool-1-thread-1] ERROR net.serenitybdd.core.Serenity - Could not instantiate class org.openqa.selenium.firefox.FirefoxDriver
+]]></system-err>
+  </testcase>
+  <testcase name="AfterStories" classname="java.lang.Object" time="0.027"/>
+</testsuite>

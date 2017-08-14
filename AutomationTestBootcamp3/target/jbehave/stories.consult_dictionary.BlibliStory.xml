@@ -1,0 +1,20 @@
+<story path="stories/consult_dictionary/BlibliStory.story" title="">
+<narrative keyword="Narrative:">
+  <inOrderTo keyword="In order to">be able to buy in blibli</inOrderTo>
+  <asA keyword="As a">customer</asA>
+  <iWantTo keyword="I want to">be able to buy prduct</iWantTo>
+</narrative>
+<scenario keyword="Scenario:" title="Go to blibli site and login">
+<step outcome="successful">Given open home page</step>
+<step outcome="successful">When I login to blibli</step>
+<step outcome="successful">When I search something</step>
+<step outcome="successful">When I choose something</step>
+<step outcome="successful">When I can see something</step>
+<step outcome="successful">When Lanjutkan Pembayaran</step>
+<step outcome="successful">When Pilih Internet Banking</step>
+<step outcome="successful">When Pilih KlikBCA</step>
+<step outcome="successful">When Input User BCA</step>
+<step outcome="successful">When Bayar Sekarang</step>
+<step outcome="successful">Then Go to Terima Kasih Page</step>
+</scenario>
+</story>

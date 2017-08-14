@@ -1,0 +1,139 @@
+<acceptance-test-run title="Go to blibli site and login" name="Go to blibli site and login" steps="12" successful="12" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="56388" timestamp="2017-08-14T19:29:35.618+07:00" session-id="327089dd-6797-41a6-b2af-729af2b7efa8">
+  <user-story id="BlibliStory" name="Blibli story" path="stories/consult_dictionary/BlibliStory.story"/>
+  <tags>
+    <tag name="Consult dictionary" type="feature"/>
+    <tag name="Consult dictionary/Blibli story" type="story"/>
+  </tags>
+  <test-group name="Given open home page" result="SUCCESS">
+    <screenshots>
+      <screenshot image="bf8055cd34e9e21456e12f8c80054fc6.png"/>
+    </screenshots>
+    <test-step result="SUCCESS" duration="14466">
+      <screenshots>
+        <screenshot image="7e6f012a93ebc0be5a483e08d39d37fe.png"/>
+      </screenshots>
+      <description>Open</description>
+    </test-step>
+  </test-group>
+  <test-group name="When I login to blibli" result="SUCCESS">
+    <screenshots>
+      <screenshot image="e3dbdbf9635e141005c5ca68cf96fd5d.png"/>
+      <screenshot image="0541f4de2d4b541e02beeae64ad1a9cf.png"/>
+    </screenshots>
+    <test-step result="SUCCESS" duration="4903">
+      <screenshots>
+        <screenshot image="e3dbdbf9635e141005c5ca68cf96fd5d.png"/>
+        <screenshot image="519b1059a44d5875b050791b8acb7c4d.png"/>
+      </screenshots>
+      <description>Click user login</description>
+    </test-step>
+  </test-group>
+  <test-group name="When I search something" result="SUCCESS">
+    <screenshots>
+      <screenshot image="5e151cfde3a1b80f164b9823714b0cbb.png"/>
+    </screenshots>
+    <test-step result="SUCCESS" duration="5762">
+      <screenshots>
+        <screenshot image="5e151cfde3a1b80f164b9823714b0cbb.png"/>
+      </screenshots>
+      <description>Search minyak goreng</description>
+    </test-step>
+  </test-group>
+  <test-group name="When I choose something" result="SUCCESS">
+    <screenshots>
+      <screenshot image="09a4bc89ff5eccb8a89a83450478af13.png"/>
+    </screenshots>
+    <test-step result="SUCCESS" duration="8553">
+      <screenshots>
+        <screenshot image="09a4bc89ff5eccb8a89a83450478af13.png"/>
+      </screenshots>
+      <description>Choose minyak goreng</description>
+    </test-step>
+  </test-group>
+  <test-group name="When I can see something" result="SUCCESS">
+    <screenshots>
+      <screenshot image="89db0afd539d049581c09470c2e9d5c9.png"/>
+    </screenshots>
+    <test-step result="SUCCESS" duration="1772">
+      <screenshots>
+        <screenshot image="bff4d7bdae20229ded2ef107d5bd7cc9.png"/>
+      </screenshots>
+      <description>Add minyak goreng to bag</description>
+    </test-step>
+    <test-step result="SUCCESS" duration="6672">
+      <screenshots>
+        <screenshot image="698fbec9b0e05e4a24f354c68cd39157.png"/>
+        <screenshot image="89db0afd539d049581c09470c2e9d5c9.png"/>
+      </screenshots>
+      <description>Go to bag page</description>
+    </test-step>
+  </test-group>
+  <test-group name="When Lanjutkan Pembayaran" result="SUCCESS">
+    <screenshots>
+      <screenshot image="1e24fa7da505d20eef07c10b7ff62017.png"/>
+    </screenshots>
+    <test-step result="SUCCESS" duration="810">
+      <screenshots>
+        <screenshot image="1e24fa7da505d20eef07c10b7ff62017.png"/>
+      </screenshots>
+      <description>Lanjutkan pembayaran</description>
+    </test-step>
+  </test-group>
+  <test-group name="When Pilih Internet Banking" result="SUCCESS">
+    <screenshots>
+      <screenshot image="51fad7a26d1b91a9046e4ffb2088e518.png"/>
+      <screenshot image="cafad1ba42479f50627f0c75ab5c5eb5.png"/>
+    </screenshots>
+    <test-step result="SUCCESS" duration="369">
+      <screenshots>
+        <screenshot image="ae8cd3e4dfa157d453ec77b09793111f.png"/>
+        <screenshot image="b73ed03de12331d18e6398cfb623a47c.png"/>
+      </screenshots>
+      <description>Choose internet banking</description>
+    </test-step>
+  </test-group>
+  <test-group name="When Pilih KlikBCA" result="SUCCESS">
+    <screenshots>
+      <screenshot image="309f91c7391f7e94fac9e5cb538ee222.png"/>
+    </screenshots>
+    <test-step result="SUCCESS" duration="670">
+      <screenshots>
+        <screenshot image="309f91c7391f7e94fac9e5cb538ee222.png"/>
+      </screenshots>
+      <description>Choose klik BCA</description>
+    </test-step>
+  </test-group>
+  <test-group name="When Input User BCA" result="SUCCESS">
+    <screenshots>
+      <screenshot image="876ee143cb10c4b309da2ef7c168a72a.png"/>
+    </screenshots>
+    <test-step result="SUCCESS" duration="656">
+      <screenshots>
+        <screenshot image="876ee143cb10c4b309da2ef7c168a72a.png"/>
+      </screenshots>
+      <description>Input user BCA</description>
+    </test-step>
+  </test-group>
+  <test-group name="When Bayar Sekarang" result="SUCCESS">
+    <screenshots>
+      <screenshot image="8963d4e61f92d47a51828b9784099820.png"/>
+    </screenshots>
+    <test-step result="SUCCESS" duration="666">
+      <screenshots>
+        <screenshot image="f0c8ee97f45e6b0e3d305282034025c0.png"/>
+      </screenshots>
+      <description>Bayar sekarang</description>
+    </test-step>
+  </test-group>
+  <test-group name="Then Go to Terima Kasih Page" result="SUCCESS">
+    <screenshots>
+      <screenshot image="ca473e8c3966a7a41b39e18b89d30347.png"/>
+    </screenshots>
+    <test-step result="SUCCESS" duration="469">
+      <screenshots>
+        <screenshot image="ca473e8c3966a7a41b39e18b89d30347.png"/>
+      </screenshots>
+      <description>Terima kasih page</description>
+    </test-step>
+  </test-group>
+</acceptance-test-run>

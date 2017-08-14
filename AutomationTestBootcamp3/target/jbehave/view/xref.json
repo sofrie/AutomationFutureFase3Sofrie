@@ -1,0 +1,22 @@
+{"xref": {
+  "whenMade": 1502713838172,
+  "createdBy": "JBehave",
+  "metaFilter": "-ignore",
+  "meta": [],
+  "stories": [
+    {
+      "description": "",
+      "narrative": "In order to be able to buy in blibli\nAs a customer\nI want to be able to buy prduct\n",
+      "name": "BlibliStory.story",
+      "path": "stories/consult_dictionary/BlibliStory.story",
+      "html": "stories.consult_dictionary.BlibliStory.html",
+      "meta": "",
+      "scenarios": "Scenario:Go to blibli site and login\nGiven open home page\nWhen I login to blibli\nWhen I search something\nWhen I choose something\nWhen I can see something\nWhen Lanjutkan Pembayaran\nWhen Pilih Internet Banking\nWhen Pilih KlikBCA\nWhen Input User BCA\nWhen Bayar Sekarang\nThen Go to Terima Kasih Page\n\n\n",
+      "passed": true,
+      "pending": false,
+      "started": 1502713775552,
+      "duration": 56482
+    }
+  ],
+  "stepMatches": []
+}}
